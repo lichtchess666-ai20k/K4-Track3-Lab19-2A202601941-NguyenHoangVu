@@ -1,0 +1,505 @@
+left_article_id,right_article_id,left_title,right_title,minhash_est,jaccard_true,decision
+26c22c308fb6716a3eda,cc60dc5511e323ac4d0a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,1.0,1.0,MERGE_NEAR_DUP
+d2f10b6eb420a221b002,e41e603c9b2b467c7a45,CereCore® expands healthcare technology services into the UK,CereCore expands healthcare technology services into the UK,1.0,1.0,MERGE_NEAR_DUP
+919a7d918c23097ae974,9cec56f34793ad5c585e,411 is going out of service for millions of Americans,411 is going out of service for millions of Americans,1.0,1.0,MERGE_NEAR_DUP
+42f24c797073748f73f8,e5ccd70f01654458127e,Sensormatic Solutions by Johnson Controls shares 2022 U.S. Super Saturday shopper traffic insights,Sensormatic Solutions by Johnson Controls shares 2022 U.S. Super Saturday shopper traffic insights,0.992,0.979,MERGE_NEAR_DUP
+8c5930949a3d9f3c3a38,8e58296629f84469cd8d,Samsung Showcases Groundbreaking Logic Innovations at System LSI Tech Day 2023,Samsung Showcases Groundbreaking Logic Innovations at System LSI Tech Day 2023,0.875,0.878,MERGE_NEAR_DUP
+c86b8357f117fa7f9444,c967562f9d4628db990c,Stock market today: Wall Street is mixed; Big Tech climbs,Stock market today: Wall Street is mixed; Big Tech climbs,0.883,0.878,MERGE_NEAR_DUP
+99e4dff966ca14987a42,e1dd933ce175e571f1fc,Knicks rally to beat Pacers 109-106 for 7th straight victory,Knicks rally to beat Pacers 109-106 for 7th straight victory,0.836,0.848,MERGE_NEAR_DUP
+e6090305820383267481,20900bb77008b0464c81,411 phone number is going out of service for millions of Americans,411 is going out of service for millions of Americans,0.828,0.839,MERGE_NEAR_DUP
+05a134c06ab008a9d52c,f88a9282762685bb8f9b,Fidelity National Information Services (FIS) Stock Moves -0.9%: What You Should Know,Fidelity National Information Services (FIS) Stock Moves -0.9%: What You Should Know,0.828,0.836,MERGE_NEAR_DUP
+201da7854b95e5ee4a3a,275fc1333cf98e260eec,L T Technology Services and Qualcomm Selected by Thales for Enabling 5G Private Networks in Urban Railways,L&T Technology Services and Qualcomm Selected by Thales for Enabling 5G Private Networks in Urban Railways,0.812,0.814,MERGE_NEAR_DUP
+ef887c1d851c608d9f68,0366643faf4dd2a89fa4,US announces criminal cases involving flow of technology information to Russia China and Iran,US Announces Criminal Cases Involving Flow of Technology Information to Russia China and Iran,0.836,0.809,MERGE_NEAR_DUP
+39768e8c3b99dc1c6c4d,2b70f26534cdf4d6db74,Information Services Group Inc. (NASDAQ:III) is a favorite amongst institutional investors who own 57%,Information Services Group Inc. (NASDAQ:III) is a favorite amongst institutional investors who own 57%,0.766,0.807,MERGE_NEAR_DUP
+91f9239890e39e4693bd,f7f78028c8d9e7fb131e,Why Operators Need a Full-Service Technology Partner,Restaurant Tech: Why Operators Need a Full-Service Technology Partner,0.812,0.792,REJECT_BELOW_THRESHOLD
+afd2ee3f8ae5a1336b9f,ef07f6b1f6d9c07e2c53,Esri Signs Agreement with Malta Providing Access to GIS Technology Training,Esri Signs Agreement with Malta Providing Access to GIS Technology Training,0.844,0.773,REJECT_BELOW_THRESHOLD
+1b8d3608ead7fc2c48c9,0366643faf4dd2a89fa4,US announces criminal cases involving flow of technology information to Russia China and Iran,US Announces Criminal Cases Involving Flow of Technology Information to Russia China and Iran,0.805,0.755,REJECT_BELOW_THRESHOLD
+ef887c1d851c608d9f68,1b8d3608ead7fc2c48c9,US announces criminal cases involving flow of technology information to Russia China and Iran,US announces criminal cases involving flow of technology information to Russia China and Iran,0.812,0.74,REJECT_BELOW_THRESHOLD
+651af17bd74fb2ccba83,55638a71fae384f0bf67,INFORMATION SERVICES GROUP INC,INFORMATION SERVICES GROUP INC,0.758,0.737,REJECT_BELOW_THRESHOLD
+75db116034e9fd215d90,765d876397ac2d356e44,Spam calls/texts have increased so can they be stopped?,Spam calls/texts have increased so can they be stopped?,0.789,0.732,REJECT_BELOW_THRESHOLD
+12ebdda3acda65d9fde8,22199b41d3b049e8847d,The Institution of Engineering and Technology (IET) successfully concludes IET Future Tech Congress 2022,The Institution of Engineering and Technology (IET) successfully concludes IET Future Tech Congress 2022,0.766,0.724,REJECT_BELOW_THRESHOLD
+fe34ec9a3ba086639dfc,5240d4cf74965bb413d5,Alight launches new behavioral health navigation services aimed at supporting individuals and families with complex or s,Alight launches new behavioral health navigation services aimed at supporting individuals and families with complex or s,0.617,0.724,REJECT_BELOW_THRESHOLD
+9e2741bfc879147586b8,7c889169918db54718d1,CBS Essentials: Tech,CBS Essentials: Tech,0.703,0.721,REJECT_BELOW_THRESHOLD
+566e41efa663f190cf11,275fc1333cf98e260eec,L&T Technology Services and Qualcomm Selected by Thales for Enabling 5G Private Networks in Urban Railways,L&T Technology Services and Qualcomm Selected by Thales for Enabling 5G Private Networks in Urban Railways,0.703,0.719,REJECT_BELOW_THRESHOLD
+f5b9b2db5e2a86cba4aa,cee0b66946783c1034f8,Dragos Launches OT Cyber Industry’s Only Global Partner Program to Span Technology Services Threat Intelligence and Trai,Dragos Launches OT Cyber Industry''s Only Global Partner Program to Span Technology Services Threat Intelligence and Tra,0.672,0.712,REJECT_BELOW_THRESHOLD
+411f0647ee35d5606ccf,3f6899586d375c51ec49,What are some of the latest trends and innovations in VPN technology and services?,What are some of the latest trends and innovations in VPN technology and services?,0.719,0.709,REJECT_BELOW_THRESHOLD
+a6c159434dd6874000e4,0a0ad3f14384e29b4550,UKG Celebrates 2022 Technology and Service Partners of the Year,UKG Celebrates 2022 Technology and Service Partners of the Year,0.688,0.686,REJECT_BELOW_THRESHOLD
+998148e82ea10ebc37df,3e96d9e861411783c0b2,Best VoIP Services (July 2023),Best VoIP Services (October 2023),0.664,0.673,REJECT_BELOW_THRESHOLD
+6ec376fffd2c56fef630,b432186d8fe246dc1fab,Exclusive: Amazon has drawn thousands to try its AI service competing with Microsoft Google,Amazon has drawn thousands to try its AI service competing with Microsoft Google,0.695,0.673,REJECT_BELOW_THRESHOLD
+a9df48fa83d9fa05d10e,322fbbb75965d1ba1636,Yonyou Auto Information Technology (Shanghai) Co. Ltd.,Information Services Group Inc.,0.648,0.672,REJECT_BELOW_THRESHOLD
+472078c40e5bc2233c3e,1416aab8b0ee28066c18,Degrees & Pathways,Human Services Technology: Addiction and Recovery Studies AAS,0.562,0.667,REJECT_BELOW_THRESHOLD
+a7999dfe2083f3bcbe52,2a7bd9de957ba2121ac2,Who keeps calling me? Look up numbers flagged as potential robocalls or spam,Who keeps calling me? Look up numbers flagged as potential robo-calls or spam,0.734,0.643,REJECT_BELOW_THRESHOLD
+b1b2414573452d6159d5,c54c2725c14b4818ee33,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.656,0.64,REJECT_BELOW_THRESHOLD
+7828f3c38a2a10f5de2f,4194c4c6e3c69084b2d7,Technology News,Technology News,0.578,0.618,REJECT_BELOW_THRESHOLD
+a2436c4b22553e3732da,6eae6b3fd841ddff337b,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.578,0.607,REJECT_BELOW_THRESHOLD
+d6d29b16f39947be1e00,5d1df43703396c12c3c2,Survival in the Skies: The Story of Stealth Technology,Survival in the Skies: The Story of Stealth Technology,0.602,0.603,REJECT_BELOW_THRESHOLD
+566e41efa663f190cf11,201da7854b95e5ee4a3a,L&T Technology Services and Qualcomm Selected by Thales for Enabling 5G Private Networks in Urban Railways,L T Technology Services and Qualcomm Selected by Thales for Enabling 5G Private Networks in Urban Railways,0.625,0.597,REJECT_BELOW_THRESHOLD
+203844f6e963c859799d,c97e991d82e0e0ee7f76,Australian Firms Embrace Hybrid Clouds for Transformation,Cautious U.S. Firms Still Seeking Benefits of Hybrid Clouds,0.586,0.59,REJECT_BELOW_THRESHOLD
+203844f6e963c859799d,28efd30332488898acff,Australian Firms Embrace Hybrid Clouds for Transformation,More Brazilian Firms Are Turning to Hybrid Clouds for Help,0.57,0.59,REJECT_BELOW_THRESHOLD
+6b2df96f0e83997db38c,ab151b6a1adfb5f2f0cc,Truescope Acquires US Firm Universal Information Services,Truescope Acquires US Firm Universal Information Services,0.594,0.587,REJECT_BELOW_THRESHOLD
+6ad221038b55e5761235,2f39ee8590d469950fe3,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.539,0.586,REJECT_BELOW_THRESHOLD
+8a3b0624e680026f182a,2f39ee8590d469950fe3,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.555,0.586,REJECT_BELOW_THRESHOLD
+8a3b0624e680026f182a,6ad221038b55e5761235,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.578,0.586,REJECT_BELOW_THRESHOLD
+8d235c4d8e054e357053,961b46749d62312d2da3,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.609,0.581,REJECT_BELOW_THRESHOLD
+22857833ec539a7f5b6a,b79b5e1921c2c3b1c734,Culture Biosciences Focuses Technology and Service Platform on Biologics,Culture Biosciences Focuses Technology and Service Platform on Biologics,0.625,0.574,REJECT_BELOW_THRESHOLD
+bd48a7eaf9ea4b1f88e7,6ad221038b55e5761235,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.562,0.567,REJECT_BELOW_THRESHOLD
+8a3b0624e680026f182a,bd48a7eaf9ea4b1f88e7,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.594,0.567,REJECT_BELOW_THRESHOLD
+28efd30332488898acff,c97e991d82e0e0ee7f76,More Brazilian Firms Are Turning to Hybrid Clouds for Help,Cautious U.S. Firms Still Seeking Benefits of Hybrid Clouds,0.562,0.562,REJECT_BELOW_THRESHOLD
+a7d80e1e8a20d2a98b74,ade2950ccd87a19f1f44,New technology jobs needed for AI,New technology jobs needed for AI,0.68,0.561,REJECT_BELOW_THRESHOLD
+acaa1c519bba831fad38,f28e6315b8ada0e6dc99,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.562,0.56,REJECT_BELOW_THRESHOLD
+f28e6315b8ada0e6dc99,b1b2414573452d6159d5,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.562,0.56,REJECT_BELOW_THRESHOLD
+f9038f2ec250a401856d,f28e6315b8ada0e6dc99,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.555,0.56,REJECT_BELOW_THRESHOLD
+f28e6315b8ada0e6dc99,4d92665869f1d0de55c8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.531,0.56,REJECT_BELOW_THRESHOLD
+e935f45e2660340235ae,c458c1e4e944f1d050d8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.578,0.556,REJECT_BELOW_THRESHOLD
+f68d73ba394af7c4dd04,c458c1e4e944f1d050d8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.641,0.556,REJECT_BELOW_THRESHOLD
+f68d73ba394af7c4dd04,e935f45e2660340235ae,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.602,0.556,REJECT_BELOW_THRESHOLD
+7e83d36ea26ad812c461,0ffe34aa9ecb46715e15,CUPP to Service Chiefs: Adopt technology strategy to tackle Nigeria’s security challenges,CUPP to New Service Chiefs: Adopt technology strategy to tackle security challenges,0.586,0.549,REJECT_BELOW_THRESHOLD
+aae0cde6aa5936507114,275fc1333cf98e260eec,L&T Technology Services and Qualcomm Selected by Thales for Enabling 5G Private Networks in Urban Railways,L&T Technology Services and Qualcomm Selected by Thales for Enabling 5G Private Networks in Urban Railways,0.523,0.547,REJECT_BELOW_THRESHOLD
+1b155489730cbc77b235,d2110f11668c8fddde70,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.586,0.543,REJECT_BELOW_THRESHOLD
+f28e6315b8ada0e6dc99,b30325ba29700fbef711,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.555,0.538,REJECT_BELOW_THRESHOLD
+f28e6315b8ada0e6dc99,c54c2725c14b4818ee33,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.555,0.538,REJECT_BELOW_THRESHOLD
+f9038f2ec250a401856d,acaa1c519bba831fad38,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.492,0.538,REJECT_BELOW_THRESHOLD
+0d10d98d78ebdee59f4d,f28e6315b8ada0e6dc99,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.555,0.538,REJECT_BELOW_THRESHOLD
+acaa1c519bba831fad38,b1b2414573452d6159d5,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.492,0.538,REJECT_BELOW_THRESHOLD
+f28e6315b8ada0e6dc99,2524fa44ed0cdb8a148b,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.562,0.538,REJECT_BELOW_THRESHOLD
+acaa1c519bba831fad38,4d92665869f1d0de55c8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.484,0.538,REJECT_BELOW_THRESHOLD
+f28e6315b8ada0e6dc99,0e036f6c0f3fbd1388a2,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.586,0.538,REJECT_BELOW_THRESHOLD
+f9038f2ec250a401856d,4d92665869f1d0de55c8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.477,0.538,REJECT_BELOW_THRESHOLD
+4d92665869f1d0de55c8,b1b2414573452d6159d5,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.531,0.538,REJECT_BELOW_THRESHOLD
+f9038f2ec250a401856d,b1b2414573452d6159d5,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.539,0.538,REJECT_BELOW_THRESHOLD
+14d1a019718a11937f3d,3a873201cb4aae487900,JFrog Welcomes Seasoned Technology and Security Leader Aran Azarzar as Chief Information Officer,JFrog Welcomes Seasoned Technology and Security Leader Aran Azarzar as Chief Information Officer,0.562,0.537,REJECT_BELOW_THRESHOLD
+a2436c4b22553e3732da,e935f45e2660340235ae,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.531,0.536,REJECT_BELOW_THRESHOLD
+589fb0d33079c529cdc2,c458c1e4e944f1d050d8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.641,0.536,REJECT_BELOW_THRESHOLD
+c458c1e4e944f1d050d8,db7e73c12b9bb118c90a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.57,0.536,REJECT_BELOW_THRESHOLD
+f68d73ba394af7c4dd04,909d6eadd23414284d7c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.625,0.536,REJECT_BELOW_THRESHOLD
+909d6eadd23414284d7c,c458c1e4e944f1d050d8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.586,0.536,REJECT_BELOW_THRESHOLD
+f68d73ba394af7c4dd04,0856d5131960b8f1c515,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.547,0.536,REJECT_BELOW_THRESHOLD
+c458c1e4e944f1d050d8,f4d21b2999c3b2bfe617,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.617,0.536,REJECT_BELOW_THRESHOLD
+f68d73ba394af7c4dd04,d7180e9816d49351f73b,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.641,0.536,REJECT_BELOW_THRESHOLD
+e6f7894d49ccbaf1c246,e935f45e2660340235ae,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.531,0.536,REJECT_BELOW_THRESHOLD
+f68d73ba394af7c4dd04,d43bd8a8ed3b1d67e014,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.602,0.536,REJECT_BELOW_THRESHOLD
+0856d5131960b8f1c515,c458c1e4e944f1d050d8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.516,0.536,REJECT_BELOW_THRESHOLD
+f68d73ba394af7c4dd04,db7e73c12b9bb118c90a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.633,0.536,REJECT_BELOW_THRESHOLD
+e6f7894d49ccbaf1c246,c458c1e4e944f1d050d8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.547,0.536,REJECT_BELOW_THRESHOLD
+d43bd8a8ed3b1d67e014,e935f45e2660340235ae,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.547,0.536,REJECT_BELOW_THRESHOLD
+589fb0d33079c529cdc2,e935f45e2660340235ae,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.586,0.536,REJECT_BELOW_THRESHOLD
+d43bd8a8ed3b1d67e014,c458c1e4e944f1d050d8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.594,0.536,REJECT_BELOW_THRESHOLD
+589fb0d33079c529cdc2,f68d73ba394af7c4dd04,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.633,0.536,REJECT_BELOW_THRESHOLD
+d7180e9816d49351f73b,c458c1e4e944f1d050d8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.609,0.536,REJECT_BELOW_THRESHOLD
+d7180e9816d49351f73b,e935f45e2660340235ae,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.555,0.536,REJECT_BELOW_THRESHOLD
+a2436c4b22553e3732da,f68d73ba394af7c4dd04,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.609,0.536,REJECT_BELOW_THRESHOLD
+a2436c4b22553e3732da,c458c1e4e944f1d050d8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.594,0.536,REJECT_BELOW_THRESHOLD
+f68d73ba394af7c4dd04,f4d21b2999c3b2bfe617,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.664,0.536,REJECT_BELOW_THRESHOLD
+f68d73ba394af7c4dd04,e6f7894d49ccbaf1c246,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.602,0.536,REJECT_BELOW_THRESHOLD
+e935f45e2660340235ae,0856d5131960b8f1c515,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.469,0.536,REJECT_BELOW_THRESHOLD
+e935f45e2660340235ae,f4d21b2999c3b2bfe617,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.578,0.536,REJECT_BELOW_THRESHOLD
+f68d73ba394af7c4dd04,313601a28f50fe15b768,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.656,0.536,REJECT_BELOW_THRESHOLD
+c458c1e4e944f1d050d8,313601a28f50fe15b768,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.625,0.536,REJECT_BELOW_THRESHOLD
+e935f45e2660340235ae,909d6eadd23414284d7c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.547,0.536,REJECT_BELOW_THRESHOLD
+4ad17b3be2e57846a1c4,c93d6f80c1e7abeeaa68,To provide information about Cloud services and infrastructure: SSAC FOI response,Connect to a supported accommodation service (SC2),0.648,0.536,REJECT_BELOW_THRESHOLD
+e935f45e2660340235ae,313601a28f50fe15b768,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.57,0.536,REJECT_BELOW_THRESHOLD
+e935f45e2660340235ae,db7e73c12b9bb118c90a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.531,0.536,REJECT_BELOW_THRESHOLD
+548f9b6ed8c22a655219,ee41b0fbf28ea5f62ca2,Tech industry job cuts come rapidly and in big numbers,Tech industry job cuts come rapidly and in big numbers,0.477,0.534,REJECT_BELOW_THRESHOLD
+8a3b0624e680026f182a,5e977119cd7854b81530,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.562,0.531,REJECT_BELOW_THRESHOLD
+5e977119cd7854b81530,6ad221038b55e5761235,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.531,0.531,REJECT_BELOW_THRESHOLD
+5e977119cd7854b81530,2f39ee8590d469950fe3,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.523,0.531,REJECT_BELOW_THRESHOLD
+7aad67662ef80950d7d9,d7a21fe663c39b202f8d,Best Live TV Streaming Service for Cord Cutters in 2023,How We Test Products and Services,0.484,0.529,REJECT_BELOW_THRESHOLD
+2de10af6d70294ea0b7e,2b7b0468e6e1a23be9e0,Securing the Information and Communications Technology and Services Supply Chain; Connected Software Applications,Request for Information on Equitable Delivery of Climate Services,0.492,0.524,REJECT_BELOW_THRESHOLD
+0d10d98d78ebdee59f4d,4d92665869f1d0de55c8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.477,0.519,REJECT_BELOW_THRESHOLD
+0e036f6c0f3fbd1388a2,4d92665869f1d0de55c8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.5,0.519,REJECT_BELOW_THRESHOLD
+acaa1c519bba831fad38,0d10d98d78ebdee59f4d,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.516,0.519,REJECT_BELOW_THRESHOLD
+b1b2414573452d6159d5,1f566779532ad62fb27c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.492,0.519,REJECT_BELOW_THRESHOLD
+f9038f2ec250a401856d,b30325ba29700fbef711,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.469,0.519,REJECT_BELOW_THRESHOLD
+acaa1c519bba831fad38,0e036f6c0f3fbd1388a2,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.547,0.519,REJECT_BELOW_THRESHOLD
+2524fa44ed0cdb8a148b,4d92665869f1d0de55c8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.492,0.519,REJECT_BELOW_THRESHOLD
+f9038f2ec250a401856d,0e036f6c0f3fbd1388a2,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.516,0.519,REJECT_BELOW_THRESHOLD
+0e036f6c0f3fbd1388a2,b1b2414573452d6159d5,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.555,0.519,REJECT_BELOW_THRESHOLD
+b30325ba29700fbef711,4d92665869f1d0de55c8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.492,0.519,REJECT_BELOW_THRESHOLD
+acaa1c519bba831fad38,1f566779532ad62fb27c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.492,0.519,REJECT_BELOW_THRESHOLD
+b30325ba29700fbef711,b1b2414573452d6159d5,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.484,0.519,REJECT_BELOW_THRESHOLD
+f9038f2ec250a401856d,c54c2725c14b4818ee33,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.531,0.519,REJECT_BELOW_THRESHOLD
+acaa1c519bba831fad38,c54c2725c14b4818ee33,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.523,0.519,REJECT_BELOW_THRESHOLD
+acaa1c519bba831fad38,2524fa44ed0cdb8a148b,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.516,0.519,REJECT_BELOW_THRESHOLD
+f28e6315b8ada0e6dc99,551767664c939a4dd75e,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.5,0.519,REJECT_BELOW_THRESHOLD
+2524fa44ed0cdb8a148b,b1b2414573452d6159d5,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.508,0.519,REJECT_BELOW_THRESHOLD
+acaa1c519bba831fad38,b30325ba29700fbef711,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.469,0.519,REJECT_BELOW_THRESHOLD
+f9038f2ec250a401856d,0d10d98d78ebdee59f4d,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.516,0.519,REJECT_BELOW_THRESHOLD
+4d92665869f1d0de55c8,c54c2725c14b4818ee33,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.523,0.519,REJECT_BELOW_THRESHOLD
+f9038f2ec250a401856d,2524fa44ed0cdb8a148b,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.531,0.519,REJECT_BELOW_THRESHOLD
+0d10d98d78ebdee59f4d,b1b2414573452d6159d5,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.547,0.519,REJECT_BELOW_THRESHOLD
+a2436c4b22553e3732da,909d6eadd23414284d7c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.57,0.517,REJECT_BELOW_THRESHOLD
+d7180e9816d49351f73b,0856d5131960b8f1c515,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.492,0.517,REJECT_BELOW_THRESHOLD
+a2436c4b22553e3732da,db7e73c12b9bb118c90a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.57,0.517,REJECT_BELOW_THRESHOLD
+f4d21b2999c3b2bfe617,db7e73c12b9bb118c90a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.617,0.517,REJECT_BELOW_THRESHOLD
+dfdbbea8ce27c2e13ff4,e935f45e2660340235ae,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.484,0.517,REJECT_BELOW_THRESHOLD
+db7e73c12b9bb118c90a,313601a28f50fe15b768,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.578,0.517,REJECT_BELOW_THRESHOLD
+dfdbbea8ce27c2e13ff4,c458c1e4e944f1d050d8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.523,0.517,REJECT_BELOW_THRESHOLD
+a2436c4b22553e3732da,f4d21b2999c3b2bfe617,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.594,0.517,REJECT_BELOW_THRESHOLD
+f4d21b2999c3b2bfe617,313601a28f50fe15b768,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.625,0.517,REJECT_BELOW_THRESHOLD
+566e41efa663f190cf11,aae0cde6aa5936507114,L&T Technology Services and Qualcomm Selected by Thales for Enabling 5G Private Networks in Urban Railways,L&T Technology Services and Qualcomm Selected by Thales for Enabling 5G Private Networks in Urban Railways,0.555,0.517,REJECT_BELOW_THRESHOLD
+d43bd8a8ed3b1d67e014,0856d5131960b8f1c515,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.516,0.517,REJECT_BELOW_THRESHOLD
+d43bd8a8ed3b1d67e014,313601a28f50fe15b768,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.602,0.517,REJECT_BELOW_THRESHOLD
+e6f7894d49ccbaf1c246,909d6eadd23414284d7c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.562,0.517,REJECT_BELOW_THRESHOLD
+f68d73ba394af7c4dd04,8be17cd8880e578211d9,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.578,0.517,REJECT_BELOW_THRESHOLD
+f68d73ba394af7c4dd04,0c264824e1ba91c29760,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.633,0.517,REJECT_BELOW_THRESHOLD
+e6f7894d49ccbaf1c246,d43bd8a8ed3b1d67e014,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.578,0.517,REJECT_BELOW_THRESHOLD
+6eae6b3fd841ddff337b,c458c1e4e944f1d050d8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.586,0.517,REJECT_BELOW_THRESHOLD
+e6f7894d49ccbaf1c246,d7180e9816d49351f73b,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.539,0.517,REJECT_BELOW_THRESHOLD
+f68d73ba394af7c4dd04,dfdbbea8ce27c2e13ff4,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.562,0.517,REJECT_BELOW_THRESHOLD
+e6f7894d49ccbaf1c246,0856d5131960b8f1c515,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.484,0.517,REJECT_BELOW_THRESHOLD
+f68d73ba394af7c4dd04,6eae6b3fd841ddff337b,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.609,0.517,REJECT_BELOW_THRESHOLD
+6eae6b3fd841ddff337b,e935f45e2660340235ae,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.539,0.517,REJECT_BELOW_THRESHOLD
+d43bd8a8ed3b1d67e014,db7e73c12b9bb118c90a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.586,0.517,REJECT_BELOW_THRESHOLD
+e6f7894d49ccbaf1c246,f4d21b2999c3b2bfe617,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.594,0.517,REJECT_BELOW_THRESHOLD
+e6f7894d49ccbaf1c246,db7e73c12b9bb118c90a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.57,0.517,REJECT_BELOW_THRESHOLD
+e6f7894d49ccbaf1c246,313601a28f50fe15b768,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.57,0.517,REJECT_BELOW_THRESHOLD
+d43bd8a8ed3b1d67e014,d7180e9816d49351f73b,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.555,0.517,REJECT_BELOW_THRESHOLD
+8be17cd8880e578211d9,c458c1e4e944f1d050d8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.57,0.517,REJECT_BELOW_THRESHOLD
+d43bd8a8ed3b1d67e014,909d6eadd23414284d7c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.562,0.517,REJECT_BELOW_THRESHOLD
+0c264824e1ba91c29760,c458c1e4e944f1d050d8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.594,0.517,REJECT_BELOW_THRESHOLD
+d43bd8a8ed3b1d67e014,f4d21b2999c3b2bfe617,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.594,0.517,REJECT_BELOW_THRESHOLD
+a2436c4b22553e3732da,0856d5131960b8f1c515,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.492,0.517,REJECT_BELOW_THRESHOLD
+a2436c4b22553e3732da,313601a28f50fe15b768,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.562,0.517,REJECT_BELOW_THRESHOLD
+a2436c4b22553e3732da,d7180e9816d49351f73b,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.523,0.517,REJECT_BELOW_THRESHOLD
+589fb0d33079c529cdc2,909d6eadd23414284d7c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.602,0.517,REJECT_BELOW_THRESHOLD
+589fb0d33079c529cdc2,d43bd8a8ed3b1d67e014,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.547,0.517,REJECT_BELOW_THRESHOLD
+589fb0d33079c529cdc2,d7180e9816d49351f73b,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.594,0.517,REJECT_BELOW_THRESHOLD
+909d6eadd23414284d7c,313601a28f50fe15b768,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.609,0.517,REJECT_BELOW_THRESHOLD
+909d6eadd23414284d7c,db7e73c12b9bb118c90a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.586,0.517,REJECT_BELOW_THRESHOLD
+8500b53d4383f5739671,c458c1e4e944f1d050d8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.586,0.517,REJECT_BELOW_THRESHOLD
+8500b53d4383f5739671,f68d73ba394af7c4dd04,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.594,0.517,REJECT_BELOW_THRESHOLD
+589fb0d33079c529cdc2,0856d5131960b8f1c515,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.508,0.517,REJECT_BELOW_THRESHOLD
+909d6eadd23414284d7c,f4d21b2999c3b2bfe617,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.609,0.517,REJECT_BELOW_THRESHOLD
+e935f45e2660340235ae,0c264824e1ba91c29760,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.539,0.517,REJECT_BELOW_THRESHOLD
+589fb0d33079c529cdc2,e6f7894d49ccbaf1c246,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.562,0.517,REJECT_BELOW_THRESHOLD
+e935f45e2660340235ae,8be17cd8880e578211d9,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.477,0.517,REJECT_BELOW_THRESHOLD
+589fb0d33079c529cdc2,f4d21b2999c3b2bfe617,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.609,0.517,REJECT_BELOW_THRESHOLD
+589fb0d33079c529cdc2,db7e73c12b9bb118c90a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.578,0.517,REJECT_BELOW_THRESHOLD
+589fb0d33079c529cdc2,313601a28f50fe15b768,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.617,0.517,REJECT_BELOW_THRESHOLD
+0856d5131960b8f1c515,909d6eadd23414284d7c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.508,0.517,REJECT_BELOW_THRESHOLD
+0856d5131960b8f1c515,313601a28f50fe15b768,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.531,0.517,REJECT_BELOW_THRESHOLD
+0856d5131960b8f1c515,db7e73c12b9bb118c90a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.547,0.517,REJECT_BELOW_THRESHOLD
+0856d5131960b8f1c515,f4d21b2999c3b2bfe617,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.523,0.517,REJECT_BELOW_THRESHOLD
+d7180e9816d49351f73b,db7e73c12b9bb118c90a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.547,0.517,REJECT_BELOW_THRESHOLD
+8500b53d4383f5739671,e935f45e2660340235ae,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.531,0.517,REJECT_BELOW_THRESHOLD
+d7180e9816d49351f73b,313601a28f50fe15b768,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.617,0.517,REJECT_BELOW_THRESHOLD
+589fb0d33079c529cdc2,a2436c4b22553e3732da,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.594,0.517,REJECT_BELOW_THRESHOLD
+a2436c4b22553e3732da,d43bd8a8ed3b1d67e014,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.539,0.517,REJECT_BELOW_THRESHOLD
+d7180e9816d49351f73b,909d6eadd23414284d7c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.578,0.517,REJECT_BELOW_THRESHOLD
+a2436c4b22553e3732da,e6f7894d49ccbaf1c246,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.586,0.517,REJECT_BELOW_THRESHOLD
+d7180e9816d49351f73b,f4d21b2999c3b2bfe617,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.609,0.517,REJECT_BELOW_THRESHOLD
+2b7b0468e6e1a23be9e0,f3b662659ccf8d3b9172,Request for Information on Equitable Delivery of Climate Services,Information Technology and Telecommunications Guidelines for Federal Telework and Other Alternative Workplace Arrangemen,0.492,0.516,REJECT_BELOW_THRESHOLD
+bd48a7eaf9ea4b1f88e7,5e977119cd7854b81530,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.562,0.515,REJECT_BELOW_THRESHOLD
+b30325ba29700fbef711,1f566779532ad62fb27c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.516,0.5,REJECT_BELOW_THRESHOLD
+b30325ba29700fbef711,c54c2725c14b4818ee33,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.5,0.5,REJECT_BELOW_THRESHOLD
+909d6eadd23414284d7c,8be17cd8880e578211d9,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.523,0.5,REJECT_BELOW_THRESHOLD
+0d10d98d78ebdee59f4d,b30325ba29700fbef711,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.5,0.5,REJECT_BELOW_THRESHOLD
+589fb0d33079c529cdc2,0c264824e1ba91c29760,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.578,0.5,REJECT_BELOW_THRESHOLD
+589fb0d33079c529cdc2,8be17cd8880e578211d9,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.539,0.5,REJECT_BELOW_THRESHOLD
+6eae6b3fd841ddff337b,313601a28f50fe15b768,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.594,0.5,REJECT_BELOW_THRESHOLD
+909d6eadd23414284d7c,0c264824e1ba91c29760,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.57,0.5,REJECT_BELOW_THRESHOLD
+6eae6b3fd841ddff337b,db7e73c12b9bb118c90a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.547,0.5,REJECT_BELOW_THRESHOLD
+e6f7894d49ccbaf1c246,dfdbbea8ce27c2e13ff4,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.523,0.5,REJECT_BELOW_THRESHOLD
+8500b53d4383f5739671,a2436c4b22553e3732da,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.531,0.5,REJECT_BELOW_THRESHOLD
+d7180e9816d49351f73b,8be17cd8880e578211d9,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.547,0.5,REJECT_BELOW_THRESHOLD
+f9038f2ec250a401856d,551767664c939a4dd75e,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.477,0.5,REJECT_BELOW_THRESHOLD
+6eae6b3fd841ddff337b,f4d21b2999c3b2bfe617,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.602,0.5,REJECT_BELOW_THRESHOLD
+551767664c939a4dd75e,b1b2414573452d6159d5,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.492,0.5,REJECT_BELOW_THRESHOLD
+0d10d98d78ebdee59f4d,2524fa44ed0cdb8a148b,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.547,0.5,REJECT_BELOW_THRESHOLD
+f22b2a84c7f94b9464c0,bbf7fe5d6b504c8f783c,Friday Sector Laggards: Services Technology & Communications,Wednesday Sector Laggards: Services Technology & Communications,0.492,0.5,REJECT_BELOW_THRESHOLD
+6eae6b3fd841ddff337b,e6f7894d49ccbaf1c246,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.562,0.5,REJECT_BELOW_THRESHOLD
+7bd101a9525bf2c7c0eb,67e9f8addb2e18f6373a,Hospital computer systems in 5 states hit by cyberattack,Hospital computer system in Texas hit by cyberattack,0.469,0.5,REJECT_BELOW_THRESHOLD
+0856d5131960b8f1c515,8be17cd8880e578211d9,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.492,0.5,REJECT_BELOW_THRESHOLD
+f28e6315b8ada0e6dc99,6ad221038b55e5761235,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.484,0.5,REJECT_BELOW_THRESHOLD
+a2436c4b22553e3732da,0c264824e1ba91c29760,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.57,0.5,REJECT_BELOW_THRESHOLD
+a2436c4b22553e3732da,8be17cd8880e578211d9,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.523,0.5,REJECT_BELOW_THRESHOLD
+0e036f6c0f3fbd1388a2,c54c2725c14b4818ee33,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.555,0.5,REJECT_BELOW_THRESHOLD
+0e036f6c0f3fbd1388a2,1f566779532ad62fb27c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.516,0.5,REJECT_BELOW_THRESHOLD
+6eae6b3fd841ddff337b,d43bd8a8ed3b1d67e014,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.539,0.5,REJECT_BELOW_THRESHOLD
+589fb0d33079c529cdc2,6eae6b3fd841ddff337b,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.594,0.5,REJECT_BELOW_THRESHOLD
+6eae6b3fd841ddff337b,d7180e9816d49351f73b,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.555,0.5,REJECT_BELOW_THRESHOLD
+0d10d98d78ebdee59f4d,c54c2725c14b4818ee33,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.547,0.5,REJECT_BELOW_THRESHOLD
+6eae6b3fd841ddff337b,909d6eadd23414284d7c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.555,0.5,REJECT_BELOW_THRESHOLD
+0d10d98d78ebdee59f4d,1f566779532ad62fb27c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.477,0.5,REJECT_BELOW_THRESHOLD
+589fb0d33079c529cdc2,8500b53d4383f5739671,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.578,0.5,REJECT_BELOW_THRESHOLD
+0d10d98d78ebdee59f4d,0e036f6c0f3fbd1388a2,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.555,0.5,REJECT_BELOW_THRESHOLD
+d7180e9816d49351f73b,0c264824e1ba91c29760,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.555,0.5,REJECT_BELOW_THRESHOLD
+2524fa44ed0cdb8a148b,c54c2725c14b4818ee33,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.508,0.5,REJECT_BELOW_THRESHOLD
+dfdbbea8ce27c2e13ff4,f4d21b2999c3b2bfe617,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.547,0.5,REJECT_BELOW_THRESHOLD
+8be17cd8880e578211d9,f4d21b2999c3b2bfe617,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.57,0.5,REJECT_BELOW_THRESHOLD
+acaa1c519bba831fad38,551767664c939a4dd75e,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.469,0.5,REJECT_BELOW_THRESHOLD
+8be17cd8880e578211d9,db7e73c12b9bb118c90a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.555,0.5,REJECT_BELOW_THRESHOLD
+d43bd8a8ed3b1d67e014,dfdbbea8ce27c2e13ff4,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.539,0.5,REJECT_BELOW_THRESHOLD
+8500b53d4383f5739671,f4d21b2999c3b2bfe617,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.57,0.5,REJECT_BELOW_THRESHOLD
+8500b53d4383f5739671,db7e73c12b9bb118c90a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.547,0.5,REJECT_BELOW_THRESHOLD
+8500b53d4383f5739671,313601a28f50fe15b768,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.547,0.5,REJECT_BELOW_THRESHOLD
+8500b53d4383f5739671,e6f7894d49ccbaf1c246,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.539,0.5,REJECT_BELOW_THRESHOLD
+42783172562d380902ba,92ad797cdb054c3932de,Fidelity National Information Services Inc. declares $0.52 dividend,Givex Information Technology Group reports Q4 results,0.461,0.5,REJECT_BELOW_THRESHOLD
+589fb0d33079c529cdc2,dfdbbea8ce27c2e13ff4,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.547,0.5,REJECT_BELOW_THRESHOLD
+dfdbbea8ce27c2e13ff4,313601a28f50fe15b768,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.555,0.5,REJECT_BELOW_THRESHOLD
+0c264824e1ba91c29760,313601a28f50fe15b768,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.602,0.5,REJECT_BELOW_THRESHOLD
+d43bd8a8ed3b1d67e014,0c264824e1ba91c29760,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.57,0.5,REJECT_BELOW_THRESHOLD
+b30325ba29700fbef711,2524fa44ed0cdb8a148b,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.492,0.5,REJECT_BELOW_THRESHOLD
+d43bd8a8ed3b1d67e014,8be17cd8880e578211d9,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.531,0.5,REJECT_BELOW_THRESHOLD
+2524fa44ed0cdb8a148b,0e036f6c0f3fbd1388a2,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.547,0.5,REJECT_BELOW_THRESHOLD
+8be17cd8880e578211d9,313601a28f50fe15b768,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.547,0.5,REJECT_BELOW_THRESHOLD
+b30325ba29700fbef711,0e036f6c0f3fbd1388a2,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.547,0.5,REJECT_BELOW_THRESHOLD
+8a3b0624e680026f182a,f28e6315b8ada0e6dc99,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.508,0.5,REJECT_BELOW_THRESHOLD
+2524fa44ed0cdb8a148b,1f566779532ad62fb27c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.492,0.5,REJECT_BELOW_THRESHOLD
+dfdbbea8ce27c2e13ff4,d7180e9816d49351f73b,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.516,0.5,REJECT_BELOW_THRESHOLD
+dfdbbea8ce27c2e13ff4,db7e73c12b9bb118c90a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.516,0.5,REJECT_BELOW_THRESHOLD
+8500b53d4383f5739671,909d6eadd23414284d7c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.555,0.5,REJECT_BELOW_THRESHOLD
+8500b53d4383f5739671,0856d5131960b8f1c515,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.477,0.5,REJECT_BELOW_THRESHOLD
+e6f7894d49ccbaf1c246,8be17cd8880e578211d9,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.523,0.5,REJECT_BELOW_THRESHOLD
+a2436c4b22553e3732da,dfdbbea8ce27c2e13ff4,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.539,0.5,REJECT_BELOW_THRESHOLD
+1f566779532ad62fb27c,c54c2725c14b4818ee33,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.5,0.5,REJECT_BELOW_THRESHOLD
+8500b53d4383f5739671,d7180e9816d49351f73b,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.539,0.5,REJECT_BELOW_THRESHOLD
+dfdbbea8ce27c2e13ff4,909d6eadd23414284d7c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.523,0.5,REJECT_BELOW_THRESHOLD
+dfdbbea8ce27c2e13ff4,0856d5131960b8f1c515,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.492,0.5,REJECT_BELOW_THRESHOLD
+e6f7894d49ccbaf1c246,0c264824e1ba91c29760,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.578,0.5,REJECT_BELOW_THRESHOLD
+8500b53d4383f5739671,d43bd8a8ed3b1d67e014,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.531,0.5,REJECT_BELOW_THRESHOLD
+2de10af6d70294ea0b7e,f3b662659ccf8d3b9172,Securing the Information and Communications Technology and Services Supply Chain; Connected Software Applications,Information Technology and Telecommunications Guidelines for Federal Telework and Other Alternative Workplace Arrangemen,0.5,0.485,REJECT_BELOW_THRESHOLD
+8a3b0624e680026f182a,bef7f8f727307ac3f1cf,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.555,0.484,REJECT_BELOW_THRESHOLD
+6eae6b3fd841ddff337b,dfdbbea8ce27c2e13ff4,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.516,0.484,REJECT_BELOW_THRESHOLD
+8500b53d4383f5739671,6eae6b3fd841ddff337b,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.547,0.484,REJECT_BELOW_THRESHOLD
+bef7f8f727307ac3f1cf,6ad221038b55e5761235,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.516,0.484,REJECT_BELOW_THRESHOLD
+6eae6b3fd841ddff337b,0c264824e1ba91c29760,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.578,0.484,REJECT_BELOW_THRESHOLD
+6eae6b3fd841ddff337b,8be17cd8880e578211d9,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.523,0.484,REJECT_BELOW_THRESHOLD
+8500b53d4383f5739671,8be17cd8880e578211d9,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.484,0.484,REJECT_BELOW_THRESHOLD
+8500b53d4383f5739671,0c264824e1ba91c29760,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.555,0.484,REJECT_BELOW_THRESHOLD
+8500b53d4383f5739671,dfdbbea8ce27c2e13ff4,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.508,0.484,REJECT_BELOW_THRESHOLD
+dfdbbea8ce27c2e13ff4,8be17cd8880e578211d9,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.516,0.484,REJECT_BELOW_THRESHOLD
+b1b2414573452d6159d5,6ad221038b55e5761235,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.461,0.483,REJECT_BELOW_THRESHOLD
+b30325ba29700fbef711,551767664c939a4dd75e,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.508,0.483,REJECT_BELOW_THRESHOLD
+b1b2414573452d6159d5,2f39ee8590d469950fe3,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.406,0.483,REJECT_BELOW_THRESHOLD
+551767664c939a4dd75e,c54c2725c14b4818ee33,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.516,0.483,REJECT_BELOW_THRESHOLD
+551767664c939a4dd75e,1f566779532ad62fb27c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.469,0.483,REJECT_BELOW_THRESHOLD
+551767664c939a4dd75e,0e036f6c0f3fbd1388a2,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.508,0.483,REJECT_BELOW_THRESHOLD
+0d10d98d78ebdee59f4d,551767664c939a4dd75e,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.453,0.483,REJECT_BELOW_THRESHOLD
+acaa1c519bba831fad38,8a3b0624e680026f182a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.477,0.483,REJECT_BELOW_THRESHOLD
+f9038f2ec250a401856d,8a3b0624e680026f182a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.445,0.483,REJECT_BELOW_THRESHOLD
+acaa1c519bba831fad38,6ad221038b55e5761235,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.453,0.483,REJECT_BELOW_THRESHOLD
+f9038f2ec250a401856d,6ad221038b55e5761235,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.453,0.483,REJECT_BELOW_THRESHOLD
+bd48a7eaf9ea4b1f88e7,f28e6315b8ada0e6dc99,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.484,0.483,REJECT_BELOW_THRESHOLD
+f28e6315b8ada0e6dc99,cc60dc5511e323ac4d0a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.523,0.478,REJECT_BELOW_THRESHOLD
+26c22c308fb6716a3eda,f28e6315b8ada0e6dc99,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.523,0.478,REJECT_BELOW_THRESHOLD
+a4488fa028dfe623647c,6ad221038b55e5761235,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.469,0.472,REJECT_BELOW_THRESHOLD
+6ad221038b55e5761235,cbb9de639f32550af455,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.438,0.472,REJECT_BELOW_THRESHOLD
+2f39ee8590d469950fe3,cbb9de639f32550af455,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.445,0.472,REJECT_BELOW_THRESHOLD
+8a3b0624e680026f182a,a4488fa028dfe623647c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.492,0.472,REJECT_BELOW_THRESHOLD
+8a3b0624e680026f182a,cbb9de639f32550af455,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.43,0.472,REJECT_BELOW_THRESHOLD
+f007f0b8e5875e205bc8,808c98c34916b1b5412d,RBC Capital Maintains Fidelity National Information Services (FIS) Outperform Recommendation,Baird Maintains Fidelity National Information Services (FIS) Outperform Recommendation,0.5,0.471,REJECT_BELOW_THRESHOLD
+f11499b40923a55137db,cc60dc5511e323ac4d0a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.5,0.469,REJECT_BELOW_THRESHOLD
+f11499b40923a55137db,26c22c308fb6716a3eda,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.5,0.469,REJECT_BELOW_THRESHOLD
+bd48a7eaf9ea4b1f88e7,bef7f8f727307ac3f1cf,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.547,0.469,REJECT_BELOW_THRESHOLD
+bd48a7eaf9ea4b1f88e7,b1b2414573452d6159d5,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.477,0.467,REJECT_BELOW_THRESHOLD
+b30325ba29700fbef711,2f39ee8590d469950fe3,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.414,0.467,REJECT_BELOW_THRESHOLD
+0e036f6c0f3fbd1388a2,2f39ee8590d469950fe3,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.469,0.467,REJECT_BELOW_THRESHOLD
+8a3b0624e680026f182a,b30325ba29700fbef711,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.438,0.467,REJECT_BELOW_THRESHOLD
+acaa1c519bba831fad38,bd48a7eaf9ea4b1f88e7,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.469,0.467,REJECT_BELOW_THRESHOLD
+0d10d98d78ebdee59f4d,6ad221038b55e5761235,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.469,0.467,REJECT_BELOW_THRESHOLD
+1f566779532ad62fb27c,2f39ee8590d469950fe3,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.406,0.467,REJECT_BELOW_THRESHOLD
+8a3b0624e680026f182a,c54c2725c14b4818ee33,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.461,0.467,REJECT_BELOW_THRESHOLD
+c54c2725c14b4818ee33,2f39ee8590d469950fe3,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.43,0.467,REJECT_BELOW_THRESHOLD
+8a3b0624e680026f182a,1f566779532ad62fb27c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.438,0.467,REJECT_BELOW_THRESHOLD
+f9038f2ec250a401856d,bd48a7eaf9ea4b1f88e7,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.469,0.467,REJECT_BELOW_THRESHOLD
+8a3b0624e680026f182a,0e036f6c0f3fbd1388a2,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.508,0.467,REJECT_BELOW_THRESHOLD
+bd48a7eaf9ea4b1f88e7,a4488fa028dfe623647c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.5,0.459,REJECT_BELOW_THRESHOLD
+bd48a7eaf9ea4b1f88e7,cbb9de639f32550af455,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.438,0.459,REJECT_BELOW_THRESHOLD
+c5fc39ec4ed0b6a67c90,bd03eff690d6f35ed7a6,Information technology and moral philosophy,Global information technology and socio-economic development,0.516,0.459,REJECT_BELOW_THRESHOLD
+cc60dc5511e323ac4d0a,b1b2414573452d6159d5,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.508,0.458,REJECT_BELOW_THRESHOLD
+26c22c308fb6716a3eda,b1b2414573452d6159d5,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.508,0.458,REJECT_BELOW_THRESHOLD
+acaa1c519bba831fad38,cc60dc5511e323ac4d0a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.469,0.458,REJECT_BELOW_THRESHOLD
+f9038f2ec250a401856d,26c22c308fb6716a3eda,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.477,0.458,REJECT_BELOW_THRESHOLD
+f9038f2ec250a401856d,cc60dc5511e323ac4d0a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.477,0.458,REJECT_BELOW_THRESHOLD
+acaa1c519bba831fad38,26c22c308fb6716a3eda,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.469,0.458,REJECT_BELOW_THRESHOLD
+bd48a7eaf9ea4b1f88e7,0e036f6c0f3fbd1388a2,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.523,0.452,REJECT_BELOW_THRESHOLD
+8a3b0624e680026f182a,551767664c939a4dd75e,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.391,0.452,REJECT_BELOW_THRESHOLD
+bd48a7eaf9ea4b1f88e7,0d10d98d78ebdee59f4d,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.445,0.452,REJECT_BELOW_THRESHOLD
+bd48a7eaf9ea4b1f88e7,c54c2725c14b4818ee33,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.492,0.452,REJECT_BELOW_THRESHOLD
+bd48a7eaf9ea4b1f88e7,b30325ba29700fbef711,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.461,0.452,REJECT_BELOW_THRESHOLD
+aae0cde6aa5936507114,201da7854b95e5ee4a3a,L&T Technology Services and Qualcomm Selected by Thales for Enabling 5G Private Networks in Urban Railways,L T Technology Services and Qualcomm Selected by Thales for Enabling 5G Private Networks in Urban Railways,0.445,0.449,REJECT_BELOW_THRESHOLD
+cc60dc5511e323ac4d0a,c54c2725c14b4818ee33,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.477,0.44,REJECT_BELOW_THRESHOLD
+cc60dc5511e323ac4d0a,c458c1e4e944f1d050d8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.5,0.44,REJECT_BELOW_THRESHOLD
+26c22c308fb6716a3eda,0e036f6c0f3fbd1388a2,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.508,0.44,REJECT_BELOW_THRESHOLD
+26c22c308fb6716a3eda,c54c2725c14b4818ee33,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.477,0.44,REJECT_BELOW_THRESHOLD
+26c22c308fb6716a3eda,1f566779532ad62fb27c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.445,0.44,REJECT_BELOW_THRESHOLD
+26c22c308fb6716a3eda,2524fa44ed0cdb8a148b,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.484,0.44,REJECT_BELOW_THRESHOLD
+26c22c308fb6716a3eda,c458c1e4e944f1d050d8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.5,0.44,REJECT_BELOW_THRESHOLD
+cc60dc5511e323ac4d0a,1f566779532ad62fb27c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.445,0.44,REJECT_BELOW_THRESHOLD
+f68d73ba394af7c4dd04,cc60dc5511e323ac4d0a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.5,0.44,REJECT_BELOW_THRESHOLD
+0d10d98d78ebdee59f4d,cc60dc5511e323ac4d0a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.5,0.44,REJECT_BELOW_THRESHOLD
+26c22c308fb6716a3eda,f68d73ba394af7c4dd04,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.5,0.44,REJECT_BELOW_THRESHOLD
+26c22c308fb6716a3eda,0d10d98d78ebdee59f4d,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.5,0.44,REJECT_BELOW_THRESHOLD
+26c22c308fb6716a3eda,b30325ba29700fbef711,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.477,0.44,REJECT_BELOW_THRESHOLD
+cc60dc5511e323ac4d0a,0e036f6c0f3fbd1388a2,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.508,0.44,REJECT_BELOW_THRESHOLD
+cc60dc5511e323ac4d0a,2524fa44ed0cdb8a148b,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.484,0.44,REJECT_BELOW_THRESHOLD
+cc60dc5511e323ac4d0a,b30325ba29700fbef711,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.477,0.44,REJECT_BELOW_THRESHOLD
+bd48a7eaf9ea4b1f88e7,551767664c939a4dd75e,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.453,0.438,REJECT_BELOW_THRESHOLD
+5e977119cd7854b81530,cbb9de639f32550af455,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.414,0.436,REJECT_BELOW_THRESHOLD
+5e977119cd7854b81530,a4488fa028dfe623647c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.484,0.436,REJECT_BELOW_THRESHOLD
+f68d73ba394af7c4dd04,f28e6315b8ada0e6dc99,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.5,0.429,REJECT_BELOW_THRESHOLD
+42783172562d380902ba,d38fc817b7dc3eeeb535,Fidelity National Information Services Inc. declares $0.52 dividend,Information Services Corporation Non-GAAP EPS of C$0.51 revenue of C$53.3M,0.367,0.429,REJECT_BELOW_THRESHOLD
+589fb0d33079c529cdc2,26c22c308fb6716a3eda,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.5,0.423,REJECT_BELOW_THRESHOLD
+589fb0d33079c529cdc2,cc60dc5511e323ac4d0a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.5,0.423,REJECT_BELOW_THRESHOLD
+cc60dc5511e323ac4d0a,313601a28f50fe15b768,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.5,0.423,REJECT_BELOW_THRESHOLD
+cc60dc5511e323ac4d0a,551767664c939a4dd75e,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.469,0.423,REJECT_BELOW_THRESHOLD
+26c22c308fb6716a3eda,313601a28f50fe15b768,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.5,0.423,REJECT_BELOW_THRESHOLD
+26c22c308fb6716a3eda,551767664c939a4dd75e,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.469,0.423,REJECT_BELOW_THRESHOLD
+6ae9fe65e4bfd7a1f9b8,393ca665492ed7e05ec2,Microsoft says early June disruptions to Outlook cloud platform were cyberattacks,Microsoft Says Early June Disruptions to Outlook Cloud Platform Were Cyberattacks,0.391,0.422,REJECT_BELOW_THRESHOLD
+82b77a1b501f7cbb469c,c5fc39ec4ed0b6a67c90,INFORMATION TECHNOLOGY AND URBAN GOVERNANCE - PROCEEDINGS OF A SYMPOSIUM OTTAWA 1976,Information technology and moral philosophy,0.484,0.415,REJECT_BELOW_THRESHOLD
+b1b2414573452d6159d5,c458c1e4e944f1d050d8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.445,0.414,REJECT_BELOW_THRESHOLD
+f9038f2ec250a401856d,c458c1e4e944f1d050d8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.422,0.414,REJECT_BELOW_THRESHOLD
+f9038f2ec250a401856d,f68d73ba394af7c4dd04,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.438,0.414,REJECT_BELOW_THRESHOLD
+4d92665869f1d0de55c8,c458c1e4e944f1d050d8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.453,0.414,REJECT_BELOW_THRESHOLD
+f28e6315b8ada0e6dc99,0856d5131960b8f1c515,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.391,0.414,REJECT_BELOW_THRESHOLD
+f68d73ba394af7c4dd04,b1b2414573452d6159d5,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.469,0.414,REJECT_BELOW_THRESHOLD
+f28e6315b8ada0e6dc99,d7180e9816d49351f73b,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.477,0.414,REJECT_BELOW_THRESHOLD
+f68d73ba394af7c4dd04,4d92665869f1d0de55c8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.469,0.414,REJECT_BELOW_THRESHOLD
+f28e6315b8ada0e6dc99,f4d21b2999c3b2bfe617,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.469,0.414,REJECT_BELOW_THRESHOLD
+f28e6315b8ada0e6dc99,db7e73c12b9bb118c90a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.422,0.414,REJECT_BELOW_THRESHOLD
+cc60dc5511e323ac4d0a,0c264824e1ba91c29760,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.469,0.407,REJECT_BELOW_THRESHOLD
+8500b53d4383f5739671,cc60dc5511e323ac4d0a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.469,0.407,REJECT_BELOW_THRESHOLD
+8500b53d4383f5739671,26c22c308fb6716a3eda,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.469,0.407,REJECT_BELOW_THRESHOLD
+26c22c308fb6716a3eda,8a3b0624e680026f182a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.445,0.407,REJECT_BELOW_THRESHOLD
+26c22c308fb6716a3eda,6eae6b3fd841ddff337b,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.484,0.407,REJECT_BELOW_THRESHOLD
+8a3b0624e680026f182a,cc60dc5511e323ac4d0a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.445,0.407,REJECT_BELOW_THRESHOLD
+6eae6b3fd841ddff337b,cc60dc5511e323ac4d0a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.484,0.407,REJECT_BELOW_THRESHOLD
+2935f12865e48cd9e9ca,525054814bff31b6047f,New IBM survey reveals the greatest perceived barrier to professional or technical skill development is that programs ar,New IBM survey reveals the greatest perceived barrier to professional or technical skill development is that programs ar,0.43,0.407,REJECT_BELOW_THRESHOLD
+26c22c308fb6716a3eda,0c264824e1ba91c29760,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.469,0.407,REJECT_BELOW_THRESHOLD
+c54c2725c14b4818ee33,c458c1e4e944f1d050d8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.469,0.4,REJECT_BELOW_THRESHOLD
+4d92665869f1d0de55c8,db7e73c12b9bb118c90a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.398,0.4,REJECT_BELOW_THRESHOLD
+f68d73ba394af7c4dd04,1f566779532ad62fb27c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.453,0.4,REJECT_BELOW_THRESHOLD
+f68d73ba394af7c4dd04,c54c2725c14b4818ee33,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.508,0.4,REJECT_BELOW_THRESHOLD
+f9038f2ec250a401856d,d7180e9816d49351f73b,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.438,0.4,REJECT_BELOW_THRESHOLD
+0e036f6c0f3fbd1388a2,c458c1e4e944f1d050d8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.5,0.4,REJECT_BELOW_THRESHOLD
+0856d5131960b8f1c515,4d92665869f1d0de55c8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.367,0.4,REJECT_BELOW_THRESHOLD
+0856d5131960b8f1c515,b1b2414573452d6159d5,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.367,0.4,REJECT_BELOW_THRESHOLD
+4d92665869f1d0de55c8,f4d21b2999c3b2bfe617,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.453,0.4,REJECT_BELOW_THRESHOLD
+f9038f2ec250a401856d,0856d5131960b8f1c515,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.383,0.4,REJECT_BELOW_THRESHOLD
+4d92665869f1d0de55c8,313601a28f50fe15b768,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.422,0.4,REJECT_BELOW_THRESHOLD
+f9038f2ec250a401856d,f4d21b2999c3b2bfe617,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.438,0.4,REJECT_BELOW_THRESHOLD
+909d6eadd23414284d7c,b1b2414573452d6159d5,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.43,0.4,REJECT_BELOW_THRESHOLD
+589fb0d33079c529cdc2,b1b2414573452d6159d5,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.445,0.4,REJECT_BELOW_THRESHOLD
+589fb0d33079c529cdc2,4d92665869f1d0de55c8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.438,0.4,REJECT_BELOW_THRESHOLD
+b1b2414573452d6159d5,f4d21b2999c3b2bfe617,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.469,0.4,REJECT_BELOW_THRESHOLD
+f28e6315b8ada0e6dc99,a4488fa028dfe623647c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.383,0.4,REJECT_BELOW_THRESHOLD
+b1b2414573452d6159d5,313601a28f50fe15b768,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.461,0.4,REJECT_BELOW_THRESHOLD
+1f566779532ad62fb27c,c458c1e4e944f1d050d8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.43,0.4,REJECT_BELOW_THRESHOLD
+f9038f2ec250a401856d,313601a28f50fe15b768,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.445,0.4,REJECT_BELOW_THRESHOLD
+f9038f2ec250a401856d,db7e73c12b9bb118c90a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.438,0.4,REJECT_BELOW_THRESHOLD
+b1b2414573452d6159d5,db7e73c12b9bb118c90a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.43,0.4,REJECT_BELOW_THRESHOLD
+f9038f2ec250a401856d,589fb0d33079c529cdc2,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.422,0.4,REJECT_BELOW_THRESHOLD
+f68d73ba394af7c4dd04,0e036f6c0f3fbd1388a2,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.523,0.4,REJECT_BELOW_THRESHOLD
+e6f7894d49ccbaf1c246,4d92665869f1d0de55c8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.422,0.4,REJECT_BELOW_THRESHOLD
+d7180e9816d49351f73b,b1b2414573452d6159d5,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.461,0.4,REJECT_BELOW_THRESHOLD
+d7180e9816d49351f73b,4d92665869f1d0de55c8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.445,0.4,REJECT_BELOW_THRESHOLD
+a2436c4b22553e3732da,4d92665869f1d0de55c8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.406,0.4,REJECT_BELOW_THRESHOLD
+b30325ba29700fbef711,c458c1e4e944f1d050d8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.477,0.4,REJECT_BELOW_THRESHOLD
+f68d73ba394af7c4dd04,2524fa44ed0cdb8a148b,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.469,0.4,REJECT_BELOW_THRESHOLD
+f68d73ba394af7c4dd04,b30325ba29700fbef711,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.492,0.4,REJECT_BELOW_THRESHOLD
+f68d73ba394af7c4dd04,0d10d98d78ebdee59f4d,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.492,0.4,REJECT_BELOW_THRESHOLD
+d43bd8a8ed3b1d67e014,4d92665869f1d0de55c8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.445,0.4,REJECT_BELOW_THRESHOLD
+82b77a1b501f7cbb469c,bd03eff690d6f35ed7a6,INFORMATION TECHNOLOGY AND URBAN GOVERNANCE - PROCEEDINGS OF A SYMPOSIUM OTTAWA 1976,Global information technology and socio-economic development,0.43,0.395,REJECT_BELOW_THRESHOLD
+bef7f8f727307ac3f1cf,cbb9de639f32550af455,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.383,0.395,REJECT_BELOW_THRESHOLD
+26c22c308fb6716a3eda,bd48a7eaf9ea4b1f88e7,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.414,0.393,REJECT_BELOW_THRESHOLD
+bd48a7eaf9ea4b1f88e7,cc60dc5511e323ac4d0a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.414,0.393,REJECT_BELOW_THRESHOLD
+418114bfd7b331ca62d6,dd735f5a3b695db2ecc4,Top 10 technology and ethics stories of 2022,Top 10 technology and ethics stories of 2022,0.375,0.393,REJECT_BELOW_THRESHOLD
+9cec56f34793ad5c585e,20900bb77008b0464c81,411 is going out of service for millions of Americans,411 is going out of service for millions of Americans,0.336,0.392,REJECT_BELOW_THRESHOLD
+919a7d918c23097ae974,20900bb77008b0464c81,411 is going out of service for millions of Americans,411 is going out of service for millions of Americans,0.336,0.392,REJECT_BELOW_THRESHOLD
+f9038f2ec250a401856d,a4488fa028dfe623647c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.367,0.389,REJECT_BELOW_THRESHOLD
+acaa1c519bba831fad38,a4488fa028dfe623647c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.383,0.389,REJECT_BELOW_THRESHOLD
+961b46749d62312d2da3,d2110f11668c8fddde70,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.453,0.389,REJECT_BELOW_THRESHOLD
+670c12d095401deb59ea,9806c525f8dd0afab232,Heat use balanced scoring rally to beat Magic 106-103 in OT,Heat use balanced scoring rally to beat Magic 106-103 in OT,0.367,0.388,REJECT_BELOW_THRESHOLD
+589fb0d33079c529cdc2,b30325ba29700fbef711,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.469,0.387,REJECT_BELOW_THRESHOLD
+0d10d98d78ebdee59f4d,f4d21b2999c3b2bfe617,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.469,0.387,REJECT_BELOW_THRESHOLD
+d7180e9816d49351f73b,2524fa44ed0cdb8a148b,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.453,0.387,REJECT_BELOW_THRESHOLD
+b30325ba29700fbef711,313601a28f50fe15b768,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.461,0.387,REJECT_BELOW_THRESHOLD
+909d6eadd23414284d7c,1f566779532ad62fb27c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.414,0.387,REJECT_BELOW_THRESHOLD
+589fb0d33079c529cdc2,c54c2725c14b4818ee33,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.461,0.387,REJECT_BELOW_THRESHOLD
+589fb0d33079c529cdc2,1f566779532ad62fb27c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.453,0.387,REJECT_BELOW_THRESHOLD
+909d6eadd23414284d7c,c54c2725c14b4818ee33,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.445,0.387,REJECT_BELOW_THRESHOLD
+2524fa44ed0cdb8a148b,db7e73c12b9bb118c90a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.438,0.387,REJECT_BELOW_THRESHOLD
+589fb0d33079c529cdc2,0e036f6c0f3fbd1388a2,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.492,0.387,REJECT_BELOW_THRESHOLD
+589fb0d33079c529cdc2,2524fa44ed0cdb8a148b,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.438,0.387,REJECT_BELOW_THRESHOLD
+0d10d98d78ebdee59f4d,d7180e9816d49351f73b,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.461,0.387,REJECT_BELOW_THRESHOLD
+b1b2414573452d6159d5,0c264824e1ba91c29760,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.438,0.387,REJECT_BELOW_THRESHOLD
+2524fa44ed0cdb8a148b,f4d21b2999c3b2bfe617,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.453,0.387,REJECT_BELOW_THRESHOLD
+4d92665869f1d0de55c8,8be17cd8880e578211d9,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.414,0.387,REJECT_BELOW_THRESHOLD
+b30325ba29700fbef711,909d6eadd23414284d7c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.406,0.387,REJECT_BELOW_THRESHOLD
+0d10d98d78ebdee59f4d,db7e73c12b9bb118c90a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.438,0.387,REJECT_BELOW_THRESHOLD
+1f566779532ad62fb27c,313601a28f50fe15b768,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.461,0.387,REJECT_BELOW_THRESHOLD
+c54c2725c14b4818ee33,f4d21b2999c3b2bfe617,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.492,0.387,REJECT_BELOW_THRESHOLD
+c54c2725c14b4818ee33,db7e73c12b9bb118c90a,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.445,0.387,REJECT_BELOW_THRESHOLD
+c54c2725c14b4818ee33,313601a28f50fe15b768,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.477,0.387,REJECT_BELOW_THRESHOLD
+2524fa44ed0cdb8a148b,0856d5131960b8f1c515,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.406,0.387,REJECT_BELOW_THRESHOLD
+d7180e9816d49351f73b,c54c2725c14b4818ee33,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.469,0.387,REJECT_BELOW_THRESHOLD
+d43bd8a8ed3b1d67e014,2524fa44ed0cdb8a148b,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.445,0.387,REJECT_BELOW_THRESHOLD
+d43bd8a8ed3b1d67e014,c54c2725c14b4818ee33,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.438,0.387,REJECT_BELOW_THRESHOLD
+6eae6b3fd841ddff337b,4d92665869f1d0de55c8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.422,0.387,REJECT_BELOW_THRESHOLD
+0d10d98d78ebdee59f4d,0856d5131960b8f1c515,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.398,0.387,REJECT_BELOW_THRESHOLD
+0e036f6c0f3fbd1388a2,909d6eadd23414284d7c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.453,0.387,REJECT_BELOW_THRESHOLD
+6eae6b3fd841ddff337b,b1b2414573452d6159d5,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.438,0.387,REJECT_BELOW_THRESHOLD
+0e036f6c0f3fbd1388a2,313601a28f50fe15b768,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.484,0.387,REJECT_BELOW_THRESHOLD
+0856d5131960b8f1c515,c54c2725c14b4818ee33,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.383,0.387,REJECT_BELOW_THRESHOLD
+0d10d98d78ebdee59f4d,a4488fa028dfe623647c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.352,0.378,REJECT_BELOW_THRESHOLD
+a4488fa028dfe623647c,1f566779532ad62fb27c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.398,0.378,REJECT_BELOW_THRESHOLD
+a4488fa028dfe623647c,c54c2725c14b4818ee33,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.383,0.378,REJECT_BELOW_THRESHOLD
+0e036f6c0f3fbd1388a2,a4488fa028dfe623647c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.422,0.378,REJECT_BELOW_THRESHOLD
+b30325ba29700fbef711,a4488fa028dfe623647c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.391,0.378,REJECT_BELOW_THRESHOLD
+c5fc39ec4ed0b6a67c90,f353e6d65b6bec9c76ac,Information technology and moral philosophy,Information technology and lawyers : advanced technology in the legal domain from challenges to daily routine,0.414,0.378,REJECT_BELOW_THRESHOLD
+8d235c4d8e054e357053,d2110f11668c8fddde70,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.445,0.378,REJECT_BELOW_THRESHOLD
+f68d73ba394af7c4dd04,2f39ee8590d469950fe3,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.391,0.375,REJECT_BELOW_THRESHOLD
+6eae6b3fd841ddff337b,b30325ba29700fbef711,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.445,0.375,REJECT_BELOW_THRESHOLD
+1f566779532ad62fb27c,0c264824e1ba91c29760,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.422,0.375,REJECT_BELOW_THRESHOLD
+2524fa44ed0cdb8a148b,8be17cd8880e578211d9,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.414,0.375,REJECT_BELOW_THRESHOLD
+0e036f6c0f3fbd1388a2,0c264824e1ba91c29760,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.484,0.375,REJECT_BELOW_THRESHOLD
+8be17cd8880e578211d9,c54c2725c14b4818ee33,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.438,0.375,REJECT_BELOW_THRESHOLD
+b30325ba29700fbef711,0c264824e1ba91c29760,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.438,0.375,REJECT_BELOW_THRESHOLD
+6eae6b3fd841ddff337b,2524fa44ed0cdb8a148b,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.461,0.375,REJECT_BELOW_THRESHOLD
+6eae6b3fd841ddff337b,0e036f6c0f3fbd1388a2,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.508,0.375,REJECT_BELOW_THRESHOLD
+0c264824e1ba91c29760,c54c2725c14b4818ee33,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.445,0.375,REJECT_BELOW_THRESHOLD
+8500b53d4383f5739671,b30325ba29700fbef711,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.422,0.375,REJECT_BELOW_THRESHOLD
+c458c1e4e944f1d050d8,2f39ee8590d469950fe3,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.422,0.375,REJECT_BELOW_THRESHOLD
+6eae6b3fd841ddff337b,1f566779532ad62fb27c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.445,0.375,REJECT_BELOW_THRESHOLD
+6eae6b3fd841ddff337b,c54c2725c14b4818ee33,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.461,0.375,REJECT_BELOW_THRESHOLD
+961b46749d62312d2da3,1b155489730cbc77b235,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.406,0.368,REJECT_BELOW_THRESHOLD
+551767664c939a4dd75e,a4488fa028dfe623647c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.391,0.368,REJECT_BELOW_THRESHOLD
+2f39ee8590d469950fe3,313601a28f50fe15b768,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.398,0.364,REJECT_BELOW_THRESHOLD
+589fb0d33079c529cdc2,2f39ee8590d469950fe3,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.375,0.364,REJECT_BELOW_THRESHOLD
+909d6eadd23414284d7c,2f39ee8590d469950fe3,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.383,0.364,REJECT_BELOW_THRESHOLD
+f353e6d65b6bec9c76ac,bd03eff690d6f35ed7a6,Information technology and lawyers : advanced technology in the legal domain from challenges to daily routine,Global information technology and socio-economic development,0.359,0.362,REJECT_BELOW_THRESHOLD
+8d235c4d8e054e357053,bd48a7eaf9ea4b1f88e7,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.406,0.361,REJECT_BELOW_THRESHOLD
+8d235c4d8e054e357053,1b155489730cbc77b235,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.391,0.359,REJECT_BELOW_THRESHOLD
+0c264824e1ba91c29760,2f39ee8590d469950fe3,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.367,0.353,REJECT_BELOW_THRESHOLD
+6eae6b3fd841ddff337b,2f39ee8590d469950fe3,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.391,0.353,REJECT_BELOW_THRESHOLD
+866e313c0921090ade13,1881ca53e251b9e5a212,JPMorgan chooses Vestwell's tech for small-business 401(k) services,JPMorgan chooses Vestwell's tech for small-business 401(k) services,0.32,0.338,REJECT_BELOW_THRESHOLD
+4063bcdde7016da1f8f2,203844f6e963c859799d,SymphonyAI Summit a Leader in ISG's Provider Lens™ Evaluation for Enterprise Service Management - Software 2023,Australian Firms Embrace Hybrid Clouds for Transformation,0.305,0.338,REJECT_BELOW_THRESHOLD
+82b77a1b501f7cbb469c,f353e6d65b6bec9c76ac,INFORMATION TECHNOLOGY AND URBAN GOVERNANCE - PROCEEDINGS OF A SYMPOSIUM OTTAWA 1976,Information technology and lawyers : advanced technology in the legal domain from challenges to daily routine,0.367,0.333,REJECT_BELOW_THRESHOLD
+ade635f54b763e1ab3f9,7a2e404d7629584f2c50,Technology Research Services Market Size Outlook By KeyPlayers-G2 Gartner Forrester,5G Services Market Size Information Technology Growth and Insights,0.312,0.333,REJECT_BELOW_THRESHOLD
+cc60dc5511e323ac4d0a,a4488fa028dfe623647c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.344,0.324,REJECT_BELOW_THRESHOLD
+26c22c308fb6716a3eda,a4488fa028dfe623647c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.344,0.324,REJECT_BELOW_THRESHOLD
+b17e3735da03f143d724,b6a4ff4968ab97b85f84,Complete Solaria a Leading Solar Technology Services and Installation Company Completes Business Combination with Freedo,Complete Solaria a Leading Solar Technology Services and Installation Company Completes Business Combination with Freedo,0.375,0.324,REJECT_BELOW_THRESHOLD
+4f1346392056a403277d,f8d4c1e3cfe2f61e23f7,Aeris to Acquire IoT Business from Ericsson,Aeris to acquire IoT business from Ericsson,0.289,0.321,REJECT_BELOW_THRESHOLD
+2e7173348fefa294a70c,4d92665869f1d0de55c8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.328,0.317,REJECT_BELOW_THRESHOLD
+e6090305820383267481,9cec56f34793ad5c585e,411 phone number is going out of service for millions of Americans,411 is going out of service for millions of Americans,0.258,0.312,REJECT_BELOW_THRESHOLD
+919a7d918c23097ae974,e6090305820383267481,411 is going out of service for millions of Americans,411 phone number is going out of service for millions of Americans,0.258,0.312,REJECT_BELOW_THRESHOLD
+076f311078c872e47169,5ccf35124d55ce7bc232,Should You Sell Fidelity National Information Services (FIS) Now?,Fidelity National Information Services (FIS) Stock Declined in Q4 on Financial Guidance,0.266,0.302,REJECT_BELOW_THRESHOLD
+b97b33b66cc062658464,f5f1c08cc055d13f2a79,Atos named a Leader in mainframe services and solutions by Information Services Group,Atos named a Leader in mainframe services and solutions by Information Services Group,0.383,0.301,REJECT_BELOW_THRESHOLD
+ade3382b41ad9f31b1bd,bf2ea1139eacee92b130,Find free newcomer services near you,Healey Driscoll Announce Economic Technology Services Security Heads,0.305,0.282,REJECT_BELOW_THRESHOLD
+2e7173348fefa294a70c,c458c1e4e944f1d050d8,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.289,0.279,REJECT_BELOW_THRESHOLD
+0d5f20e331717d289cee,f83974ad32c352a2bc19,Ceinsys Tech Ltd: A specialized GIS & Mobility engineering services provider celebrates 25 Years of Enhancing Possibilit,Ceinsys Tech Ltd: A specialized GIS & Mobility engineering services provider celebrates 25 Years of Enhancing Possibilit,0.258,0.275,REJECT_BELOW_THRESHOLD
+2e7173348fefa294a70c,d7180e9816d49351f73b,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.305,0.273,REJECT_BELOW_THRESHOLD
+2e7173348fefa294a70c,e6f7894d49ccbaf1c246,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.281,0.273,REJECT_BELOW_THRESHOLD
+2e7173348fefa294a70c,313601a28f50fe15b768,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.289,0.273,REJECT_BELOW_THRESHOLD
+a2436c4b22553e3732da,2e7173348fefa294a70c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.297,0.273,REJECT_BELOW_THRESHOLD
+2e7173348fefa294a70c,8be17cd8880e578211d9,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.297,0.267,REJECT_BELOW_THRESHOLD
+f11499b40923a55137db,b30325ba29700fbef711,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.297,0.262,REJECT_BELOW_THRESHOLD
+f11499b40923a55137db,0d10d98d78ebdee59f4d,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.312,0.262,REJECT_BELOW_THRESHOLD
+f11499b40923a55137db,1f566779532ad62fb27c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.305,0.262,REJECT_BELOW_THRESHOLD
+8b39c479a35e3bd8ae41,7b80b058b0275154b650,World Cinema and ServiceNow Spearhead Technology Service Transformation in Hospitality Industry,World Cinema and ServiceNow Spearhead Technology Service Transformation in Hospitality Industry,0.203,0.261,REJECT_BELOW_THRESHOLD
+527d290f99bf3e80da40,e1a69351c4050dc5b25c,Global Bioremediation Technology And Services Market Report 2022-2028: Demand In Mining Petroleum Farming & Nuclear Powe,Global Bioremediation Technology and Services Market Report 2022-2028: Demand in Mining Petroleum Farming & Nuclear Powe,0.211,0.26,REJECT_BELOW_THRESHOLD
+f11499b40923a55137db,551767664c939a4dd75e,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.32,0.256,REJECT_BELOW_THRESHOLD
+f11499b40923a55137db,a4488fa028dfe623647c,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk,0.242,0.216,REJECT_BELOW_THRESHOLD
+12580d3d9ae2a4638b6f,ef11b7f1167dd8d03e5d,Video Game Technology Tapped to Medically Train Astronauts for Future Moon and Mars Missions,Jacobs plans spinoff of government services business,0.172,0.137,REJECT_BELOW_THRESHOLD
+210760df772deb81a623,a2e09b870a7c8278db77,Unusual Call Option Trade in Children's Place (PLCE) Worth $90.54K,Unusual Call Option Trade in Emerson Electric (EMR) Worth $297.82K,0.172,0.122,REJECT_BELOW_THRESHOLD

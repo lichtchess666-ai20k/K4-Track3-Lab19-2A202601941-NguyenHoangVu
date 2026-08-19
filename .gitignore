@@ -21,6 +21,8 @@ env/
 *.csv
 golden_dataset.csv
 !reports/*.csv
+# Ket qua benchmark BAT BUOC phai nop theo rubric -> khong duoc ignore
+!outputs/*.csv
 *.jsonl
 *.parquet
 *.pq

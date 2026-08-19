@@ -1,0 +1,2 @@
+node,real_degree,test_threshold,test_cap,edges_without_cap,edges_with_cap,cut_correct,kept_most_recent,production_threshold,production_cap
+Microsoft,15,14,5,15,5,True,True,100,50

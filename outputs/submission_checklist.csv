@@ -1,0 +1,21 @@
+Mục,Đạt,Chi tiết
+Neo4j connected,PASS,neo4j+s://5a93f3f3.databases.neo4j.io
+Exact dedup + chunking,PASS,2118 chunk
+Near-dedup (MinHash/LSH),PASS,bỏ 0 bài
+Coreference spot-check,PASS,148 unresolved mention
+NER+RE theo allowlist,PASS,555 triple
+Entity resolution audit >= 10 dòng,PASS,15 dòng
+UNWIND bulk insert,PASS,"{'nodes': 898, 'edges': 554, 'seconds': 1.4, 'node_types': {'Company': 565, 'Technology': 240, 'Person': 93}}"
+0 edge thiếu provenance,PASS,"{'nodes': 898, 'edges': 554, 'invalid_provenance_edges': 0}"
+Flat RAG chạy,PASS,2118 vector
+GraphRAG chạy,PASS,answer_graph_rag OK
+Super-node policy,PASS,degree>100 -> <= 50 cạnh
+Golden Dataset đủ 3 nhóm + có gold answer,PASS,"{'multi-hop': 12, 'cross-doc': 11, 'factoid': 2}"
+Evaluation chạy hết,PASS,25 câu
+Export CSV kết quả,PASS,d:\VinUni-AI20K\K4-Track3-Lab19-2A202601941-NguyenHoangVu\outputs
+Báo cáo thuyết minh,PASS,technical_defense.md
+Failure analysis,PASS,failure_analysis.md
+Reflection cá nhân,PASS,reflection_*.md
+Bonus: community reports,PASS,"{'communities': 364, 'reports': 5, 'global_question': 'What are the dominant themes across the ingested tech news, and which entities drive them?', 'global_late"
+Bonus: self-correction,PASS,"{'questions': 3, 'routes': {'hop3+vector': 2, 'hop2': 1}, 'quality_before': 1.33, 'quality_after': 2.55}"
+Không hard-code secret,PASS,Tất cả key đọc qua get_secret()/Colab Secrets

@@ -1,0 +1,362 @@
+{
+  "ingest": {
+    "raw_rows": 5000,
+    "articles_after_exact_dedup": 2118
+  },
+  "near_dedup": {
+    "applied": false,
+    "duplicates_detected": 12,
+    "threshold": 0.8,
+    "perm": 128,
+    "bands": 32,
+    "shingle_k": 5,
+    "candidate_pairs": 504,
+    "merged_pairs": 12,
+    "articles_before": 2118,
+    "articles_after": 2118
+  },
+  "chunks": {
+    "n_chunks": 2118
+  },
+  "coref": {
+    "chunks": 2118,
+    "changed_chunks": 431,
+    "unresolved_mentions": 148,
+    "failed_batches_chunks": 0
+  },
+  "extraction": {
+    "raw_triples": 555,
+    "failed_batches": 0,
+    "relation_counts": {
+      "DEVELOPED": 139,
+      "PARTNERED_WITH": 139,
+      "WORKED_AT": 78,
+      "ACQUIRED": 69,
+      "USES": 51,
+      "LEADS": 35,
+      "FOUNDED": 29,
+      "INVESTED_IN": 15
+    },
+    "mean_confidence": 0.977,
+    "evidence_coverage": 1.0
+  },
+  "entity_resolution": {
+    "threshold": 0.9,
+    "top_k": 5,
+    "mentions_before": 907,
+    "entities_after": 898,
+    "audit_rows": 15,
+    "decisions": {
+      "MERGE_VECTOR": 7,
+      "REJECT_GUARD": 5,
+      "MERGE_MANUAL": 3
+    }
+  },
+  "ingest_graph": {
+    "nodes": 898,
+    "edges": 554,
+    "seconds": 1.4,
+    "node_types": {
+      "Company": 565,
+      "Technology": 240,
+      "Person": 93
+    }
+  },
+  "graph_checks": {
+    "counts": {
+      "nodes": 898,
+      "edges": 554,
+      "invalid_provenance_edges": 0
+    },
+    "top_degree": [
+      {
+        "id": "fb0f4df56fab164ec48722f0",
+        "name": "Microsoft",
+        "type": "Company",
+        "degree": 15
+      },
+      {
+        "id": "0e132222d1315530d6efca52",
+        "name": "Google",
+        "type": "Company",
+        "degree": 12
+      },
+      {
+        "id": "7b29988cfc0dac3059f47a0e",
+        "name": "L&T Technology Services",
+        "type": "Company",
+        "degree": 11
+      },
+      {
+        "id": "6dbfdfc5a4e8df3668a4dac3",
+        "name": "Meta",
+        "type": "Company",
+        "degree": 10
+      },
+      {
+        "id": "cc9c6ee3857729e221d3f6de",
+        "name": "ServiceNow",
+        "type": "Company",
+        "degree": 10
+      }
+    ]
+  },
+  "flat_index": {
+    "vectors": 2118,
+    "embed_model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  "golden": {
+    "n_questions": 25,
+    "by_group": {
+      "multi-hop": 12,
+      "cross-doc": 11,
+      "factoid": 2
+    }
+  },
+  "evaluation": {
+    "overall": [
+      {
+        "Metric": "Comprehensiveness",
+        "Flat RAG": 3.72,
+        "GraphRAG": 3.84,
+        "Delta (Graph - Flat)": 0.12
+      },
+      {
+        "Metric": "Faithfulness",
+        "Flat RAG": 4.12,
+        "GraphRAG": 4.2,
+        "Delta (Graph - Flat)": 0.08
+      },
+      {
+        "Metric": "Multi-hop reasoning",
+        "Flat RAG": 3.72,
+        "GraphRAG": 3.84,
+        "Delta (Graph - Flat)": 0.12
+      },
+      {
+        "Metric": "Latency (s)",
+        "Flat RAG": 2.511,
+        "GraphRAG": 2.508,
+        "Delta (Graph - Flat)": -0.004
+      },
+      {
+        "Metric": "Token usage",
+        "Flat RAG": 768.64,
+        "GraphRAG": 1376.56,
+        "Delta (Graph - Flat)": 607.92
+      }
+    ],
+    "by_group": [
+      {
+        "Loại câu hỏi": "cross-doc",
+        "Metric": "Comprehensiveness",
+        "Flat RAG": 3.727,
+        "GraphRAG": 4.091,
+        "Nhận xét phân tích": "Hai phương pháp gần nhau."
+      },
+      {
+        "Loại câu hỏi": "cross-doc",
+        "Metric": "Faithfulness",
+        "Flat RAG": 4.364,
+        "GraphRAG": 4.545,
+        "Nhận xét phân tích": "Hai phương pháp gần nhau."
+      },
+      {
+        "Loại câu hỏi": "cross-doc",
+        "Metric": "Multi-hop reasoning",
+        "Flat RAG": 3.727,
+        "GraphRAG": 4.091,
+        "Nhận xét phân tích": "Hai phương pháp gần nhau."
+      },
+      {
+        "Loại câu hỏi": "cross-doc",
+        "Metric": "Latency (s)",
+        "Flat RAG": 2.085,
+        "GraphRAG": 2.029,
+        "Nhận xét phân tích": "GraphRAG không đắt hơn trong sample này."
+      },
+      {
+        "Loại câu hỏi": "cross-doc",
+        "Metric": "Token usage",
+        "Flat RAG": 744.636,
+        "GraphRAG": 1163.636,
+        "Nhận xét phân tích": "Flat RAG thường rẻ/nhanh hơn."
+      },
+      {
+        "Loại câu hỏi": "factoid",
+        "Metric": "Comprehensiveness",
+        "Flat RAG": 5.0,
+        "GraphRAG": 5.0,
+        "Nhận xét phân tích": "Hai phương pháp gần nhau."
+      },
+      {
+        "Loại câu hỏi": "factoid",
+        "Metric": "Faithfulness",
+        "Flat RAG": 5.0,
+        "GraphRAG": 5.0,
+        "Nhận xét phân tích": "Hai phương pháp gần nhau."
+      },
+      {
+        "Loại câu hỏi": "factoid",
+        "Metric": "Multi-hop reasoning",
+        "Flat RAG": 5.0,
+        "GraphRAG": 5.0,
+        "Nhận xét phân tích": "Hai phương pháp gần nhau."
+      },
+      {
+        "Loại câu hỏi": "factoid",
+        "Metric": "Latency (s)",
+        "Flat RAG": 1.525,
+        "GraphRAG": 1.292,
+        "Nhận xét phân tích": "GraphRAG không đắt hơn trong sample này."
+      },
+      {
+        "Loại câu hỏi": "factoid",
+        "Metric": "Token usage",
+        "Flat RAG": 787.0,
+        "GraphRAG": 1167.5,
+        "Nhận xét phân tích": "Flat RAG thường rẻ/nhanh hơn."
+      },
+      {
+        "Loại câu hỏi": "multi-hop",
+        "Metric": "Comprehensiveness",
+        "Flat RAG": 3.5,
+        "GraphRAG": 3.417,
+        "Nhận xét phân tích": "Hai phương pháp gần nhau."
+      },
+      {
+        "Loại câu hỏi": "multi-hop",
+        "Metric": "Faithfulness",
+        "Flat RAG": 3.75,
+        "GraphRAG": 3.75,
+        "Nhận xét phân tích": "Hai phương pháp gần nhau."
+      },
+      {
+        "Loại câu hỏi": "multi-hop",
+        "Metric": "Multi-hop reasoning",
+        "Flat RAG": 3.5,
+        "GraphRAG": 3.417,
+        "Nhận xét phân tích": "Hai phương pháp gần nhau."
+      },
+      {
+        "Loại câu hỏi": "multi-hop",
+        "Metric": "Latency (s)",
+        "Flat RAG": 3.067,
+        "GraphRAG": 3.149,
+        "Nhận xét phân tích": "Flat RAG thường rẻ/nhanh hơn."
+      },
+      {
+        "Loại câu hỏi": "multi-hop",
+        "Metric": "Token usage",
+        "Flat RAG": 787.583,
+        "GraphRAG": 1606.583,
+        "Nhận xét phân tích": "Flat RAG thường rẻ/nhanh hơn."
+      }
+    ]
+  },
+  "failure_checks": {
+    "provenance_ok": true,
+    "top3_supernodes": [
+      {
+        "name": "Microsoft",
+        "type": "Company",
+        "degree": 15
+      },
+      {
+        "name": "Google",
+        "type": "Company",
+        "degree": 12
+      },
+      {
+        "name": "L&T Technology Services",
+        "type": "Company",
+        "degree": 11
+      }
+    ],
+    "super_node_degree": 100,
+    "super_node_edge_cap": 50,
+    "global_edge_cap": 250,
+    "rejected_high_sim": [
+      {
+        "type": "Company",
+        "left": "Amazon Web Services (AWS)",
+        "right": "Amazon Web Services",
+        "similarity": 0.9287389516830444,
+        "decision": "REJECT_GUARD",
+        "reason": "extra_qualifier_tokens:aws"
+      },
+      {
+        "type": "Company",
+        "left": "Polymer Technology and Services LLC",
+        "right": "Polymer Technology & Services",
+        "similarity": 0.927374005317688,
+        "decision": "REJECT_GUARD",
+        "reason": "extra_qualifier_tokens:and"
+      },
+      {
+        "type": "Technology",
+        "left": "Generative AI Solution",
+        "right": "generative AI",
+        "similarity": 0.9094799160957336,
+        "decision": "REJECT_GUARD",
+        "reason": "extra_qualifier_tokens:solution"
+      },
+      {
+        "type": "Technology",
+        "left": "2013",
+        "right": "2014",
+        "similarity": 0.9061304330825806,
+        "decision": "REJECT_GUARD",
+        "reason": "version_or_digit_mismatch"
+      },
+      {
+        "type": "Technology",
+        "left": "Cloud computing",
+        "right": "cloud computing service",
+        "similarity": 0.9030957221984863,
+        "decision": "REJECT_GUARD",
+        "reason": "extra_qualifier_tokens:service"
+      }
+    ]
+  },
+  "supernode_demo": {
+    "node": "Microsoft",
+    "real_degree": 15,
+    "test_threshold": 14,
+    "test_cap": 5,
+    "edges_without_cap": 15,
+    "edges_with_cap": 5,
+    "cut_correct": true,
+    "kept_most_recent": true,
+    "production_threshold": 100,
+    "production_cap": 50
+  },
+  "failure_cases": {
+    "graph_win": {
+      "id": "G5000-50",
+      "group": "multi-hop",
+      "delta": 2.333333333333333
+    },
+    "flat_win": {
+      "id": "G5000-43",
+      "group": "cross-doc",
+      "delta": -1.9999999999999996
+    }
+  },
+  "bonus_community": {
+    "communities": 364,
+    "reports": 5,
+    "global_question": "What are the dominant themes across the ingested tech news, and which entities drive them?",
+    "global_latency_s": 3.92,
+    "global_tokens": 1218
+  },
+  "bonus_self_correction": {
+    "questions": 3,
+    "routes": {
+      "hop3+vector": 2,
+      "hop2": 1
+    },
+    "quality_before": 1.33,
+    "quality_after": 2.55
+  }
+}

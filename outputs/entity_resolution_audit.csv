@@ -1,0 +1,16 @@
+type,left,right,similarity,decision,reason
+Company,Apple Inc,Apple,1.0,MERGE_MANUAL,manual_alias_map
+Company,Meta Platforms Inc,Meta,1.0,MERGE_MANUAL,manual_alias_map
+Company,Meta Platforms,Meta,1.0,MERGE_MANUAL,manual_alias_map
+Company,ISG (Information Services Group),Information Services Group (ISG),0.981326699256897,MERGE_VECTOR,lexical_ratio=0.87(need>=0.72)
+Technology,Generative AI Solution,Generative AI Solutions,0.955185055732727,MERGE_VECTOR,lexical_ratio=0.98(need>=0.84)
+Company,Amazon Web Services (AWS),Amazon Web Services,0.9287389516830444,REJECT_GUARD,extra_qualifier_tokens:aws
+Company,Polymer Technology and Services LLC,Polymer Technology & Services,0.927374005317688,REJECT_GUARD,extra_qualifier_tokens:and
+Company,Cumulus Technology Services,Cumulus Technology Services Inc.,0.9271860122680664,MERGE_VECTOR,same_core_name_after_suffix_strip
+Company,L&T Technology Services,L&T Technology Services Limited,0.9257732629776001,MERGE_VECTOR,same_core_name_after_suffix_strip
+Company,Fidelity National Information Services Inc.,Fidelity National Information Services,0.9245242476463318,MERGE_VECTOR,same_core_name_after_suffix_strip
+Company,L&T Technology Services Limited,L&T Technology Services Ltd,0.9202024340629578,MERGE_VECTOR,same_core_name_after_suffix_strip
+Technology,Generative AI Solution,generative AI,0.9094799160957336,REJECT_GUARD,extra_qualifier_tokens:solution
+Technology,2013,2014,0.9061304330825806,REJECT_GUARD,version_or_digit_mismatch
+Technology,Cloud computing,cloud computing service,0.9030957221984863,REJECT_GUARD,extra_qualifier_tokens:service
+Company,L&T Technology Services,L&T Technology Services Ltd,0.9029192924499512,MERGE_VECTOR,same_core_name_after_suffix_strip

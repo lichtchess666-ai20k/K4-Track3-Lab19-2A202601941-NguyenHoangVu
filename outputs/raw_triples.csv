@@ -1,0 +1,556 @@
+source_raw,source_type,relation,target_raw,target_type,source_chunk_id,published_date,evidence,confidence
+onsemi,Company,DEVELOPED,Sustainable Energy Applications,Technology,1a05beb7aa3071be6fd7::c0000,2023-05-16,onsemi and Sineng Electric Spearhead the Development of Sustainable Energy Applications.,0.9
+Sineng Electric,Company,PARTNERED_WITH,onsemi,Company,1a05beb7aa3071be6fd7::c0000,2023-05-16,Sineng Electric will integrate onsemi EliteSiC silic.,0.9
+GreenPages,Company,ACQUIRED,Zanaris,Company,4bd7afdba71243b0dbcd::c0000,2023-05-02,GreenPages acquired Toronto-based Zanaris an IT automation cloud and DevOps services firm.,0.9
+Press Gazette,Company,WORKED_AT,Richard Jamieson,Person,5f54d2695696a7b61748::c0000,2022-12-27,Contact Richard Jamieson to enquire about working with Press Gazette.,0.8
+Uber,Company,PARTNERED_WITH,HP,Company,f9038f2ec250a401856d::c0000,2023-10-04,Uber HP and more in the latest Market Talks covering Technology Media and Telecom.,0.7
+Aeris Communications,Company,ACQUIRED,IoT Business from Ericsson,Technology,4f1346392056a403277d::c0000,2022-12-07,Aeris to Acquire IoT Business from Ericsson.,0.9
+Sojern,Company,ACQUIRED,VenueLytics,Company,ea275b79c4b3b46d5941::c0000,2023-07-11,Sojern has acquired VenueLytics a platform that provides guest management and communications software for independent hotels.,1.0
+Samsung Electronics Co. Ltd.,Company,DEVELOPED,analog and logic semiconductor technologies,Technology,8c5930949a3d9f3c3a38::c0000,2023-10-05,Samsung Electronics Co. Ltd. a world leader in advanced semiconductor technology today unveiled its latest innovations in analog and logic semiconductor technologies.,1.0
+IAS,Company,PARTNERED_WITH,Amazon Publisher Services,Company,37086f833cf0b2a400a7::c0000,2023-03-29,IAS provides verification solution to Amazon Publisher Services Connections Marketplace.,1.0
+Intelligent Technical Solutions,Company,ACQUIRED,Granite Computer Solutions,Company,f982dd2920614d44fec3::c0000,2023-03-28,"Intelligent Technical Solutions ('""ITS'"") a portfolio company of Tower Arch Capital is pleased to announce that it has acquired Granite Computer Solutions.",1.0
+SIOS Technology Corp,Company,PARTNERED_WITH,ACP IT Solutions GmbH,Company,30eabd8710efff4abc2e::c0000,2023-08-14,SIOS Technology Corp. announced it has partnered with ACP IT Solutions GmbH.,1.0
+Iridium Communications Inc.,Company,PARTNERED_WITH,Smithsonian Institution,Company,f72955d8ffe5ac53791f::c0000,2022-12-14,Iridium Communications Inc. announced it has created a program in support of the Smithsonian Institution's Movement of Life Initiative.,1.0
+Crexendo,Company,PARTNERED_WITH,Jenne Inc.,Company,391d8c6c09f3574ace59::c0000,2023-04-19,Crexendo announced that Jenne Cloud Services Brokerage is a new Technology Services Brokerage for its VIP Business Communications Platform.,1.0
+AGC Biologics,Company,PARTNERED_WITH,Gore,Company,43bdd40313e396c6a385::c0000,2022-12-12,AGC Biologics and Gore Collaborate on New Protein A-based Purification Technology.,1.0
+Kyndryl,Company,DEVELOPED,Kyndryl Bridge,Technology,94a62a94ab16d915b043::c0000,2023-07-21,Kyndryl Bridge provides new way to manage technology services.,1.0
+Ann Lewis,Person,WORKED_AT,GSA’s Technology Transformation Services,Technology,bc6b456aa5e8126cdfe6::c0000,2022-12-05,Ann Lewis as director of Technology Transformation Services at the General ...,1.0
+LeanTaaS,Company,ACQUIRED,Hospital IQ,Company,99f8ce77e2f393b9bdc5::c0000,2023-01-10,LeanTaaS Acquires Hospital IQ to Create AI Innovator for Hospital Operations Optimization.,1.0
+Synechron,Company,ACQUIRED,Attra,Company,ad39674c1e91442967c9::c0000,2023-01-10,Synechron Completes Integration of Payments Services and Solutions Provider Attra.,1.0
+Citi,Company,DEVELOPED,Citi Token Services,Technology,3ac1a0d4fdc98952e374::c0000,2023-09-26,Citi has launched a token service using blockchain technology.,1.0
+ATS Corporation,Company,ACQUIRED,Odyssey,Company,ef0b07436a0a914a91f5::c0000,2023-07-19,ATS Corporation Acquires Life Science Digitalization Solutions Provider Odyssey.,1.0
+Prolucent,Company,PARTNERED_WITH,UKG,Company,67de1c052ef8ee466663::c0000,2023-09-06,Prolucent and UKG Announce Technology Integration Partnership.,1.0
+Janet Zelenka,Person,WORKED_AT,Stericycle,Company,865c9af63776d20d05bf::c0000,2023-05-30,Stericycle Chief Financial Officer and Chief Information Officer Janet Zelenka Wins 2023 Bronze Stevie® Award for Technology Executive of the Year.,1.0
+Amazon Web Services (AWS),Company,USES,Artificial Intelligence (AI)/machine learning (ML) technology,Technology,4c8e9044ab0a5a6808a6::c0000,2022-12-29,Through their Artificial Intelligence (AI)/machine learning (ML) technology they help businesses like ADP.,1.0
+NaaS Technology Inc.,Company,WORKED_AT,Alex Wu,Person,6f26357f3b491431d308::c0000,2022-12-31,NaaS Technology Inc. Announces Appointment of Alex Wu as Chief Financial Officer President and Director.,1.0
+Freshworks Inc.,Company,DEVELOPED,AI-Powered Customer Service Suite,Technology,99960131a7d0ad05e9a8::c0000,2022-12-13,Freshworks Inc. (NASDAQ: FRSH) today announced the launch of its AI-powered Customer Service Suite.,1.0
+Fidelity National Information Services Inc.,Company,ACQUIRED,Worldpay,Company,e932445090da75b8ccf6::c0000,2022-12-15,the company sought to widen its reach with the acquisition of Cincinnati-based Worldpay and its technology services for merchants.,1.0
+Dr. DeAngela Burns-Wallace,Person,WORKED_AT,Office of Information Technology Services,Company,c5db2bd7139995b91931::c0000,2022-12-05,Dr. Burns-Wallace also has led the Office of Information Technology Services as Chief Information Technology Officer (CITO).,1.0
+NEC Ibérica,Company,PARTNERED_WITH,NEC Laboratories Europe,Company,7c5e88e7b3e60a535fa2::c0000,2022-12-06,NEC Ibérica and NEC Laboratories Europe advance data space and 5G technology research.,1.0
+Eseye,Company,DEVELOPED,Managed IoT Connectivity Services,Technology,7a5d5318675abc95f53b::c0000,2023-02-01,Eseye a pioneer of integrated cellular IoT connectivity solutions today announced that it has been positioned by Gartner® as a Visionary in the 2023 Magic Quadrant™ for Managed IoT Connectivity Services.,1.0
+KPI Solutions,Company,LEADS,Chris Barber,Person,ab1d771b4619c4a10e5a::c0000,2023-06-05,Chris Barber leads the eastern regional team,1.0
+Synopsys,Company,PARTNERED_WITH,TSMC,Company,f97319155372aaf4ff0d::c0000,2023-05-02,Synopsys has recently announced its collaboration with TSMC,1.0
+Celonis,Company,PARTNERED_WITH,Tech Mahindra,Company,f58908ba6f80b8ed6e3c::c0000,2023-02-16,Celonis and Tech Mahindra have also embarked on a journey to co-create solutions,1.0
+KKR,Company,INVESTED_IN,CoolIT Systems,Company,15499a6ad60f9ef2500b::c0000,2023-05-02,Investment firm will acquire CoolIT Systems,1.0
+Syzygy Plasmonics,Company,PARTNERED_WITH,Emerson,Company,a75590d21e68cf765c79::c0000,2023-05-15,Syzygy Plasmonics Selects Emerson to Automate Electrification,1.0
+IFI Techsolutions,Company,WORKED_AT,Microsoft,Company,f2a20c3f98c3fb8dc3cc::c0000,2023-05-15,As a global Microsoft partner IFI Techsolutions continues to verify its excellence,1.0
+Leo Howell,Person,WORKED_AT,Institute,Company,e2d62731f2691c8351bb::c0000,2023-06-12,Leo Howell will join the president’s cabinet as the interim vice president for Information Technology and chief information officer for the Institute.,1.0
+Smart Eye,Company,DEVELOPED,Driver Monitoring System (DMS),Technology,452645a488a55910006f::c0000,2023-06-26,Smart Eye the leading developer of Driver Monitoring System (DMS) technology to the automotive industry today announced it has signed a breakthrough.,1.0
+Polso™,Technology,DEVELOPED,Remote Patient Monitoring (RPM),Technology,302c68cfcdef99cf0eb7::c0000,2022-12-06,Polso™ the company's Remote Patient Monitoring (RPM) solution achieving 510(k) clearance from the U.S. Food and Drug Administration (FDA).,1.0
+Microsoft,Company,PARTNERED_WITH,Viasat,Company,33f76af2d7f1afee070c::c0000,2022-12-14,Microsoft and Viasat announce new partnership to deliver internet access to underserved communities globally.,1.0
+Data Innovations,Company,DEVELOPED,Instrument Manager™ 2023,Technology,b79a700c32d38dfbb808::c0000,2023-07-20,Data Innovations Announces New Generation of Lab Productivity Software with Instrument Manager™ 2023.,1.0
+Vishnu Sundaram,Person,WORKED_AT,Stellantis,Company,27fac80a97eee4ee8fde::c0000,2023-08-05,Vishnu Sundaram is leaving Vishnu Sundaram's job as Stellantis senior vice president of cockpit and connected services.,1.0
+Dubai Electricity and Water Authority (DEWA),Company,USES,ChatGPT technology,Technology,ebe57b3790f81ceb3734::c0000,2023-02-09,DEWA is the first utility in the world to enrich its services with ChatGPT technology.,1.0
+Saeed Mohammed Al Tayer,Person,WORKED_AT,Dubai Electricity and Water Authority (DEWA),Company,ebe57b3790f81ceb3734::c0000,2023-02-09,Saeed Mohammed Al Tayer MD & CEO of Dubai Electricity and Water Authority (DEWA) announced that DEWA is working to enrich its services with ChatGPT technology supported by Microsoft.,1.0
+L&T Technology Services,Company,PARTNERED_WITH,Qualcomm,Company,566e41efa663f190cf11::c0000,2023-02-23,L&T Technology Services and Qualcomm Selected by Thales for Enabling 5G Private Networks in Urban Railways.,1.0
+Thales,Company,PARTNERED_WITH,L&T Technology Services,Company,566e41efa663f190cf11::c0000,2023-02-23,L&T Technology Services and Qualcomm Selected by Thales for Enabling 5G Private Networks in Urban Railways.,1.0
+Apogee,Company,ACQUIRED,Cumulus Technology Services,Company,8558ae812cf7531af5ad::c0000,2022-12-16,Apogee Acquires Cumulus Technology Services.,1.0
+Start Campus,Company,PARTNERED_WITH,Colt Technology Services,Company,0dada0b4eeb22de7f0e3::c0000,2023-09-26,Start Campus Announces Partnership with Colt Technology Services.,1.0
+L&T Technology Services,Company,PARTNERED_WITH,Qualcomm,Company,aae0cde6aa5936507114::c0000,2023-02-23,L&T Technology Services and Qualcomm Selected by Thales for Enabling 5G Private Networks.,1.0
+Raleon,Company,FOUNDED,Nathan Snell,Person,b78a3e8e1fbfd8bed3f1::c0000,2023-08-25,Nathan Snell co-founder and CEO of Wilmington-based Raleon.,1.0
+o9 Solutions,Company,PARTNERED_WITH,Telangana Government,Company,41bcc9438630e1ac3cd8::c0000,2023-08-27,o9 Solutions Announces Hyderabad Office and Strategic Partnership With Telangana Government.,1.0
+Shipsy,Company,ACQUIRED,Stockone,Company,d4390fbeda5c6c8aee51::c0000,2023-10-26,Shipsy Completes Stockone Acquisition,1.0
+Squeeze,Company,ACQUIRED,Youtility,Company,e6fe754774c1e887b74f::c0000,2023-10-26,Youtility UK Fintech Switching Platform Acquired by Squeeze,1.0
+Christopher Kirchner,Person,WORKED_AT,Slync,Company,a173bd25c1a7d148ccb5::c0000,2023-10-27,co-founder and former CEO Christopher Kirchner,1.0
+Altitude Angel,Company,PARTNERED_WITH,Saab,Company,d4bf78236de2014d810a::c0000,2022-12-06,Altitude Angel and Saab to partner on Digital Tower technology,1.0
+Pavion,Company,ACQUIRED,K&J Integrated Systems,Company,81c46f857ea3e5e7aca2::c0000,2023-07-18,Pavion Acquires K&J Integrated Systems.,1.0
+L&T Technology Services,Company,PARTNERED_WITH,Airbus,Company,27eb86bc517fa9da3bea::c0000,2023-01-20,L&T Technology Services Selected as Strategic Engineering Partner to Airbus for Advanced Capabilities and Digital Manufacturing Services.,1.0
+Synechron,Company,PARTNERED_WITH,VisionGroup,Company,2b46329dfa395cdd1731::c0000,2023-07-12,Synechron and VisionGroup Partner to Leverage dataSense.,1.0
+Synechron,Company,DEVELOPED,dataSense,Technology,2b46329dfa395cdd1731::c0000,2023-07-12,Leverage dataSense. Enhanced Data Management Tool,1.0
+Ceinsys Tech Ltd,Company,FOUNDED,25 Years,Technology,f83974ad32c352a2bc19::c0000,2023-07-10,celebrates 25 Years of Enhancing Possibilities,1.0
+Associated Press,Company,PARTNERED_WITH,OpenAI,Company,67f61078101e32548302::c0000,2023-07-13,AP Open AI agree to share select news content and technology,1.0
+General Motors,Company,ACQUIRED,information technology center,Technology,9ffda011e882d99077a4::c0000,2023-08-24,General Motors to close information technology center near Phoenix and eliminate 940 jobs.,1.0
+MEF,Company,DEVELOPED,SASE Product and Services Certification,Technology,4a67a8e832498753f8f3::c0000,2023-10-03,16 Leading Technology and Service Providers Launch Industry's First SASE Product and Services Certification.,1.0
+Senzary LLC,Company,FOUNDED,Eric Schummer,Person,1f966db1e28d1122c747::c0000,2023-01-24,we spoke with Eric Schummer the founder and CEO of Senzary LLC.,1.0
+Aqara,Company,PARTNERED_WITH,Samsung,Company,3387461d5f34cf26d922::c0000,2023-10-05,Aqara's latest occupancy sensor has been working with Samsung to add the SmartThings compatibility.,1.0
+stow Robotics,Company,PARTNERED_WITH,Phononic,Company,7a2aa73c4efd65b86ed3::c0000,2023-01-31,stow Robotics and cooling vendor Phononic partner on cold-chain fulfillment.,1.0
+Salesforce,Company,USES,Onfido,Technology,5d1b820633fed409a90e::c0000,2023-05-05,Salesforce is boosting its Know Your Customer (KYC) capabilities by integrating with Onfido.,1.0
+Andrew Ellam,Person,WORKED_AT,Climate X,Company,3b246fb9ef650e580f3c::c0000,2023-01-17,Climate X a Climate Risk Data and Analytics Provider Appoints Andrew Ellam as VP of Technology.,1.0
+Juniper Networks,Company,PARTNERED_WITH,Deutsche Telekom,Company,3e7c45346a95726c2d85::c0000,2023-01-05,Juniper Networks Selected as Preferred Technology Partner for Deutsche Telekom’s Universal Managed Services Infrastructure.,1.0
+Opsys Tech,Company,DEVELOPED,LiDAR-integrated Intelligent Automotive Taillight Solution,Technology,8b7cb645691ae062d526::c0000,2023-01-03,Opsys Tech to Display LiDAR-Integrated Intelligent Automotive Taillight Solution Co-Developed with South Korean Auto Supplier SL Corp.,1.0
+Opsys Tech,Company,PARTNERED_WITH,SL Corp.,Company,8b7cb645691ae062d526::c0000,2023-01-03,co-Developed with South Korean Auto Supplier SL Corp.,1.0
+Deloitte,Company,PARTNERED_WITH,ServiceNow,Company,eb746e73990fceb34bd5::c0000,2023-10-26,Deloitte and ServiceNow Expand Alliance to Integrate Now Assist Generative AI Capabilities.,1.0
+Evernorth Health Services,Company,ACQUIRED,Bright.md,Technology,2e7b477d4cf02b299c80::c0000,2023-10-10,Evernorth Health Services Buys Bright.md Technology Platform.,1.0
+Costa Coffee,Company,PARTNERED_WITH,Vista Technology,Company,cee885efbfc10d2cc5b5::c0000,2023-09-29,Costa is thrilled to welcome Vista Technology as Costa Coffee's new retail stores break-fix provider.,1.0
+L&T Technology Services,Company,PARTNERED_WITH,Palo Alto Networks,Company,227844974155bca2484d::c0000,2023-06-30,L&T Technology Services Joins Forces With Palo Alto Networks as MSSP Partner for OT Security Offerings.,1.0
+Ryan Specialty,Company,ACQUIRED,Socius Insurance Services,Company,331537d8f978a369b442::c0000,2023-05-23,Ryan Specialty has signed a definitive agreement to acquire Socius Insurance Services.,1.0
+Samsung,Company,DEVELOPED,OLED display with embedded heart rate sensor,Technology,cf095df30bfa3f72399f::c0000,2023-05-23,Samsung unveils OLED display with embedded heart rate sensor.,1.0
+Abdullah bin Amer Alswaha,Person,LEADS,LEAP23,Company,527bd7b919297d10fe32::c0000,2023-02-06,Abdullah bin Amer Alswaha the Minister of Communications and Information Technology (MCIT) during a keynote address ...,1.0
+SoftBank,Company,PARTNERED_WITH,Oasys,Company,a7921710420bc70a05c9::c0000,2023-02-16,Gaming Network Oasys Onboards Japan Conglomerate SoftBank as Network Validator.,1.0
+Truescope,Company,ACQUIRED,Universal Information Services,Company,6b2df96f0e83997db38c::c0000,2023-02-01,Truescope Acquires US Firm Universal Information Services.,1.0
+NTT Data Payment Services,Company,USES,Facctum anti-financial crime technology,Technology,6a641b4b841cad0b7d9f::c0000,2023-05-15,NTT Data Payment Services implements Facctum anti-financial crime technology.,1.0
+Transact,Company,PARTNERED_WITH,Talkiatry,Company,55a09cbc43c41ffb2dd9::c0000,2023-09-05,The partnership will 'provide students with access to quality psychiatric services' Talkiatry said.,1.0
+Fidelity National Information Services,Company,FOUNDED,Fidelity National Information Services Inc.,Company,076f311078c872e47169::c0000,2023-02-16,Headquartered in Jacksonville Florida Fidelity National Information Services Inc. (NYSE:FIS) is a financial technology solutions provider.,1.0
+Doug Twitchell,Person,WORKED_AT,information security,Technology,a03933e5895da5c8ae9e::c0000,2023-04-03,Doug Twitchell has been researching and teaching in information security for 15 years.,1.0
+Primoris Services,Company,LEADS,information technology,Technology,67aa550ef842c925d41b::c0000,2023-02-10,Haxton joined Primoris in 2019 as senior vice president of information technology to lead Primoris' digital strategy.,1.0
+TOJOY Association for Science and Technology,Technology,PARTNERED_WITH,Beijing Association for Science and Technology,Company,8f32e649facfc0135211::c0000,2023-04-20,The association is comprised of scientific and tech workers within Chinese business accelerator TOJOY and the Beijing Association for Science and Technology's membership.,1.0
+NYMBUS,Company,DEVELOPED,financial technology,Technology,a7f48e655bc7a4f4464b::c0000,2023-05-04,NYMBUS® a premier provider of cutting-edge financial technology.,1.0
+Syxsense,Company,PARTNERED_WITH,EVOTEK,Company,7212a4fa587f15b9216c::c0000,2023-04-21,Syxsense EVOTEK Partner to Make Endpoint Security Management Easier,1.0
+Omantel,Company,PARTNERED_WITH,Huawei,Company,bbc85d5c88e845ee4991::c0000,2023-04-07,Omantel and Huawei host Oman Huawei ICT Academies conference.,1.0
+Oman Ministry of Transport Communication and Information Technology,Company,PARTNERED_WITH,Omantel,Company,bbc85d5c88e845ee4991::c0000,2023-04-07,The event was hosted in partnership with the Oman Ministry of Transport Communication and Information Technology and Omantel.,1.0
+Patrick Racz,Person,WORKED_AT,Smartflash,Company,198660b5d2a419ac68f2::c0000,2023-04-17,Inventor Patrick Racz claims his Smartflash technology is at the heart of the ...,1.0
+Senser,Company,FOUNDED,2021,Technology,125b329c27f612e3fa1d::c0000,2023-09-27,Before launching Senser in 2021,1.0
+Krayden,Person,LEADS,Senser,Company,125b329c27f612e3fa1d::c0000,2023-09-27,Krayden and Co-Founders Or Sadeh and Yuval Lev honed their skills as tech leaders at DriveNets.,1.0
+SITA,Company,PARTNERED_WITH,Airports Authority of India,Company,70175d5248e739d351ec::c0000,2023-07-14,SITA has been awarded a landmark deal from the Airports Authority of India to provide technology to 43 of India’s airports.,1.0
+Carl Petch,Person,LEADS,Telstra Broadcast Services,Company,7cc65480435ad2b2475c::c0000,2023-02-02,Carl Petch is CTO for Telstra Broadcast Services and leads the global Broadcast and Media Engineering and Solutions Architecture teams.,1.0
+PDF Solutions Inc.,Company,DEVELOPED,Q3 2022 Earnings Call,Technology,09467c8771a777403cd3::c0000,2022-12-29,PDF Solutions Inc. (NASDAQ:PDFS) Q3 2022 Earnings Call Transcript.,1.0
+eologix sensor technology,Technology,PARTNERED_WITH,Ping Services,Company,9bd710fbf37dd4562cae::c0000,2023-05-23,eologix sensor technology and Ping Services announce merger.,1.0
+Lessen,Company,ACQUIRED,SMS Assist,Company,b96c11fcaeeb44c59dae::c0000,2023-01-25,Lessen Acquires SMS Assist Signaling A New Era for Property Technology and Services.,1.0
+ServiceNow,Company,PARTNERED_WITH,NVIDIA,Company,a5a8b0ece135c638d4f0::c0000,2023-07-27,ServiceNow NVIDIA and Accenture Partner to Accelerate Generative AI Adoption for Enterprises.,1.0
+ServiceNow,Company,PARTNERED_WITH,Accenture,Company,a5a8b0ece135c638d4f0::c0000,2023-07-27,ServiceNow NVIDIA and Accenture Partner to Accelerate Generative AI Adoption for Enterprises.,1.0
+Amazon Web Services,Technology,USES,low-code/no-code platforms,Technology,4153ddf8a3ef83ffd227::c0000,2022-12-13,The extraordinary success of Amazon Web Services (AWS) which is used to power many thousands ...,1.0
+Elon Musk,Person,ACQUIRED,Twitter,Company,eddaf77d809073096723::c0000,2023-01-02,Here’s who helped Elon Musk buy Twitter.,1.0
+SHI International Corp,Company,WORKED_AT,malware attack,Technology,5a4458b64ef130731c71::c0000,2023-08-27,SHI International Corp network was hit by a malware attack over the weekend.,1.0
+Ochsner Health,Company,USES,iPhone technology,Technology,c1e072bd863674bef23d::c0000,2023-08-01,Ochsner Health uses iPhone technology to remotely monitor patients.,1.0
+Symrise,Company,ACQUIRED,Swedencare,Company,66477a526552e1863d65::c0000,2023-06-05,Symrise AG said on Monday it has made a bid approach for Swedencare AB just days after acquiring a nearly 30% stake in the Swedish pet healthcare firm.,1.0
+Honeywell,Company,USES,technology,Technology,1c533bcd1678c3e7ddde::c0000,2023-09-08,Providers such as Honeywell augment those systems with more information during taxi takeoffs and landings.,1.0
+JPMorgan,Company,USES,Vestwell's technology,Technology,866e313c0921090ade13::c0000,2023-05-12,JPMorgan Asset Management will be using Vestwell's technology to run JPMorgan Asset Management Everyday 401(k) program.,1.0
+IIIT Hyderabad,Company,PARTNERED_WITH,Synergy Quantum India,Company,c688d3f041d2d5915546::c0000,2023-04-03,International Institute of Information Technology Hyderabad (IIITH) has entered a strategic partnership with Synergy Quantum India.,1.0
+H.I.G. Capital,Company,ACQUIRED,Synecore Limited,Company,00884876aed18b6025c0::c0000,2023-03-30,H.I.G. Capital announced that one of its affiliates has acquired Synecore Limited.,1.0
+H.I.G. Capital,Company,ACQUIRED,Meesons Futures Limited,Company,00884876aed18b6025c0::c0000,2023-03-30,H.I.G. Capital announced that one of its affiliates has acquired Meesons Futures Limited.,1.0
+ServiceNow,Company,PARTNERED_WITH,NVIDIA,Company,531b5c0beb405c822e6c::c0000,2023-05-17,ServiceNow and NVIDIA today announced a partnership to develop powerful enterprise-grade generative AI capabilities.,1.0
+Wultra,Company,PARTNERED_WITH,iProov,Company,0a9667e0fa18862d9bc1::c0000,2023-05-10,Wultra and iProov Partner to Bring Biometric Technology to Banks and Financial Services Technology Providers.,1.0
+Zoomcar,Company,WORKED_AT,Ashu Singhal,Person,fb0a4f3af474c344139e::c0000,2023-01-10,Zoomcar appoints Ashu Singhal as chief technology and product officer.,1.0
+ILUS,Company,FOUNDED,Hyperion Defense Solutions,Company,9bf715f9405417bf650f::c0000,2023-02-13,ILUS co-founded Hyperion Defense Solutions (Hyperion) alongside two experienced and esteemed British military veterans Chris Derbyshire and Tim Grey.,1.0
+Chris Derbyshire,Person,WORKED_AT,Hyperion Defense Solutions,Company,9bf715f9405417bf650f::c0000,2023-02-13,Chris Derbyshire and Tim Grey's combined 34 years of military service and 22 years holding senior roles in the defense sector.,1.0
+Tim Grey,Person,WORKED_AT,Hyperion Defense Solutions,Company,9bf715f9405417bf650f::c0000,2023-02-13,Chris Derbyshire and Tim Grey's combined 34 years of military service and 22 years holding senior roles in the defense sector.,1.0
+Claroty,Company,DEVELOPED,Vulnerability Response Integrations,Technology,127fbbd7afb3d21b8f46::c0000,2023-03-16,Claroty Announces Vulnerability Response Integrations with ServiceNow Service Graph Connector.,1.0
+U.S.,Company,USES,decentralized finance services,Technology,4342b297c498728c5864::c0000,2023-05-19,U.S. says decentralized finance services being used for illicit transfers.,1.0
+Truescope,Company,ACQUIRED,Universal Information Services,Company,ab151b6a1adfb5f2f0cc::c0000,2023-02-01,Truescope has strengthened its position in North America by acquiring leading agency Universal Information Services (UIS),1.0
+Apogee,Company,ACQUIRED,Cumulus Technology Services Inc.,Company,1e5a2e2af17af23526ed::c0000,2023-01-07,Apogee Acquires Cumulus Technology Services Inc. to Enhance Managed Technology Services Leadership Position in Higher Education.,1.0
+Syndio,Company,PARTNERED_WITH,Broadridge Financial Solutions,Company,50d4814b02921aac09ce::c0000,2023-01-12,Syndio announced a new partnership today with global Fintech leader Broadridge Financial Solutions.,1.0
+Infineon,Company,PARTNERED_WITH,Resonac,Company,3eb3bbec9f72d4fc392e::c0000,2023-01-12,Infineon and Resonac expand cooperation.,1.0
+Philips Research,Company,DEVELOPED,tiny magnetic tracking and sensing device,Technology,0857214eada5f4bc8f3b::c0000,2023-06-02,A group of bio-engineers at Philips Research has developed a tiny magnetic tracking and sensing device.,1.0
+Synkrato,Company,DEVELOPED,Digital Twin and AI-Driven Logistics,Technology,c348daa0a79b96afab38::c0000,2023-03-15,The latest release of Synkrato Digital Twin and AI-Driven Logistics introduces new capabilities for warehouse optimization.,1.0
+Alight Inc.,Company,DEVELOPED,behavioral health navigation services,Technology,fe34ec9a3ba086639dfc::c0000,2023-06-08,Alight Inc. announced the launch of enhanced services to help employees and families navigate complex behavioral health concerns.,1.0
+Athersys,Company,DEVELOPED,SIFU Technology,Technology,71ac288d2843834a7e99::c0000,2023-02-28,Athersys Expands IP Protection with First New Patent for SIFU(R) Technology.,1.0
+Athersys,Company,DEVELOPED,MultiStem(R),Technology,71ac288d2843834a7e99::c0000,2023-02-28,a cell therapy and regenerative medicine company developing MultiStem(R) (invimestrocel),1.0
+SYNLAB,Company,INVESTED_IN,Healthcare Centre in Florence,Technology,f9211f06d503f61f9f0e::c0000,2023-06-28,SYNLAB invests in innovative Healthcare Centre in Florence.,1.0
+IIIT Hyderabad,Company,PARTNERED_WITH,Synergy Quantum,Company,c8103d8f650a6b0dd81c::c0000,2023-04-04,IIIT Hyderabad partners with Synergy Quantum; launches Synergy Quantum Solution Lab.,1.0
+Samantha Rajapaksa,Person,WORKED_AT,EY Global Delivery Services,Company,98a29288a380434fe2cb::c0000,2023-05-18,Samantha Rajapaksa joins EY Global Delivery Services as Sri Lanka Location & Consulting Leader.,1.0
+Orion Innovation,Company,ACQUIRED,Sryas Inc,Company,cfc116b714f7ac4b1f13::c0000,2023-02-17,Orion Innovation acquires Sryas Inc for an 'undisclosed sum'.,1.0
+AutomationEdge,Company,PARTNERED_WITH,eAlliance Corp,Company,a3257fd6c94538cc3bb0::c0000,2023-07-31,AutomationEdge and eAlliance Corp announced partnership for Hyperautomation solutions.,1.0
+PSG,Company,DEVELOPED,BioProTT™ FlowSU System,Technology,914dda9bf5da53b8f0ee::c0000,2023-05-10,PSG Launches New and Updated Flow-Sensor and Flow-Measurement Technologies.,1.0
+PSG,Company,DEVELOPED,SumoFlo® CPFM-8103 Single-Use Coriolis Mass Flow Meter,Technology,914dda9bf5da53b8f0ee::c0000,2023-05-10,PSG Launches New and Updated Flow-Sensor and Flow-Measurement Technologies.,1.0
+Biz Technology Solutions,Company,PARTNERED_WITH,New Charter Technologies,Company,951a3c9eb3e42ebee74e::c0000,2023-04-24,the recent partnership between Biz Technology Solutions and New Charter Technologies.,1.0
+Integrated Water Services,Company,ACQUIRED,Hyperion International Technologies,Company,104393b197a54876f491::c0000,2023-03-07,Integrated Water Services Inc. recently acquired Hyperion International Technologies.,1.0
+L&T Technology Services,Company,PARTNERED_WITH,Qualcomm,Company,201da7854b95e5ee4a3a::c0000,2023-02-23,L T Technology Services and Qualcomm Selected by Thales for Enabling 5G Private Networks.,1.0
+Sensormatic Solutions,Company,WORKED_AT,Johnson Controls,Company,3ce400e63d38df552517::c0000,2023-01-11,Sensormatic Solutions the leading global retail solutions portfolio of Johnson Controls.,1.0
+L&T Technology Services,Company,DEVELOPED,L&T Technology Services March quarter scorecard,Technology,da8a398d2b05e0e0328e::c0000,2023-04-27,L&T Technology Services released L&T Technology Services March quarter scorecard.,1.0
+NZTE,Company,LEADS,Phil Hayward,Person,2fb8b754e37415a5965a::c0000,2023-04-27,NZTE’s director for information technology and services Phil Hayward says the organisation has been using videoconferencing.,1.0
+Service Express,Company,ACQUIRED,ServIQ,Company,9c13e3a847465ab9b5cc::c0000,2023-03-07,Service Express Acquires Data Center Support Provider ServIQ.,1.0
+Aeris,Company,ACQUIRED,Ericsson's IoT Accelerator and Connected Vehicle Cloud businesses,Technology,e0ebf26fe86416644315::c0000,2023-01-18,Aeris has acquired Ericsson's IoT Accelerator and Connected Vehicle Cloud businesses.,1.0
+STMicroelectronics,Company,PARTNERED_WITH,Sanan Optoelectronics,Company,06de57f74b88a373aabc::c0000,2023-06-07,STMicroelectronics and Sanan Optoelectronics said they are forming a semiconductor-manufacturing joint venture.,1.0
+DLH,Company,ACQUIRED,GRSi,Company,c529d3b8a38f6ead8606::c0000,2022-12-09,DLH Strengthens Information Technology and Cyber Capabilities through Acquisition of GRSi.,1.0
+Mukunda Penugonde,Person,WORKED_AT,GSA,Company,e8bba5749f22a824d36b::c0000,2023-04-12,Mukunda Penugonde joined TTS in the role on April 10 joining from the private.,1.0
+AXIS Capital Holdings Limited,Company,LEADS,Andy Maher,Person,1d7e5132da8c57675a76::c0000,2022-12-09,AXIS Capital Holdings Limited announced today that Andy Maher has been appointed Head of Cyber and Technology.,1.0
+CoolSys,Company,ACQUIRED,1GNITE,Company,7518983875956cf9c51e::c0000,2023-08-08,CoolSys which is backed by Ares Management has acquired 1GNITE.,1.0
+NCUA,Company,DEVELOPED,Financial Technology and Access Team,Technology,0e422b7481dce69123cb::c0000,2023-01-06,NCUA Names Director of New Financial Technology and Access Team.,1.0
+OpenAI,Company,DEVELOPED,open-source language model,Technology,9327e9c95eaa66cb4b94::c0000,2023-05-15,OpenAI is preparing to release a new open-source language model to the public.,1.0
+L&T Technology Services Limited,Company,FOUNDED,engineering research and development services,Technology,5c000f3a9d25c38d7d58::c0000,2023-07-07,L&T Technology Services Limited is an India-based engineering research and development services company.,1.0
+Symbiotic,Company,PARTNERED_WITH,SoftBank,Company,54b41f69ddb15bec3c4d::c0000,2023-09-24,Symbiotic is relying on a new joint venture with its other big backer SoftBank.,1.0
+Symbiotic,Company,USES,Walmart,Company,54b41f69ddb15bec3c4d::c0000,2023-09-24,Symbiotic generates most of its revenue from Walmart.,1.0
+Malta Information Technology Agency,Company,PARTNERED_WITH,Esri,Company,afd2ee3f8ae5a1336b9f::c0000,2023-02-17,Esri Signs Agreement with Malta Providing Access to GIS Technology Training.,1.0
+Infineon,Company,PARTNERED_WITH,Resonac,Company,181b0d81898358e6793d::c0000,2023-01-12,Infineon and Resonac expand SiC cooperation.,1.0
+Syndio,Company,DEVELOPED,PayEQ,Technology,70a9ec70493ed4a7faf1::c0000,2023-03-07,Through Syndio's landmark PayEQ and a suite of products and services.,1.0
+Jason Snyder,Person,WORKED_AT,Harvard,Company,ad086ce259b4a5bfb0a2::c0000,2023-01-04,Jason Snyder is currently the Chief Technology Officer at Harvard.,1.0
+Biz Technology Solutions,Company,PARTNERED_WITH,New Charter Technologies,Company,89d87a7bc0fe426ec873::c0000,2023-03-20,Managed IT Services Provider Biz Technology Solutions Enters Into Partnership With New Charter Technologies.,1.0
+Lessen,Company,ACQUIRED,Chicago company,Company,d6f9953716344339e832::c0000,2023-01-12,Lessen stretches reach nationally with acquisition of Chicago company.,1.0
+Olivia Igbokwe-Curry,Person,WORKED_AT,Amazon Web Services,Company,cff99781089196247006::c0000,2023-05-17,Olivia Igbokwe-Curry Amazon Web Services.,1.0
+Chris Soong,Person,WORKED_AT,HII,Company,bef5955953ad8b9538c1::c0000,2023-01-24,HII has promoted a new chief information officer from the company's own ranks in Chris Soong.,1.0
+Cass Information Systems Inc.,Company,WORKED_AT,C-suite,Technology,9455b5ed73fc59e6b5bd::c0000,2023-02-17,Cass Information Systems Inc. announced a promotion Friday to fill its top C-suite post.,0.9
+3CLogic,Company,PARTNERED_WITH,ServiceNow,Technology,61a1c40b921f530a0072::c0000,2023-03-16,CLogic the leading voice-enabling and cloud contact center solution for ServiceNow® today announced its gold-level sponsorship.,0.9
+L&T Technology Services Ltd,Company,ACQUIRED,Smart World & Communication (SWC) business,Company,e72f68c2e141879b6b58::c0000,2023-01-13,L&T Technology Services Ltd will acquire the Smart World & Communication (SWC) business of Larsen & Toubro Ltd (L&T).,0.9
+ILUS International Inc.,Company,DEVELOPED,IED Detection Technology,Technology,624af078e7889a343ee9::c0000,2023-05-10,ILUS Defence Subsidiary Hyperion Defence Solutions Signs Exclusive Global Distribution Agreement for Revolutionary IED Detection Technology.,0.9
+Dash Solutions,Company,ACQUIRED,KyckGlobal,Company,8f045fc8258f8511cae4::c0000,2023-08-30,Dash Solutions acquired KyckGlobal a financial technology company and payments platform.,1.0
+Syneos Health,Company,ACQUIRED,Private Investment Consortium,Company,787fdcddec5d638accde::c0000,2023-05-10,Syneos Health to be Acquired by a Private Investment Consortium for Approximately $7.1 Billion.,1.0
+Hywin,Company,DEVELOPED,WealthTech Platform,Technology,4fbb6af96dd246761913::c0000,2023-04-08,Hywin Launches WealthTech Platform to Enhance its Services for High-Net-Worth Clients.,1.0
+Hywin,Company,USES,IBM Technology,Technology,4fbb6af96dd246761913::c0000,2023-04-08,We chose IBM because IBM share our agile development philosophy.,1.0
+Ian Au-Yeung,Person,WORKED_AT,Synoptek,Company,33b7d62c89b0a8136829::c0000,2023-04-10,Synoptek Appoints Ian Au-Yeung as Chief Revenue Officer.,1.0
+Zane State College,Company,PARTNERED_WITH,Ohio College Tech Prep,Company,816955ffd6dbf6ec0f5f::c0000,2023-05-27,Zane State College has partnered with Ohio College Tech Prep to build and foster relationships.,1.0
+Pankaj Vyas,Person,LEADS,Siemens Technology and Services Pvt. Ltd.,Company,12ebdda3acda65d9fde8::c0000,2022-12-03,Pankaj Vyas CEO & MD Siemens Technology and Services Pvt. Ltd.,0.9
+ALTEN,Company,ACQUIRED,Accord Global Technology Solutions,Company,4bfba24dd1ac10a68b01::c0000,2023-08-02,ALTEN acquires Accord Global Technology Solutions an engineering services company based out of India.,1.0
+Options Technology,Company,PARTNERED_WITH,Microsoft,Company,f73febf774301e802436::c0000,2023-06-08,Options Named Microsoft Solutions Partner for Security.,1.0
+Trulioo,Company,PARTNERED_WITH,Beedie Luminaries,Company,d59999646b30a7138433::c0000,2022-12-21,Trulioo a leading global digital identity verification platform is partnering with Beedie Luminaries.,1.0
+Sym-Tech Dealer Services,Company,ACQUIRED,SSQ Dealer Services,Company,afe56b16ac4189e5da2c::c0000,2023-02-23,Sym-Tech Dealer Services Acquires SSQ Dealer Services From Beneva.,1.0
+Odysight.ai,Company,DEVELOPED,visual sensing and video analytics-based predictive maintenance technology,Technology,d68a5065b1d78e7173b4::c0000,2023-06-12,Odysight.ai's visual sensing and video analytics-based predictive maintenance technology is of paramount importance for operators of aviation system platforms.,1.0
+Sensormatic Solutions,Company,PARTNERED_WITH,Zliide,Company,adb56add69f473fc4105::c0000,2023-01-16,Sensormatic Solutions... announced its collaboration with Zliide...,1.0
+Johnson Controls,Company,WORKED_AT,Sensormatic Solutions,Company,adb56add69f473fc4105::c0000,2023-01-16,Sensormatic Solutions the leading global retail solutions portfolio of Johnson Controls...,1.0
+Stanbic IBTC,Company,DEVELOPED,payment solutions provider,Technology,5cc1eb8ec8e396285896::c0000,2023-05-18,The subsidiary will function primarily as a payment solutions provider...,1.0
+Vodafone Idea,Company,USES,5G technology,Technology,68c13dcf3b5f29e1fdd9::c0000,2023-05-17,Vodafone Idea could launch 5G services in India...,1.0
+Tyler Technologies,Company,ACQUIRED,Computing System Innovations,Company,ce379088171622825211::c0000,2023-08-08,Tyler Technologies Acquires Computing System Innovations Bolstering its AI-Powered Portfolio for the Public Sector.,1.0
+Amazon Web Services,Company,PARTNERED_WITH,Cerro Coso Community College,Company,d919f8d2254f218864e6::c0000,2023-01-13,Cerro Coso Community College in partnership with a grant from Amazon Web Services (AWS)...,1.0
+Aran Azarzar,Person,WORKED_AT,JFrog,Company,14d1a019718a11937f3d::c0000,2023-03-31,JFrog Welcomes Seasoned Technology and Security Leader Aran Azarzar as Chief Information Officer.,1.0
+Shlomi Ben Haim,Person,LEADS,JFrog,Company,14d1a019718a11937f3d::c0000,2023-03-31,reporting directly to co-Founder and CEO Shlomi Ben Haim.,1.0
+TRG,Company,ACQUIRED,Symec Technologies Limited,Company,db567fbc3ecaf164a9d2::c0000,2023-04-06,TRG has acquired Symec Technologies Limited.,1.0
+EY Global Services,Company,PARTNERED_WITH,IBM,Company,b35a64238e1c1756dd99::c0000,2023-04-14,EY Global Services will be joining the IBM Quantum Network.,1.0
+Zayo Group Holdings Inc.,Company,DEVELOPED,fastest direct network route,Technology,a0e517a3b0f50dcebc81::c0000,2023-04-13,Zayo announces the fastest direct network route connecting Manchester to New York.,1.0
+L&T Technology Services Limited,Company,PARTNERED_WITH,Ansys,Company,f726b48028b1dc9213af::c0000,2023-03-31,L&T Technology Services and Ansys have signed an MOU to establish the LTTS-Ansys Center.,1.0
+Hakimo,Company,DEVELOPED,AI Solution,Technology,872ab62a217b3d512b3d::c0000,2022-12-17,Hakimo AI Solution Completes Test and Evaluation by Safe Skies.,1.0
+Steve Bisciotti,Person,FOUNDED,Allegis Group,Company,e2ba521212fdf3954467::c0000,2022-12-07,Allegis Group grew out of a technology firm co-founded by Steve Bisciotti.,1.0
+TRG,Company,ACQUIRED,Symec Technologies Limited,Company,666c68f449cc6b887c12::c0000,2023-04-06,TRG has acquired Symec Technologies Limited.,1.0
+Swave Photonics,Company,WORKED_AT,Andrew Repton,Person,e5894f5190f3e547338a::c0000,2023-05-25,Swave Photonics adds Andrew Repton as Vice President of IC Design.,1.0
+Intelli-Systems,Company,LEADS,Joseph Vijay,Person,cb1c1f25b36af06749c5::c0000,2023-08-01,Interview with Intelli-Systems CEO Joseph Vijay.,1.0
+Fidelity National Information Services,Company,ACQUIRED,Worldpay,Company,764d2ab4e6c19eb2b0dc::c0000,2023-07-17,Fidelity National Information Services Inc. has announced the sale of a majority stake in Worldpay.,1.0
+IR,Company,USES,ServiceNow,Technology,d485e4fd1e196847d108::c0000,2023-05-31,IR streamlines alerts management with ServiceNow integration.,1.0
+Ministry of Electronics and Information Technology,Company,PARTNERED_WITH,state law enforcement agencies,Company,03fa49b4bb66ddcd9b0c::c0000,2023-03-31,The MHA has shared the list of these 117 apps with Ministry of Electronics and Information Technology (MeITY) and state law enforcement agencies.,1.0
+Jungheinrich AG,Company,ACQUIRED,Storage Solutions group,Company,6c6d0b8f252266fdcab3::c0000,2023-01-25,Jungheinrich AG to acquire Indiana-based Storage Solutions group.,1.0
+Tyemill,Company,ACQUIRED,Syntax,Company,b8b94c2495aad7393bb6::c0000,2023-04-19,Seattle-based research software company Tyemill has been acquired by Syntax an investment analytics company.,1.0
+Nokia,Company,PARTNERED_WITH,Graybar,Company,f09058baf99423abf9a4::c0000,2023-10-04,Nokia announced it is launching Autonomous Inventory Monitoring Service (AIMS) with Graybar.,1.0
+Mouser Electronics,Company,PARTNERED_WITH,Siemens,Company,12954de9eba2b977821f::c0000,2023-10-30,Mouser Electronics Partners with Siemens on Distribution Agreement for Industrial Automation Solutions.,1.0
+Tokyo University of Agriculture and Technology,Company,FOUNDED,1949,Technology,a3a9216f64a2295087f6::c0000,2023-03-07,Founded in 1949 Tokyo University of Agriculture and Technology (TUAT) is a public university.,1.0
+Kate Zabriskie,Person,WORKED_AT,Business Training Works Inc.,Company,7fb6b619633a3409bf24::c0000,2023-07-14,Kate Zabriskie is the president of Business Training Works Inc.,1.0
+Zerify Inc.,Company,PARTNERED_WITH,TD SYNNEX,Company,9c0927b56d20224be422::c0000,2023-06-21,Zerify Announces Partnership with Global IT Solutions Aggregator TD SYNNEX.,1.0
+KPN,Company,ACQUIRED,Youfone’s Dutch operations,Company,2d80011baea517699c83::c0000,2023-06-23,Rotterdam’s telecommunications firm KPN acquires Youfone’s Dutch operations for €200M.,1.0
+Fidelity National Information Services,Company,WORKED_AT,RBC Capital,Company,f007f0b8e5875e205bc8::c0000,2023-07-10,RBC Capital Maintains Fidelity National Information Services (FIS) Outperform Recommendation.,1.0
+Capellán,Person,LEADS,information technology,Technology,a3130d09023096d06430::c0000,2023-07-11,As CIO Capellán “will lead efforts to improve online services and user experience ...,1.0
+Intetics,Company,DEVELOPED,AI integrated virtual try-on solution,Technology,8074b9c660927637aa26::c0000,2023-08-29,Intetics a leading American technology company introduces AI integrated virtual try-on solution.,1.0
+ServiceNow,Company,DEVELOPED,Case Summarization and Text-to-Code,Technology,888196b6e1e07e67c3ae::c0000,2023-07-26,ServiceNow Expands Generative AI Capabilities With Case Summarization and Text-to-Code,1.0
+ServiceNow,Company,USES,Now Assist,Technology,888196b6e1e07e67c3ae::c0000,2023-07-26,Now Assist family of generative AI features being infused into the ServiceNow platform,1.0
+ICZOOM Group Inc.,Company,PARTNERED_WITH,Shenzhen Yongyutai Electronics Co. Ltd,Company,f8b4935419960bff0e27::c0000,2023-06-02,ICZOOM Group Inc. Welcomes KUU & YONGYUTAI Onto Its Electronic Component E-Commerce Platform,1.0
+EPFL,Company,DEVELOPED,Novel Biosensor,Technology,e1aebd34ff2e53de90af::c0000,2023-07-17,EPFL researchers have made a significant step forward in diagnosing neurodegenerative diseases,1.0
+IRIS Software Group,Company,DEVELOPED,IRIS Outsourcing,Technology,ea93adc60b4f392c193c::c0000,2023-09-05,IRIS Software Group is today launching IRIS Outsourcing for accounting firms,1.0
+Nuance,Company,USES,ambient NLP,Technology,566661b53200aef994ae::c0000,2023-06-18,ambient NLP is still in its infancy and is moving very quickly.,1.0
+Keysight Technologies Inc.,Company,PARTNERED_WITH,Synopsys Inc.,Company,7e488d38de19ca347679::c0000,2023-09-25,Keysight Technologies Inc. recently announced that it has collaborated with Synopsys Inc. to develop an enhanced cybersecurity validation solution.,1.0
+Smart Eye,Company,PARTNERED_WITH,Geotab,Company,5832bc05d213a6d34e84::c0000,2023-09-05,Smart Eye announced the integration of AIS with Geotab's industry-leading fleet management platform.,1.0
+National University of Singapore,Company,DEVELOPED,eAir,Technology,4abab6c92b7f1f15536d::c0000,2023-08-18,Researchers at the National University of Singapore have developed a novel aero-elastic pressure sensor called 'eAir.',1.0
+Spectros Medical Devices,Company,DEVELOPED,Tissue Monitoring Technology,Technology,2a846720bb6753332c82::c0000,2023-06-01,Spectros Medical Devices a leader in non-invasive sensing and remote monitoring has pioneered Tissue Monitoring Technology.,1.0
+Blue Solutions,Company,PARTNERED_WITH,Hon Hai Technology Group (Foxconn),Company,ada7c8ccde65d5be7f9f::c0000,2023-10-20,Blue Solutions has signed a memorandum of understanding with Hon Hai Technology Group (Foxconn) to jointly develop a solid-state battery ecosystem.,1.0
+thyssenkrupp,Company,PARTNERED_WITH,Samotics,Company,055f0f90cdaeb1b6cd52::c0000,2023-10-04,thyssenkrupp Selects Samotics to Increase Reliability and Sustainability of Its Steel Manufacturing Process.,1.0
+James Kroes,Person,WORKED_AT,Boise State University,Company,fd62be34a2446e1eeffe::c0000,2023-04-05,James Kroes is a Professor in the Information Technology and Supply Chain Management department at Boise State University.,1.0
+SysLogic,Company,LEADS,Ghostscale,Company,e755ff895451dd119565::c0000,2023-10-03,SysLogic CEO helps co-found new Madison-based cybersecurity consultancy Ghostscale.,1.0
+Christina Mee,Person,WORKED_AT,Insight Technology Solutions,Company,5e5ec9cf4ba2477dc195::c0000,2023-04-05,Christina Mee has been named vice president of mission services at Insight Technology Solutions.,1.0
+UKAEA,Company,PARTNERED_WITH,University of Sheffield,Company,3edc81187e2b083df385::c0000,2023-03-09,UKAEA and University of Sheffield partnership to drive fusion technology.,1.0
+UST,Company,PARTNERED_WITH,Hyro,Company,27fc4745f1fe70a31e8d::c0000,2023-10-04,UST Partners with Hyro to Integrate Enhanced Conversational AI Capabilities.,1.0
+Texas A&M AgriLife Research,Company,DEVELOPED,sensor chip,Technology,d5b5de47fdf6517fa2b0::c0000,2023-06-21,Texas A&M AgriLife Research scientists and collaborators at Iowa State University have developed a sensor chip.,1.0
+Wiliot,Company,DEVELOPED,humidity sensing technology,Technology,ec51a73255a3b58165a3::c0000,2023-10-03,Wiliot is adding humidity for moisture-sensitive products.,1.0
+Alight Inc.,Company,DEVELOPED,behavioral health navigation services,Technology,5240d4cf74965bb413d5::c0000,2023-06-08,Alight launches new behavioral health navigation services aimed at supporting individuals and families with complex or severe needs.,1.0
+Syndio,Company,PARTNERED_WITH,Broadridge,Company,b6246bf630731b90f633::c0000,2023-01-11,"Syndio Partners with Broadridge for Pay Equity as Financial Services Sector Looks to Deliver on the '""S'"" in ESG",1.0
+Jay Dominick,Person,WORKED_AT,Princeton,Company,2fea4b9de0a2272d033d::c0000,2023-08-11,Jay Dominick will retire as VP for information technology and CIO.,1.0
+AlarMax Distributors,Company,ACQUIRED,Northern Sound & Light,Company,30541cf5c284c7ac86da::c0000,2023-04-06,AlarMax Distributors acquires Northern Sound & Light.,1.0
+Hyperscience,Company,LEADS,Andrew Joiner,Person,97d559b170730ab70d75::c0000,2023-04-30,Hyperscience is pleased to announce the appointment of Andrew Joiner as its new Chief Executive Officer.,1.0
+EarthSense,Company,PARTNERED_WITH,Telent Technology Services,Company,2abdfd676f2a64e7b735::c0000,2023-08-24,EarthSense will be supplying Telent Technology Services with its Zephyr air quality monitors.,1.0
+TotalEnergies,Company,INVESTED_IN,Unabiz,Company,2e1e1945ffa808bd3a8a::c0000,2023-09-20,TotalEnergies has appointed Unabiz to install Sigfox-based IoT sensors.,1.0
+ServiceMaster CDR,Company,ACQUIRED,ServiceMaster by Lewis,Company,a56e8c2e61cbad0ff887::c0000,2023-05-04,ServiceMaster CDR is pleased to announce that it has completed its strategic acquisition of ServiceMaster by Lewis.,1.0
+Aakanksha Bhargava,Person,WORKED_AT,PM Relocations Pvt. Ltd.,Company,764d5376f108bbafdf93::c0000,2023-04-12,We sit down with Aakanksha Bhargava CEO PM Relocations Pvt. Ltd.,1.0
+Aitelecom/APCO Networks,Company,USES,Mx-DMA® MRC waveform technology,Technology,2556db755e8717c4ad9b::c0000,2023-03-17,ST Engineering iDirect’s leading Mx-DMA® MRC waveform technology will enable Mexican connectivity service provider Aitelecom/APCO Networks to support services.,0.9
+Lloyds Banking Group,Company,FOUNDED,Technology Centre,Technology,b13318ad0fdbc3dac71f::c0000,2023-06-21,Lloyds Banking Group announced its decision to set up a new technology centre.,0.8
+Evolve Information Solutions,Company,PARTNERED_WITH,Priority Software,Company,61d4287d7202db592481::c0000,2023-09-25,Evolve Information Solutions Announces New Reseller Agreement with Priority Software.,0.85
+Kearney,Company,WORKED_AT,Supply Chain Institute,Technology,d4134100173aefa8594b::c0000,2023-04-11,Kearney unites research efforts under Supply Chain Institute.,0.75
+Novacoast,Company,USES,OpenAI GPT-3,Technology,36a8148cf52ee8387769::c0000,2023-02-09,Novacoast Is Deploying OpenAI Chatbot Technology To Its 400-Person Security Services Team.,1.0
+Zayo Group,Company,DEVELOPED,400G European Network,Technology,c5630416eb57c148b33e::c0000,2023-09-26,Zayo Group a global communications infrastructure provider announced that its future-ready network in Europe is fully 400G enabled.,1.0
+Information Services Group,Company,LEADS,global technology research and advisory firm,Company,cf05c27362ba963d4cfe::c0000,2023-09-05,Information Services Group (ISG) a leading global technology research and advisory firm.,1.0
+DXC Technology,Company,DEVELOPED,Metaverse,Technology,fe0f4c0f63e8beb5a9ae::c0000,2022-12-14,DXC Technology Identifies Five Ways the Metaverse will Transform Lives and Business,0.9
+Masters’ Union,Company,FOUNDED,Undergraduate Programme in Technology and Business Management,Technology,7f1ced824c038c2d04c0::c0000,2023-01-15,Masters’ Union launches UG Programme in Technology and Business Management,0.8
+Yotta,Company,PARTNERED_WITH,Sunstone,Company,ad18b8cf38faf630f3e3::c0000,2023-04-25,Yotta and Sunstone partner to offer commercial storage solutions,0.9
+Signet FCU,Company,PARTNERED_WITH,OMNICOMMANDER,Company,352d11baf7163d388649::c0000,2023-02-23,Signet FCU and OMNICOMMANDER® Renew Their Partnership,0.9
+Technical Safety Services,Company,ACQUIRED,Precision Air Technology,Company,d7e36d883b418591ceb4::c0000,2023-04-12,Technical Safety Services (“TSS” or the “Company”) announced that it has acquired Precision Air Technology.,1.0
+Levine Leichtman Capital Partners,Company,INVESTED_IN,Technical Safety Services,Company,d7e36d883b418591ceb4::c0000,2023-04-12,Technical Safety Services is a portfolio company of Levine Leichtman Capital Partners.,1.0
+Crisp,Company,ACQUIRED,Integral Group,Company,70f7199c8785888e4350::c0000,2023-01-31,Crisp has announced its acquisition of Electronic Data Interchange (EDI) platform Integral Group.,1.0
+Aeris,Company,ACQUIRED,IoT business from Ericsson,Technology,f8d4c1e3cfe2f61e23f7::c0000,2023-01-10,Aeris to acquire IoT business from Ericsson.,1.0
+ServiceNow,Company,DEVELOPED,Generative AI Solution,Technology,84b909fc526ba22d835f::c0000,2023-06-13,ServiceNow Unveils Generative AI Solution With Real-Time Conversational Experiences.,1.0
+ServiceNow Inc.,Company,DEVELOPED,Now platform,Technology,3a1191cd49142548e77e::c0000,2023-03-22,ServiceNow Inc. is rolling out a new version of its Now platform.,1.0
+Synergy Home LLC,Company,ACQUIRED,Sorg Heating and Cooling LLC,Company,6f822e88143b3b1c2f66::c0000,2023-03-21,Synergy Home LLC acquires Sorg Heating and Cooling LLC.,1.0
+DWF Labs,Company,INVESTED_IN,SENSO Token,Technology,6d7dd931b125bd4124db::c0000,2023-04-06,Sensorium has secured a seven-figure purchase of SENSO tokens from DWF Labs.,1.0
+CDW,Company,PARTNERED_WITH,Samsung,Company,63ee219843b44980ca73::c0000,2022-12-20,CDW and Samsung are working together with First Tee — Greater Detroit.,1.0
+Smart Eye,Company,DEVELOPED,Driver Monitoring System,Technology,720cb306ea1b5063a9c2::c0000,2023-07-07,Smart Eye's Driver Monitoring System monitors vital signs.,1.0
+SplitMetrics,Company,DEVELOPED,Bid Optimization Strategy Tools,Technology,8aee8925f2dc182d9423::c0000,2023-03-23,SplitMetrics Unveils Bid Optimization Strategy Tools for Advanced Apple Search Ads Automation and Optimization.,1.0
+Eko,Company,DEVELOPED,SENSORA™ Cardiac Disease Detection Platform,Technology,cb01aa79d2b52eead26a::c0000,2023-02-23,Eko a digital health company applying artificial intelligence (AI) in the fight against heart and lung disease today announced the launch of the SENSORA™ Cardiac Disease Detection Platform.,1.0
+SC Ventures,Company,PARTNERED_WITH,Yabx,Company,d03dc2a030ee895ce9eb::c0000,2023-02-13,SC Ventures partners with Yabx to expand access to Financial Services in Africa.,1.0
+StoreDot,Company,PARTNERED_WITH,VinES,Company,c4f95395629d57b8e212::c0000,2023-04-21,StoreDot is partnering with VinES to develop XFC battery cells and plan for commercialisation.,1.0
+Samsung Electronics Co. Ltd.,Company,DEVELOPED,advanced semiconductor technology,Technology,8e58296629f84469cd8d::c0000,2023-10-05,Samsung Electronics Co. Ltd. a world leader in advanced semiconductor technology today unveiled its latest innovations in analog and logic semiconductor technologies.,1.0
+Boxed Inc.,Company,DEVELOPED,Spresso,Technology,426f410b850963e21108::c0000,2023-01-10,Boxed Inc. ... announced that Spresso its SaaS modular solution ...,1.0
+Dell Technologies Inc.,Company,DEVELOPED,Apex Cloud Platforms,Technology,e826dd76339fcf0d6a9b::c0000,2023-05-26,Dell Technologies Inc. aims to simplify operations address skills gaps and support customers’ diverse needs. The new Apex Cloud Platforms integrates services from Microsoft Azure.,0.9
+JPMorgan Asset Management,Company,USES,Vestwell's technology,Technology,1881ca53e251b9e5a212::c0000,2023-05-12,JPMorgan Asset Management will be using Vestwell's technology to run JPMorgan's Everyday 401(k).,0.9
+HENSOLDT,Company,DEVELOPED,AMPS Solution,Technology,afd605787f8a6b2b9e0c::c0000,2023-06-23,Using self-protection sensor technology AMPS Solution from HENSOLDT shields Ukrainian Armed Forces from missile threats.,0.9
+Dell,Company,DEVELOPED,health technology,Technology,ae1e56a24cda1ca99cf2::c0000,2023-02-14,Dell has recently shifted mostly to focus on health technology.,0.9
+CareCloud,Company,WORKED_AT,Nasdaq: CCLD CCLDP CCLDO,Technology,2f4e335156ad792a4c53::c0000,2023-03-15,About CareCloud CareCloud (Nasdaq: CCLD CCLDP CCLDO) brings disciplined innovation to the business of healthcare.,0.8
+VIDAA,Technology,PARTNERED_WITH,Amdocs' Vubiquity Technology and Services,Technology,6b2e9ccdc46e20c5c4a7::c0000,2023-08-02,VIDAA the TV Operating System of Hisense Selects Amdocs' Vubiquity Technology and Services.,0.85
+Manitoulin Health Centre,Company,USES,One Health Information Technology Service,Technology,88fd003ab7290f7eece6::c0000,2023-01-31,Manitoulin Health Centre implements the One Health Information Technology Service.,0.9
+World Cinema,Company,PARTNERED_WITH,ServiceNow,Company,8b39c479a35e3bd8ae41::c0000,2023-03-22,World Cinema and ServiceNow Spearhead Technology Service Transformation,1.0
+ServiceNow,Company,PARTNERED_WITH,World Cinema,Company,7b80b058b0275154b650::c0000,2023-03-22,ServiceNow will help streamline operations for customer service agents,1.0
+Aarul Malviya,Person,FOUNDED,Zamit,Company,3f68a1fdd6dae5b217c7::c0000,2023-03-22,Aarul Malviya Founder & founder of Zamit,1.0
+White House,Company,PARTNERED_WITH,tech manufacturers,Company,6a996e0070711b7ce493::c0000,2023-07-18,White House partners with tech manufacturers retailers,1.0
+Mark Huxtable,Person,WORKED_AT,Spar,Company,5c71074e209035d913ad::c0000,2023-09-16,Spar's chief information technology executive Mark Huxtable has resigned,1.0
+Elizabethtown College,Company,USES,KITRO,Technology,10829cabf1b90618acda::c0000,2023-10-11,Elizabethtown College is using new technology to achieve that. 'Elizabethtown College are the first college in the United States to utilize KITRO',1.0
+Bard AI,Technology,DEVELOPED,Google,Company,d0205e9e38f0eceba041::c0000,2023-10-03,Google on Tuesday added newer capabilities to its generative AI service Bard.,1.0
+Fidelity National Information Services,Company,DEVELOPED,technology,Technology,c67ab0888373fc766bc0::c0000,2023-04-28,FIS is a leading provider of technology,1.0
+Pure Storage,Company,DEVELOPED,'flash' lineup,Technology,932a5ee3887c7ed3fac7::c0000,2023-06-15,US tech company Pure Storage upgrades its 'flash' lineup.,0.9
+Polymer Technology and Services LLC,Company,DEVELOPED,Tristar range of flame-retardant polycarbonates,Technology,dcf93a92b1cc48cf5dac::c0000,2023-03-02,Polymer Technology and Services expands Tristar range of flame-retardant polycarbonates.,0.9
+Ultra Wideband 5G technology,Technology,USES,5G Home Internet service,Technology,a2c63eea2f546e1938f4::c0000,2023-05-09,service which uses Ultra Wideband 5G technology.,0.9
+Kotozna Inc.,Company,PARTNERED_WITH,Samoon Information Technology,Company,d6897e0aa02e77a7bb6b::c0000,2023-07-19,Kotozna Inc. forms business alliance with Samoon Information Technology to start sales of Kotozna In-Room in Saudi Arabia.,1.0
+Rebellion,Company,FOUNDED,2019,Technology,a67ee0f9e0b5459da9f9::c0000,2022-12-14,Founded in 2019 Rebellion wants to create AI-powered software for the military.,1.0
+ENT Partners LLC,Company,ACQUIRED,Southern Indiana ENT & Indianapolis Sinus Center,Company,b1f09f4a662c56bacb02::c0000,2023-07-26,ENT Partners Announces Acquisition of Southern Indiana ENT & Indianapolis Sinus Center.,1.0
+SYSTRA,Company,ACQUIRED,Atkins SNC-Lavalin Group,Company,94885fec37d30dfc4fa2::c0000,2023-08-31,SYSTRA has finalised the acquisition of the Swedish Danish and Norwegian entities of Atkins SNC-Lavalin Group.,1.0
+K2 Services,Company,PARTNERED_WITH,ServiceNow,Company,9afa0bbc09c07feac9d9::c0000,2023-08-30,K2 Services and ServiceNow partner to advance digital transformation for the legal industry.,1.0
+Ant Group Co.,Company,DEVELOPED,large-language model technology,Technology,b5c1daa01f4aa31929bb::c0000,2023-06-21,Jack Ma-backed Ant Group Co. is developing large-language model technology.,1.0
+G-P,Company,PARTNERED_WITH,UKG,Company,5803108ba5a3b18f9745::c0000,2023-03-21,G-P and UKG Announce Technology Integration Partnership.,1.0
+Tracy Pennycuick,Person,LEADS,Senate Communications and Technology Committee,Technology,b66aea86e102380ead4b::c0000,2023-01-11,Tracy Pennycuick has been appointed majority chairwoman of the Senate Communications and Technology Committee.,1.0
+Microsoft,Company,USES,cybersecurity measures,Technology,3ddab1f0287c42d1f378::c0000,2023-06-18,Microsoft said the outages were the result of cyberattacks.,1.0
+USC Information Sciences Institute,Company,PARTNERED_WITH,SkyWater Technology,Company,f300f00994d00853e1b5::c0000,2022-12-02,The MOSIS Service of the Information Sciences Institute University of Southern California and SkyWater Technology ... announced a ...,0.9
+Satya Nadella,Person,LEADS,Microsoft,Company,a3a6eb47dce536f6842f::c0000,2023-01-03,Microsoft Chairman and CEO Satya Nadella ...,0.95
+Martins Izuogbe,Person,WORKED_AT,Polaris Bank,Company,78e53e14fa1732576492::c0000,2023-06-16,Polaris Bank appointed Martins Izuogbe as its new Executive Director of Service & Technology.,0.9
+AT&T,Company,INVESTED_IN,Louisiana Tech Foundation,Company,23d43040e04e7fb2aaec::c0000,2023-02-09,AT&T gives Louisiana Tech Foundation $20000 to teach courses in the community.,0.85
+CRT Hub,Company,PARTNERED_WITH,AD&Co LoanDynamics Model,Technology,c94927101c2c3054ab00::c0000,2023-02-23,CRT Hub has entered into an alliance with AD&Co LoanDynamics Model.,0.9
+CRT Hub,Company,WORKED_AT,Chasen Enterprises,Company,c94927101c2c3054ab00::c0000,2023-02-23,CRT Hub is a wholly-owned subsidiary of Chasen Enterprises.,0.9
+Aran Azarzar,Person,LEADS,JFrog,Company,3a873201cb4aae487900::c0000,2023-03-30,Azarzar will lead the strategy and operations for JFrog’s Information Technology organization.,0.9
+Mobiquity Technologies Inc.,Company,ACQUIRED,$3.0 Million Public Offering,Technology,b33a18f9d370965adbdb::c0000,2023-07-03,Mobiquity Technologies Inc. announces closing of $3.0 Million Public Offering.,0.8
+Bigme,Company,DEVELOPED,Kaleido 3 color ink e-note,Technology,b30e68d3ac5736af2c95::c0000,2023-02-24,Bigme has released the inkNote Color+ claiming it to be the world’s first 10.3-inch Kaleido 3 color ink e-note.,0.9
+ClearCaptions,Company,LEADS,Sanjay Singam,Person,500d3ff4c0f6b43234e6::c0000,2023-02-16,ClearCaptions – a leading provider of innovative call captioning services... proudly welcome new Chief Information and Technology Officer (CITO) Sanjay ...,1.0
+Sojern,Company,PARTNERED_WITH,PUSHTech™,Company,3c5e3bd96a371291666c::c0000,2023-01-11,Sojern the leading digital marketing platform built for travel and PUSHTech™ a CRM marketing automation sales and support platform have announced a new partnership...,1.0
+Cloud computing,Technology,DEVELOPED,data center industry,Technology,c7c65b53343789548caa::c0000,2023-04-14,the mass adoption of cloud computing and artificial intelligence (AI) is driving exponential growth for the data center industry...,1.0
+Esri,Company,PARTNERED_WITH,Malta,Company,ef07f6b1f6d9c07e2c53::c0000,2023-02-16,Esri Signs Agreement with Malta Providing Access to GIS Technology Training.,1.0
+Ing.Emanuel Darmanin,Person,WORKED_AT,Esri,Company,ef07f6b1f6d9c07e2c53::c0000,2023-02-16,said Ing.Emanuel Darmanin CEO of ...,1.0
+Freeline Therapeutics Holdings plc,Company,ACQUIRED,Freeline Therapeutics GmbH,Company,49ae08eac6035b516643::c0000,2023-02-10,Freeline Announces Closing of Sale of Its CMC-Focused German Subsidiary.,1.0
+Micron,Company,DEVELOPED,chip plant,Technology,b382f32a0ce95cda66b8::c0000,2023-06-28,Micron soon breaking ground on a mega chip plant in Clay.,1.0
+Amazon,Company,USES,cloud computing service,Technology,add3b453273a3c5c9a8e::c0000,2023-06-13,Amazon’s cloud computing service recovers from outage.,1.0
+FLSmidth,Company,ACQUIRED,KOCH Solutions,Company,7008d440d65756e90a02::c0000,2023-06-14,FLSmidth to sell Non-Core Activities material handling technology assets to KOCH Solutions.,1.0
+Google,Company,PARTNERED_WITH,Amazon,Company,4e50d75514e6a8afab36::c0000,2023-10-12,Internet companies Google Amazon and Cloudflare say they have weathered the internet's largest-known denial of service attack.,1.0
+Google,Company,PARTNERED_WITH,Cloudflare,Company,4e50d75514e6a8afab36::c0000,2023-10-12,Internet companies Google Amazon and Cloudflare say they have weathered the internet's largest-known denial of service attack.,1.0
+Bola Tinubu,Person,LEADS,Technology,Technology,8d48450e49bccc0cd4f4::c0000,2023-09-05,President Bola Tinubu on Monday expressed his support for new partnerships with global technology companies.,1.0
+WebClues Infotech,Company,LEADS,Generative AI Solutions,Technology,1dcc7274cdf735fb28b0::c0000,2023-08-25,WebClues Infotech Leads the Way in Generative AI Solutions for Business Process Enhancement.,0.9
+Advanced Project,Company,DEVELOPED,facial recognition AI technology,Technology,383b040573dc5034addb::c0000,2023-08-18,Advanced Project announces upgrade to TIER service with facial recognition AI technology.,0.9
+Alibaba Cloud,Company,DEVELOPED,Product Innovation Center,Technology,b6dd38fe3f14eaceec15::c0000,2023-02-02,Alibaba Cloud Unveils Its First International Product Innovation Center and Partner Management Center.,0.9
+UAB,Company,WORKED_AT,health technology,Technology,6fd89d25033061248e8e::c0000,2023-02-02,Four high-tech health devices being tested at UAB now.,0.8
+Amazon.com,Company,INVESTED_IN,Ohio,Company,3e0677727f437bb532a1::c0000,2023-06-26,Amazon.com''s cloud computing division would invest $7.8 billion through 2030 in Ohio.,0.9
+Liquid Web,Company,DEVELOPED,Business Continuity Solutions,Technology,88cefd8ab93a86a8dbfa::c0000,2023-06-07,Liquid Web Expands Business Continuity Solutions with VMware in Phoenix Data Center Addition.,0.9
+Apple Inc,Company,PARTNERED_WITH,Broadcom Inc,Company,7c87b73733808a6e4ef5::c0000,2023-06-26,Apple Inc and Broadcom Inc challenges to Caltech data-transmission patents,0.9
+Tetra Tech,Company,ACQUIRED,application cyber services outfit,Technology,6d7d0572296d6be67a96::c0000,2023-01-06,Tetra Tech has acquired a provider of enterprise technology and consulting services,0.9
+Silicon Valley Bank,Company,LEADS,climate tech industry,Technology,9aee8f0b2b8879122185::c0000,2023-03-15,Silicon Valley Bank marketed itself as a climate tech-friendly bank,0.8
+United Microelectronics,Company,PARTNERED_WITH,European chip makers,Technology,1b155489730cbc77b235::c0000,2023-01-11,insight on European chip makers United Microelectronics,0.7
+Huawei,Company,DEVELOPED,5G Technology,Technology,ac61ead214b9d4697ad5::c0000,2023-02-18,The report provides information on market trends and development growth drivers technologies and the changing investment structure of the Global 5G Technology in Emergency Services Market.,0.9
+Nokia,Company,DEVELOPED,5G Technology,Technology,ac61ead214b9d4697ad5::c0000,2023-02-18,The report provides information on market trends and development growth drivers technologies and the changing investment structure of the Global 5G Technology in Emergency Services Market.,0.9
+Ericsson,Company,DEVELOPED,5G Technology,Technology,ac61ead214b9d4697ad5::c0000,2023-02-18,The report provides information on market trends and development growth drivers technologies and the changing investment structure of the Global 5G Technology in Emergency Services Market.,0.9
+SAP,Company,PARTNERED_WITH,PwC,Company,d2bf15dff0d6fb017341::c0000,2023-01-11,SAP PwC partnership driving digital transformation & cloud success in West Africa.,0.9
+Rola Ghneim Khreis,Person,WORKED_AT,IAEA,Company,616bdd3f777638f75cf8::c0000,2023-09-08,IAEA Profile: Rola Ghneim Khreis the IAEA’s First Woman Director of Information Technology.,0.9
+Vijay Menta,Person,WORKED_AT,Worcester Polytechnic Institute,Company,77234e3a7bb0483080d7::c0000,2023-01-13,Vijay Menta Named Vice President and Chief Information Officer at Worcester Polytechnic Institute.,0.9
+IBM,Company,DEVELOPED,key technologies,Technology,b9a89c628a717d7ec898::c0000,2023-01-09,IBM inks $725 million deal so public servants can tap key technologies.,0.9
+U.S. Military,Company,USES,Telecritical Care Technology,Technology,8d8820ae3b62786a10f8::c0000,2023-05-04,U.S. Military Embraces Telecritical Care Technology for Service Members and Veterans.,0.9
+Wolters Kluwer ELM Solutions,Company,DEVELOPED,technology,Technology,be8d5a4c4f4b895e4f5a::c0000,2023-01-13,Wolters Kluwer ELM Solutions’ technology and thought leadership contributions honored by Best in Biz Awards.,0.9
+OpenAI,Company,DEVELOPED,AI technology,Technology,264d1b9d346656ddf765::c0000,2023-06-20,OpenAI plans to launch a marketplace that will allow developers to sell their AI models built on top of OpenAI's own AI technology.,1.0
+GigaCloud Technology Inc,Company,FOUNDED,GigaCloud Technology,Technology,b676f4b76661e930e9da::c0000,2023-03-17,GigaCloud Technology Inc (GCT) a end-to-end B2B ecommerce solutions for large parcel merchandise reported Friday that GigaCloud Technology Inc's,0.9
+GigaCloud Technology Inc,Company,DEVELOPED,B2B ecommerce solutions,Technology,15f4c9e309efdbb3b8e9::c0000,2023-09-22,GigaCloud Technology Inc (GCT) a end-to-end B2B ecommerce solutions for large parcel merchandise,0.9
+Microsoft,Company,DEVELOPED,AI tools,Technology,6a5730b76e8157e83d44::c0000,2023-03-17,Microsoft is infusing artificial intelligence tools into its Office software including Word Excel and Outlook emails.,0.9
+U.S. Sen. Todd Young,Person,LEADS,tech innovation investment,Technology,e1a03233a9b7e5fd51da::c0000,2023-03-14,U.S. Sen. Todd Young talks tech innovation investment and its meaning for Hoosiers.,0.8
+Meta,Company,DEVELOPED,Virtual Reality Headset,Technology,ac7cbdc493e2f11a1d95::c0000,2023-06-17,Meta to Lower Age for Users of Virtual Reality Headset to 10 From 13.,1.0
+Sony,Company,DEVELOPED,cloud gaming,Technology,27f2d4dfb7f06c6a9973::c0000,2023-04-11,Sony is gearing up for a new cloud gaming push amid rumors of a PlayStation handheld.,1.0
+Sony,Company,DEVELOPED,GT Sophy AI driver,Technology,27f2d4dfb7f06c6a9973::c0000,2023-04-11,the 'GT Sophy' AI driver in Gran Turismo,1.0
+Quest Technology Management,Company,ACQUIRED,Lanlogic,Company,016c2694481863bbcf08::c0000,2023-02-23,Quest Technology Management Acquires Lanlogic Expanding Their Technical Program Management Service Offerings.,1.0
+Marc Rogers,Person,WORKED_AT,Q-Net Security,Company,8cf2b266de6c80f62c39::c0000,2023-03-10,said Marc Rogers chief security officer at hardware security firm Q-Net Security,1.0
+Marc Rogers,Person,WORKED_AT,Cloudflare,Company,8cf2b266de6c80f62c39::c0000,2023-03-10,former head of information security at the content delivery provider Cloudflare,1.0
+Uptime Institute,Company,ACQUIRED,CNet Training,Company,93916f3315be60db86db::c0000,2023-02-03,Uptime Institute Completes Acquisition of CNet Training the International Award-Winning Technical Education Company.,1.0
+Baird,Company,INVESTED_IN,Fidelity National Information Services (FIS),Company,808c98c34916b1b5412d::c0000,2023-07-03,Baird maintained coverage of Fidelity National Information Services (NYSE ... FIS is a leading provider of technology solutions for merchants banks and ...,1.0
+SpaceX,Company,DEVELOPED,recyclable rocket technology,Technology,0f19e799f07bb33d69ae::c0000,2023-02-01,SpaceX developed the next generation in recyclable rocket technology driving down the cost to launch a satellite.,1.0
+India,Company,DEVELOPED,rocket launch services,Technology,0f19e799f07bb33d69ae::c0000,2023-02-01,India developed rocket launch services to further reduce costs.,1.0
+Elisabeth Schmidt,Person,WORKED_AT,Maximus,Company,a315c5249397842d1417::c0000,2023-02-13,Maximus has announced that Elisabeth Schmidt has been named one of Maximus's new Senior Vice Presidents for Technology and Consulting Services.,1.0
+Amazon,Company,USES,AI service,Technology,6ec376fffd2c56fef630::c0000,2023-07-26,Amazon has drawn thousands to try Amazon's AI service competing with Microsoft Google.,1.0
+Amazon,Company,USES,AI tools,Technology,b432186d8fe246dc1fab::c0000,2023-07-27,The company also announced new AI tools on Wednesday including a program for building more conversational customer-service agents.,1.0
+Helen Vaid,Person,WORKED_AT,Hewlett Packard Enterprise,Company,1fc7315b1ac4f9a5f945::c0000,2023-07-26,Ms. Vaid also held several technology-focused roles at Hewlett Packard Enterprise.,1.0
+ISG (Information Services Group),Company,PARTNERED_WITH,more than 75 of the world’s top 100 enterprises,Company,28efd30332488898acff::c0000,2023-07-26,ISG is committed to ... more than 75 of the world’s top 100 enterprises.,1.0
+France,Company,INVESTED_IN,advanced chip technology,Technology,67be4c196be2144489ee::c0000,2023-07-27,France is investigating suspected smuggling to China and Russia of advanced chip technology.,1.0
+Trane and American Standard,Company,DEVELOPED,Link Communication Technology,Technology,42a6ce16d30d649245ff::c0000,2022-12-16,Trane and American Standard Launch Link Communication Technology.,1.0
+Microsoft,Company,USES,Outlook cloud platform,Technology,6ae9fe65e4bfd7a1f9b8::c0000,2023-06-18,Microsoft says early June disruptions to Outlook cloud platform were cyberattacks.,1.0
+ALMACO,Company,PARTNERED_WITH,CADARO,Company,77d5b421598c4a99a4cd::c0000,2023-09-28,ALMACO and CADARO Partner to Elevate Manufacturing and Service of Flow Rate Sensor Technology.,1.0
+Andrew Drach,Person,FOUNDED,Solwey Consulting,Company,d647b95d52cd02947a27::c0000,2022-12-10,Interview with Andrew Drach CEO and co-founder of Solwey Consulting.,1.0
+AI,Technology,USES,dental clinics,Technology,e0a75ffb372e4d44cc53::c0000,2023-07-26,Hundreds of dental clinics across the United States are now utilizing artificial intelligence (AI) technology.,1.0
+ISG,Company,LEADS,global technology research and advisory,Technology,c97e991d82e0e0ee7f76::c0000,2023-06-28,ISG is a leading global technology research and advisory firm.,1.0
+MediaTek,Company,PARTNERED_WITH,Google,Company,f479764e9819181a0679::c0000,2023-06-19,MediaTek reportedly cooperating with Google on TPU development.,1.0
+Colorado,Company,DEVELOPED,U.S. Tech Hub for quantum computing,Technology,0a458e415a3fba99bbe9::c0000,2023-10-21,Colorado was picked to be an official U.S. Tech Hub for quantum computing.,1.0
+Tech giants,Company,LEADS,risks of AI,Technology,a8de2d35d18ab4da25bd::c0000,2023-09-12,These tech giants are at the White House today to talk about the risks of AI.,1.0
+Alec Hartman,Person,FOUNDED,Welcome Homes,Company,95055a058cee5679cafd::c0000,2023-01-12,DigitalOcean co-founders raise $29M for Welcome Homes.,0.9
+Google Cloud,Company,PARTNERED_WITH,Form Bio,Company,35b8b8fc4ca0cc482176::c0000,2023-05-20,Google Cloud Launches AI-Powered Multiomics Suite Taps Dallas-Based Colossal and Form Bio.,0.9
+Google Cloud,Company,USES,AI technology,Technology,35b8b8fc4ca0cc482176::c0000,2023-05-20,Google Cloud’s powerful platform Form Bio is positioned to ...,0.8
+David S. Cloud,Person,WORKED_AT,Los Angeles Times,Company,e1ba8d84d3258111cc7b::c0000,2023-01-31,David S. Cloud covers the Pentagon and the military from the Washington D.C. bureau of the Los Angeles Times.,0.9
+David S. Cloud,Person,WORKED_AT,New York Times,Company,e1ba8d84d3258111cc7b::c0000,2023-01-31,In David S. Cloud's 30-year career David S. Cloud has also worked at the New York Times.,0.9
+David S. Cloud,Person,WORKED_AT,Wall Street Journal,Company,e1ba8d84d3258111cc7b::c0000,2023-01-31,In David S. Cloud's 30-year career David S. Cloud has also worked at the Wall Street Journal.,0.9
+Sarah Patton,Person,LEADS,Compass Development Marketing Group,Company,960717bf330bd11d0a38::c0000,2023-01-30,Sarah Patton director of development at Compass Development Marketing Group said that the past few years have found consumers emerging from lockdowns.,0.9
+Fujitsu Limited,Company,DEVELOPED,embedded die packaging technology,Technology,da6c1f2f12ca8b444ad0::c0000,2023-07-27,Fujitsu is a leading Japanese information technology and services company that is exploring embedded die packaging technology.,1.0
+Comcast Technology Solutions,Company,DEVELOPED,cloud-based Managed Channel Origination service,Technology,d1fc4efdd85fac262eef::c0000,2023-09-13,Comcast Technology Solutions (CTS) today announced the launch of a new cloud-based Managed Channel Origination service.,1.0
+Clorox Co.,Company,USES,information technology systems,Technology,00d2f465477efb09e71c::c0000,2023-08-14,Clorox Co. has taken some of Clorox Co.'s information technology systems offline after identifying 'unauthorized activity'.,1.0
+Deloitte,Company,FOUNDED,Jordan Digital Center,Technology,119ddf49c06da9b2a6a2::c0000,2023-01-17,Deloitte launched today the Jordan Digital Center (JDC) the Amman based state-of-the-art facility providing professional consulting digital and technology services.,1.0
+WatchGuard Technologies,Company,ACQUIRED,CyGlass Technology Services,Technology,771691543314e3641960::c0000,2023-09-20,WatchGuard Technologies announces acquisition of CyGlass Technology Services.,1.0
+First Citizens Bank,Company,ACQUIRED,Silicon Valley Bank,Company,6b87606c5453e6c9fefe::c0000,2023-03-27,Raleigh’s First Citizens Bank will buy Silicon Valley Bank.,1.0
+Cloudbrink,Company,DEVELOPED,software appliance,Technology,3afd93e5a4478def9130::c0000,2023-06-06,Cloudbrink today launched the industry’s first software-only solution.,1.0
+Google,Company,DEVELOPED,unknown tracker alerts,Technology,e80a3d782a398668d207::c0000,2023-08-10,Google has introduced a convenient way to identify an unknown tracker.,1.0
+YouWeb,Company,DEVELOPED,climate tech incubator,Technology,d2d4301f62a8ebd07927::c0000,2023-09-08,YouWeb launches climate tech incubator to drive carbon management.,1.0
+CloudNine,Company,PARTNERED_WITH,Integreon,Company,6e061713388fe1561833::c0000,2023-03-16,CloudNine and Integreon announced a partnership today to provide a better way to manage modern data in eDiscovery.,1.0
+Complete Solaria,Company,ACQUIRED,Freedom Acquisition I Corp.,Company,b6a4ff4968ab97b85f84::c0000,2023-07-18,Complete Solaria a Leading Solar Technology Services and Installation Company Completes Business Combination with Freedom Acquisition I Corp.,1.0
+Staytuned Digital,Company,DEVELOPED,Salesforce suite for e-commerce,Technology,a0b304edebe265e00968::c0000,2023-04-06,Staytuned Digital has $34 million in new equity and debt to continue developing a software suite for e-commerce brands.,1.0
+Serge Kassardjian,Person,WORKED_AT,Staytuned Digital,Company,a0b304edebe265e00968::c0000,2023-04-06,co-founder Serge Kassardjian described as 'the Salesforce suite for e-commerce stores.',1.0
+pCloud,Company,FOUNDED,2013,Technology,e7164cb87585c5448fd1::c0000,2023-09-10,Established in 2013 pCloud’s focus on innovation security and user satisfaction has garnered the trust of 19 million users worldwide.,1.0
+Starlink,Company,FOUNDED,Elon Musk,Person,739aa9c73fd8bfaa848b::c0000,2023-07-20,Malaysia has issued a license to Starlink the satellite communications service started by Elon Musk.,1.0
+Meta,Company,LEADS,Facebook,Company,5c5f62ec5daf0177409a::c0000,2023-05-22,Facebook owner Meta fined €1.2bn for mishandling user information.,1.0
+Ravago Americas,Company,ACQUIRED,Polymer Technology & Services,Company,9398729500b947eacd91::c0000,2023-10-17,Ravago Americas LLC announced yesterday the acquisition of Polymer Technology & Services LLC.,1.0
+Altitude Angel,Company,PARTNERED_WITH,Saab,Company,aae8c82ac9cf282b9efa::c0000,2022-12-06,Altitude Angel and Saab to partner on Digital Tower technology.,1.0
+Amazon Web Services,Company,USES,AMD's new AI chips,Technology,ec3ce18d568e33867724::c0000,2023-06-14,Amazon Web Services is considering using new artificial intelligence chips from Advanced Micro Devices Inc.,1.0
+Briton Smetzer,Person,WORKED_AT,NCR,Company,738872f65f185309222c::c0000,2022-12-14,Smetzer who most recently served as Director of ATM Management & Software Deployment at NCR.,1.0
+Coinbase,Company,WORKED_AT,Brian Armstrong,Person,9919a5cea8797336e979::c0000,2023-02-03,Coinbase offloaded about a fifth of its staff. Chief Brian Armstrong said...,0.9
+Brian Armstrong,Person,LEADS,Coinbase,Company,9919a5cea8797336e979::c0000,2023-02-03,Chief Brian Armstrong said...,0.9
+TYAN,Company,DEVELOPED,4th Gen Intel Xeon Scalable Processors,Technology,5fef15ee6ddb1b6fac33::c0000,2023-05-30,TYAN Accelerates AI HPC Cloud Storage Workloads With New Platforms Featuring 4th Gen Intel Xeon Scalable Processors...,0.9
+TYAN,Company,PARTNERED_WITH,Computex 2023,Technology,5fef15ee6ddb1b6fac33::c0000,2023-05-30,showcases its latest HPC cloud and storage platforms at Computex 2023...,0.8
+Meta,Company,PARTNERED_WITH,Pelocal Fintech Pvt. Ltd.,Company,15fb2e71d9c1301a1bd8::c0000,2023-10-07,The service is being rolled out in a collaboration between Meta and its authorised partner Pelocal Fintech Pvt. Ltd.,1.0
+Fidelity National Information Services Inc.,Company,FOUNDED,Jacksonville Florida,Company,5ccf35124d55ce7bc232::c0000,2023-02-14,Headquartered in Jacksonville Florida Fidelity National Information Services Inc. (NYSE:FIS) is a financial technology solutions provider.,1.0
+Nutanix,Company,DEVELOPED,Project Beacon,Technology,0a6c6f7c25a96dc81dc7::c0000,2023-05-09,Nutanix today announced Project Beacon a multi-year effort to deliver a portfolio of data-centric Platform as a Service (PaaS) level services.,1.0
+Schneider Electric,Company,USES,Electrification digitalisation and sustainability,Technology,f61511cf8ad7edaa9fd5::c0000,2023-05-07,Electrification digitalisation and sustainability are driving both energy management business opportunities and the shift to a new energy landscape according to energy management and automation technology firm Schneider Electric.,1.0
+Google,Company,WORKED_AT,Twitter,Company,5da5f4141c5ac70b750c::c0000,2023-05-19,the Supreme Court ruled in favor of Google Twitter and Facebook in lawsuits,0.9
+Google,Company,WORKED_AT,Facebook,Company,5da5f4141c5ac70b750c::c0000,2023-05-19,the Supreme Court ruled in favor of Google Twitter and Facebook in lawsuits,0.9
+Microsoft,Company,DEVELOPED,Copilot,Technology,3a5ed6555cadb4149f58::c0000,2023-09-21,Microsoft Copilot for Windows launches September 26th,0.9
+Fidelity National Information Services,Company,FOUNDED,financial technology solutions,Technology,35f9e232b3c44ebab014::c0000,2023-07-11,Fidelity National Information Services Inc. (NYSE:FIS) is a financial technology solutions provider.,0.8
+KPMG,Company,INVESTED_IN,AI cloud services,Technology,369b5a4840d1fcc4fb88::c0000,2023-05-02,KPMG will spend $2 billion on artificial intelligence and cloud services,0.9
+Disney,Company,USES,facial motion capture technology,Technology,9f51ca034ed16b855942::c0000,2023-02-23,Disney had the right to terminate DD3’s services under contracts for the two films.,0.9
+Burger King,Company,PARTNERED_WITH,PAR Technology,Company,769e334aa7d9f2be92ea::c0000,2023-10-11,Burger King Selects PAR Technology As Burger King Exclusive Point of Sale Software and Services Provider Across North America.,0.9
+CareCloud,Company,DEVELOPED,CareCloud Charts,Technology,df4a8a1e16a688164322::c0000,2023-01-12,CareCloud Charts electronic health record (EHR) platform CareCloud Charts received Office of the National Coordinator for Health Information Technology (ONC) certification.,0.9
+Federal Trade Commission,Company,DEVELOPED,Office of Technology,Technology,dc5a9c18b6b3f73f2a37::c0000,2023-02-17,The Federal Trade Commission on Friday is launching an Office of Technology to aid efforts to rein in the fast-moving tech sector.,0.9
+Howard Tullman,Person,WORKED_AT,G2T3V LLC,Company,8b77d8ac484423e94713::c0000,2023-09-26,Howard Tullman general managing partner for G2T3V LLC,1.0
+Howard Tullman,Person,WORKED_AT,Chicago High Tech Investors LLC,Company,8b77d8ac484423e94713::c0000,2023-09-26,Howard Tullman general managing partner for the Chicago High Tech Investors LLC,1.0
+TD SYNNEX,Company,DEVELOPED,Google Cloud,Technology,1365b6a2af315f82638e::c0000,2022-12-19,TD SYNNEX Expands Google Cloud Offering,1.0
+University of Kentucky,Company,DEVELOPED,AI recycling technology,Technology,798916a94429991d3425::c0000,2023-03-21,University of Kentucky rolled out a new piece of campus-wide technology targeted at recycling efforts.,1.0
+Moro Hub,Company,PARTNERED_WITH,EY,Company,39d8c52ea348bb9062bf::c0000,2023-01-03,Moro Hub in association with global consultancy EY announced the launch of its first AI-driven managed services.,1.0
+When I Work,Company,LEADS,Kavitha Radhakrishnan,Person,5d55f4855b8c6ee2b3e1::c0000,2023-09-13,appointed Kavitha Radhakrishnan as its new Chief Product Officer,1.0
+When I Work,Company,LEADS,Paul Cowan,Person,5d55f4855b8c6ee2b3e1::c0000,2023-09-13,appointed Paul Cowan as its new Chief Growth Officer,1.0
+Pankaj Vyas,Person,WORKED_AT,Siemens Technology and Services Pvt. Ltd.,Company,22199b41d3b049e8847d::c0000,2022-12-03,CEO & MD Siemens Technology and Services Pvt. Ltd.,1.0
+Meta Platforms Inc,Company,DEVELOPED,Meta Verified,Technology,250939bab78cf84668d6::c0000,2023-03-17,launched its subscription service in the U.S.,1.0
+Chipotle,Company,USES,technology,Technology,7e8c1d8dd70d3b571163::c0000,2023-03-30,tapping into technology to ease operations,1.0
+Ronald Benjamin,Person,WORKED_AT,Chipotle,Company,7e8c1d8dd70d3b571163::c0000,2023-03-30,the brand’s senior director of guest and employee experience,1.0
+Dragos,Company,DEVELOPED,OT Cyber Industry's Only Global Partner Program,Technology,cee0b66946783c1034f8::c0000,2023-06-13,Launches OT Cyber Industry's Only Global Partner Program,1.0
+Ivy Tech Community College,Company,PARTNERED_WITH,Jobs for the Future,Company,af109609d8d9b6e3cfd1::c0000,2023-06-04,Ivy Tech partners with Jobs for the Future to offer Google Certificates.,1.0
+KNET,Company,DEVELOPED,AYECKA technology,Technology,c468444911a8730ae8ec::c0000,2022-11-25,KNET launches IoT service based on AYECKA technology.,1.0
+Tencent Cloud,Company,DEVELOPED,Tencent Cloud Blockchain RPC,Technology,a52db94e340e50609055::c0000,2023-09-12,"Tencent Cloud announced the launch of its first Web3-native product, Tencent Cloud Blockchain RPC.",1.0
+Tencent Cloud,Company,PARTNERED_WITH,Ankr,Company,a52db94e340e50609055::c0000,2023-09-12,"Jointly developed with Ankr, this new offering aims to deliver reliable Web3 infrastructure.",1.0
+SoFi Technologies,Company,WORKED_AT,Bank of America,Company,78919f5f29b8ed18f198::c0000,2023-06-16,Bank of America downgrades SoFi Technologies to neutral from buy.,1.0
+Google,Company,USES,news content,Technology,14ac29ea4e2d0156ac0b::c0000,2023-05-03,Big Tech companies such as Google and Meta might soon have to pay media outlets for posting and using their news content.,0.9
+Meta,Company,USES,news content,Technology,14ac29ea4e2d0156ac0b::c0000,2023-05-03,Big Tech companies such as Google and Meta might soon have to pay media outlets for posting and using their news content.,0.9
+Southwest Airlines,Company,DEVELOPED,intermittent technology issue,Technology,e402b12f3e38b4989d81::c0000,2023-04-18,Southwest Airlines service has resumed after flights at airports across the country were temporarily paused due to an 'intermittent technology issue'.,0.8
+Walmart,Company,ACQUIRED,tech hubs,Technology,4c9c06e2bfbf8412600d::c0000,2023-02-15,Walmart says it will shutter three of its other U.S. tech hubs.,0.85
+CrowdStrike,Company,DEVELOPED,Best Enterprise Security Solution,Technology,fa8b43b4e20a3fd468a9::c0000,2023-08-21,CrowdStrike Dominates SC Awards 2023 Winning Best Enterprise Security Solution,1.0
+CrowdStrike,Company,DEVELOPED,Best Managed Detection and Response Service,Technology,fa8b43b4e20a3fd468a9::c0000,2023-08-21,CrowdStrike Dominates SC Awards 2023 Winning Best Managed Detection and Response Service,1.0
+Fred Mitchell,Person,WORKED_AT,Drive Control Corporation,Company,27c0ec2fc6d546f2a121::c0000,2023-04-06,Fred Mitchell software division head at Drive Control Corporation (DCC),1.0
+Microsoft,Company,USES,Outlook,Technology,393ca665492ed7e05ec2::c0000,2023-06-18,Microsoft Says Early June Disruptions to Outlook Cloud Platform Were Cyberattacks,1.0
+Microsoft,Company,USES,OneDrive,Technology,393ca665492ed7e05ec2::c0000,2023-06-18,Microsoft Says Early June Disruptions to Outlook Cloud Platform Were Cyberattacks,1.0
+Western Digital,Company,USES,My Cloud,Technology,d124bc63d94d596313d8::c0000,2023-04-07,Western Digital’s My Cloud is still down but there’s a workaround,1.0
+Meta Platforms Inc,Company,DEVELOPED,subscription service,Technology,217fba9d2ebf23c0d41a::c0000,2023-03-17,Meta launches subscription service in US,1.0
+HPE,Company,DEVELOPED,cloud computing service for artificial intelligence,Technology,2b93beef6173b1d20f74::c0000,2023-06-21,HPE to offer cloud computing service for artificial intelligence,1.0
+L&T Technology Services,Company,PARTNERED_WITH,Qualcomm,Company,275fc1333cf98e260eec::c0000,2023-02-23,L&T Technology Services and Qualcomm Selected by Thales for Enabling 5G Private Networks in Urban Railways,1.0
+IBM,Company,ACQUIRED,Red Hat,Company,f66b0d747efc2de3e42a::c0000,2023-04-15,"With the mega-acquisition of Red Hat in 2019, IBM's hybrid cloud platform is tough to beat.",1.0
+Brad Chason,Person,WORKED_AT,Jackson Healthcare,Company,d23eede519bae0a8ad17::c0000,2023-05-08,Jackson Healthcare and technology companies today announced the promotion of Brad Chason to senior vice president of information technology.,1.0
+Oceans and Coastal Information System (OCIMS),Technology,DEVELOPED,South Africa,Company,fab3af57b7becfdf5928::c0000,2022-11-24,developed and implemented the Oceans and Coastal Information System (OCIMS) in 2016.,1.0
+IBM,Company,PARTNERED_WITH,White House,Company,58db98954545778fead9::c0000,2023-09-12,"IBM, Adobe, Salesforce, and five more tech companies are making voluntary safety, security, and transparency commitments to the White House related to their use of artificial intelligence.",0.9
+Adobe,Company,PARTNERED_WITH,White House,Company,58db98954545778fead9::c0000,2023-09-12,"IBM, Adobe, Salesforce, and five more tech companies are making voluntary safety, security, and transparency commitments to the White House related to their use of artificial intelligence.",0.9
+Salesforce,Company,PARTNERED_WITH,White House,Company,58db98954545778fead9::c0000,2023-09-12,"IBM, Adobe, Salesforce, and five more tech companies are making voluntary safety, security, and transparency commitments to the White House related to their use of artificial intelligence.",0.9
+Infosys,Company,PARTNERED_WITH,LexisNexis,Company,239795f28445c484bd47::c0000,2023-04-05,"Infosys has extended its collaboration with LexisNexis, a data and analytics company, to provide end-to-end information services.",0.9
+Eric Schmidt,Person,INVESTED_IN,White House,Company,39732a962e3247268337::c0000,2022-12-23,Eric Schmidt former CEO of Google is indirectly funding the salaries of officials in a White House office tasked with advising President Biden on technical and scientific issues.,0.9
+Countdown,Company,USES,Uber technology,Technology,792f24b49e83a6dd5198::c0000,2023-07-25,Countdown launches failed grocery delivery service Milkrun in New Zealand powered by Uber technology.,0.9
+WT Micro,Company,ACQUIRED,Future Electronics,Company,ea3ade617cc100b4e3f2::c0000,2023-09-15,WT Micro to acquire Future Electronics for US$3.8 billion.,1.0
+Deutsche Telekom,Company,PARTNERED_WITH,Zomato,Company,f4d21b2999c3b2bfe617::c0000,2023-04-17,Deutsche Telekom Zomato and more featured in the latest Market Talks.,1.0
+WiseTech Global,Company,ACQUIRED,Blume Global,Company,e69f72813119e9cff57a::c0000,2023-02-18,WiseTech acquires Blume Global.,1.0
+Kathy Hochul,Person,INVESTED_IN,clean technology,Technology,ac3df496218d42e3b5f3::c0000,2023-04-16,Governor Kathy Hochul’s office announced a multi-million-dollar state investment into clean technology.,1.0
+mCloud Technologies Corp.,Company,DEVELOPED,cloud technology solutions,Technology,0edce0212f1c8b425a08::c0000,2023-05-31,mCloud Technologies Corp. a provider of cloud technology solutions optimizing the performance reliability.,1.0
+Whirlpool Corporation,Company,DEVELOPED,leading edge technology center,Technology,c0cecaea3819186131bc::c0000,2023-08-18,Whirlpool Corporation Unveils New Leading Edge Technology Center.,1.0
+Stadia,Technology,WORKED_AT,Phil Harrison,Person,03775e21b559c6e80e03::c0000,2023-04-13,Stadia’s vice president Phil Harrison said in a blog post.,1.0
+Amazon,Company,PARTNERED_WITH,Hugging Face,Company,0d2e52f75f6b4f306d66::c0000,2023-02-21,Amazon’s cloud unit partners with Hugging Face maker of ChatGPT rival.,1.0
+Google,Company,PARTNERED_WITH,Meta,Company,34a3ead45e1aca83fa4a::c0000,2023-07-21,Seven tech companies including Google Meta and OpenAI have voluntarily made commitments on developing and managing artificial intelligence.,1.0
+Google,Company,PARTNERED_WITH,OpenAI,Company,34a3ead45e1aca83fa4a::c0000,2023-07-21,Seven tech companies including Google Meta and OpenAI have voluntarily made commitments on developing and managing artificial intelligence.,1.0
+Radware,Company,DEVELOPED,Cloud Application Protection Services,Technology,85e906a18159d3c3ff17::c0000,2023-02-22,Radware ... announced it advanced its Cloud Application Protection Services to create a best-of-suite offering.,1.0
+Google Cloud,Company,USES,Llama 2,Technology,d6614d10117d6d80778e::c0000,2023-08-29,Google Cloud is announcing availability of Llama 2 and Code Llama from Meta.,1.0
+Google Cloud,Company,USES,Code Llama,Technology,d6614d10117d6d80778e::c0000,2023-08-29,Google Cloud is announcing availability of Llama 2 and Code Llama from Meta.,1.0
+Google Cloud,Company,USES,Falcon LLM,Technology,d6614d10117d6d80778e::c0000,2023-08-29,Google Cloud ... announcing availability of ... Technology Innovative Institute's Falcon LLM.,1.0
+UJET,Company,PARTNERED_WITH,Google Cloud,Company,2512bf46ee71633efb09::c0000,2023-08-29,UJET announced a relationship with Google Cloud as a strategic technology partner.,1.0
+eCloudvalley,Company,PARTNERED_WITH,Amazon Web Services,Company,576089e2e1c2e6aa9973::c0000,2023-05-08,eCloudvalley Signs Strategic Collaboration Agreement with Amazon Web Services.,1.0
+Google,Company,DEVELOPED,data centers,Technology,582726f3cfa233b2d597::c0000,2023-05-08,Google announces plans to build two more data centers in Columbus and Lancaster.,1.0
+Werner Vogels,Person,WORKED_AT,Amazon,Company,86be7b65a23e440577aa::c0000,2023-04-28,Werner Vogels CTO at Amazon spoke with VIR’s Bich Thuy.,1.0
+NYC Public Schools,Company,PARTNERED_WITH,Microsoft,Company,12b088457efd5df7f650::c0000,2023-09-14,The school district collaborated with Microsoft on a custom AI-powered teaching assistant.,1.0
+Applied Materials,Company,DEVELOPED,Silicon Valley R&D center,Technology,fe1d254869aa3fa77036::c0000,2023-05-22,the company touts a new Silicon Valley R&D center.,1.0
+Amazon.com,Company,INVESTED_IN,AI products,Technology,c84c621aab489be45c42::c0000,2023-06-23,Amazon.com is building a program to help customers develop and deploy new kinds of artificial intelligence products.,1.0
+Nvidia,Company,USES,Nvidia chips,Technology,64f859127d105927b7dc::c0000,2023-02-22,"Nvidia CEO said use of Nvidia chips to power artificial intelligence (AI) services like chatbots had '""gone through the roof in the last 60 days.'""",1.0
+Vicki Kaping,Person,WORKED_AT,FCC,Company,2d0bee5d0b438b201e31::c0000,2023-09-26,Any person with disabilities who needs help accessing the content of the FCC Public file should contact Vicki Kaping at vkaping@wdio.com.,1.0
+Mercy Corps,Company,PARTNERED_WITH,Cisco,Company,da8a6d46961d707fdd79::c0000,2023-02-07,Technology for change: Mercy Corps and Cisco’s partnership.,1.0
+CTI,Company,ACQUIRED,Rapid Imaging,Company,42ff0b7292ad18a47818::c0000,2023-04-21,CTI buys defense software provider Rapid Imaging.,1.0
+Toast,Company,DEVELOPED,Restaurant Technology Platform,Technology,ce803a9a40b000ea7218::c0000,2023-06-28,Toast Restaurant Technology Platform Approved for Marriott Select Service Hotels,1.0
+Supantha,Person,LEADS,European Technology and Telecoms coverage,Technology,67fca95e711035bcbe80::c0000,2023-10-04,Supantha leads the European Technology and Telecoms coverage,1.0
+Meta,Company,DEVELOPED,Instagram,Technology,67fca95e711035bcbe80::c0000,2023-10-04,Meta's Instagram Facebook to charge EU users for ad-free service,1.0
+H2O.ai,Company,DEVELOPED,H2O AI Cloud,Technology,5d162210c58b91f6a091::c0000,2023-04-13,H2O.ai today announced the launch of H2O AI Cloud,1.0
+Snowflake,Company,PARTNERED_WITH,H2O AI Cloud,Technology,5d162210c58b91f6a091::c0000,2023-04-13,H2O AI Cloud as a pre-built solution for the Manufacturing Data Cloud launched by Snowflake,1.0
+Raymond Ma,Person,WORKED_AT,Alibaba Cloud,Company,7af33417ae940d9cfdb2::c0000,2023-04-27,written by Raymond Ma in his position as General Manager of Europe at Alibaba Cloud,1.0
+Chad M. Moss M.D.,Person,WORKED_AT,MRMC,Company,7257e95060be3cdcc57c::c0000,2023-08-20,Chad M. Moss M.D. is the first surgeon to perform 1000 procedures at MRMC,1.0
+Microsoft,Company,DEVELOPED,Azure OpenAI Service,Technology,0f5fa36a88eaffbb32a0::c0000,2023-06-09,Microsoft unveils OpenAI service for government customers.,1.0
+Bill Chappell,Person,WORKED_AT,Microsoft,Company,0f5fa36a88eaffbb32a0::c0000,2023-06-09,Bill Chappell chief technology officer for Strategic Missions and Technologies.,1.0
+10Pearls,Company,FOUNDED,2023 Inc. 5000,Technology,de36c717cc81ee6bcf60::c0000,2023-08-17,10Pearls Recognized on the 2023 Inc. 5000 for the 5th Consecutive Year.,1.0
+Turnkey Modular,Company,DEVELOPED,Intelligent Component Design and System Assembly (ICSA),Technology,60dce9069512ceddb9cd::c0000,2023-04-20,Turnkey Modular which has implemented its robust Intelligent Component Design and System Assembly (ICSA) technology,1.0
+Apple,Company,INVESTED_IN,generative AI,Technology,f432d5c9be380e741116::c0000,2023-08-04,Tim Cook says its hefty $22.6 billion research spend is down to generative AI.,1.0
+Toast,Company,PARTNERED_WITH,Marriott International,Company,1d50a4b98b0eab770f10::c0000,2023-06-13,Toast has announced an agreement with Marriott International to make its Toast for Hotel Restaurants technology available,1.0
+Carbyne,Company,PARTNERED_WITH,National Emergency Number Association,Company,a0b14c9c136b5bc3517d::c0000,2023-07-26,survey conducted by the National Emergency Number Association in conjunction with Carbyne,1.0
+Lockheed,Company,DEVELOPED,stealth technology,Technology,5d1df43703396c12c3c2::c0000,2023-03-24,Lockheed noticed it and had Ufimtsev’s works translated into English; Ufimtsev’s work became the basis for modern-day stealth technology.,0.9
+Proton,Company,FOUNDED,2014,Technology,99b7c18a59249f7bef2f::c0000,2023-10-04,Proton which was founded in 2014 in Geneva Switzerland specializes in privacy focused online services.,0.9
+Microsoft,Company,DEVELOPED,ChatGPT,Technology,a6fd2f4f2b976b1b70ab::c0000,2023-02-02,Microsoft on Wednesday announced a new premium messaging service that will be powered by OpenAI’s ChatGPT messaging service.,0.9
+Sruti Bhagavatula,Person,FOUNDED,COMP_SCI 397 497: Data Privacy,Technology,2a1fa41ba9108ffe9582::c0000,2023-02-01,Sruti Bhagavatula launched the department’s first data privacy course — COMP_SCI 397 497: Data Privacy — in winter 2022.,0.9
+Meta,Company,WORKED_AT,Divyanshi Sharma,Person,41a74c6a8d0531abe20a::c0000,2023-04-25,Meta employee loses job after 8 years of service says the Meta employee is looking forward to rest and do nothing.,1.0
+Cadence Design Systems Inc.,Company,PARTNERED_WITH,TSMC,Company,5946714080867357e737::c0000,2023-04-25,Cadence and TSMC Collaborate on N16 79GHz mmWave Design Reference Flow to Accelerate Radar 5G and Wireless Innovation.,1.0
+WiMi,Company,DEVELOPED,silent speech recognition system,Technology,928345c5186572da58fd::c0000,2023-04-25,WiMi Releases A Highly Reliable Silent Speech Recognition System Based on Multi-featured Signal Sensing Technology.,1.0
+Dell,Company,DEVELOPED,APEX File Storage for AWS,Technology,8eb2b5d823c3509ef655::c0000,2023-05-24,Dell is addressing cloud mobility with APEX File Storage for AWS.,1.0
+Gavin Bashar,Person,WORKED_AT,Tunstall Healthcare,Company,e72855a29c0000c4b1a5::c0000,2023-02-08,Gavin Bashar UK Managing Director at Tunstall Healthcare shares insight.,1.0
+Rajnath Singh,Person,LEADS,DIAT,Company,b7a03b6fde5d4dd3697a::c0000,2023-05-15,Defence Minister Rajnath Singh is the Chancellor of the DIAT.,1.0
+Google,Company,DEVELOPED,Gemini,Technology,c833db37ee3c170dc115::c0000,2023-09-15,Google has given a small group of companies access to an early version of Gemini.,1.0
+Diagnal,Company,PARTNERED_WITH,Lounges.tv,Company,0956b2a195e77f7e2e96::c0000,2023-09-27,Diagnal has extended its technology partnership with Lounges.tv.,1.0
+Intel,Company,USES,CPUs,Technology,e7f2d22f750889fd3fb3::c0000,2023-08-20,Researcher detects severe vulnerability on Intel CPUs.,1.0
+Arlene Gaylord,Person,WORKED_AT,FBI,Company,8d62efb25325f2a48c5e::c0000,2023-09-14,Arlene Gaylord Named Executive Assistant Director of FBI’s Information and Technology Branch.,1.0
+Qualcomm,Company,PARTNERED_WITH,MTM Technology,Company,1c487be041f2eb5a5363::c0000,2022-12-02,Qualcomm in Partnership With MTM Technology.,1.0
+Covetrus,Company,DEVELOPED,animal-health technology and services,Technology,b845a00005a57b13c7e5::c0000,2023-01-12,Covetrus is a global animal-health technology and services company dedicated to ...,0.9
+Scan-Optics,Company,PARTNERED_WITH,UKG,Company,c43f8bebf5e19e976491::c0000,2023-01-12,Scan-Optics Expands Technology Partnership with UKG.,0.9
+Jason Snyder,Person,WORKED_AT,Massachusetts,Company,bf2ea1139eacee92b130::c0000,2023-01-06,Jason Snyder is currently the chief technology ...,0.8
+VIQ Solutions,Company,DEVELOPED,cyber-secure AI technology and services platform,Technology,b5c936d4cc0b2abb5f74::c0000,2023-02-08,The cyber-secure AI technology and services platform are implemented in the most rigid security environments.,0.9
+Martin 'Marty' Cooper,Person,FOUNDED,cellphone technology,Technology,bede8fcd09fc195c7f4c::c0000,2023-04-01,father of the cellphone made the first call debuting this new mobile technology to the world in 1973.,0.9
+Information Services Group (ISG),Company,LEADS,2022 HRO Today Superstars,Technology,dbebc61afb1dd03a75b8::c0000,2022-12-20,HRO Today has named two advisors from Information Services Group (ISG) a leading global technology research and advisory firm as 2022 Superstars.,0.8
+Ox Appsec Security Ltd.,Company,DEVELOPED,OX-GPT,Technology,a2743c2dd9542a9e01a2::c0000,2023-05-18,Developer security operations startup Ox Appsec Security Ltd. today announced the launch of OX-GPT a ChatGPT integration.,1.0
+Citizen,Company,USES,NASA technology,Technology,421c516ee721e743833b::c0000,2023-01-06,Citizen's new watch uses NASA technology and AI to determine your fatigue.,1.0
+CereCore,Company,DEVELOPED,healthcare information technology (IT) services,Technology,e41e603c9b2b467c7a45::c0000,2022-12-08,CereCore today announced they are expanding their healthcare information technology (IT) services.,1.0
+Align Technology,Company,LEADS,iTero Scanner and Services Business,Technology,b7521583cea9dd14a154::c0000,2023-02-09,Align Technology Appoints Karim Boussebaa EVP and MD of iTero Scanner and Services Business.,0.9
+Koch Engineered Solutions,Company,PARTNERED_WITH,Percepto,Company,abb04ddf9e1b38f69d69::c0000,2023-02-08,Koch Engineered Solutions and Percepto Join Forces To Bring Cutting-Edge AI and Autonomous Drone Technology to Industrial Customers.,0.9
+Percepto,Company,USES,AI and Autonomous Drone Technology,Technology,abb04ddf9e1b38f69d69::c0000,2023-02-08,Koch Engineered Solutions and Percepto Join Forces To Bring Cutting-Edge AI and Autonomous Drone Technology to Industrial Customers.,0.9
+Savex,Company,PARTNERED_WITH,Accops,Company,a56210874e17e8522808::c0000,2023-01-06,Savex teams up with Accops to deliver channels customers better remote access solutions.,1.0
+MAI,Company,ACQUIRED,WASI,Company,a176e6b4b9e25a1e22b9::c0000,2023-03-14,MAI Acquires Call Center Operator WASI to Bolster MAI Voice Contact Services Division.,1.0
+Truecaller,Company,DEVELOPED,AI-powered call recording feature,Technology,fe3d9529c6adddb2d989::c0000,2023-06-16,Truecaller launched its AI-powered call recording feature starting in the U.S.,1.0
+Kyndryl,Company,DEVELOPED,cybersecurity incident response and forensics service,Technology,a9350bffc64c123dc1be::c0000,2023-06-10,Kyndryl has announced a new cybersecurity incident response and forensics (CSIRF) service,1.0
+Kyndryl,Company,PARTNERED_WITH,AWS,Company,a9350bffc64c123dc1be::c0000,2023-06-10,new threat intelligence collaboration with AWS,1.0
+Newegg,Company,USES,ChatGPT Integration,Technology,ddd3eab4d6535947c59c::c0000,2023-05-17,ChatGPT Integration Powers Newegg’s PC Builder Tool,1.0
+TSMC,Company,DEVELOPED,3DFabric process technology,Technology,b4c5aa0a9de935239b9f::c0000,2023-06-09,TSMC estimates that the fab will be able to produce over one million 12-inch wafer equivalents of 3DFabric process technology.,1.0
+Dell Technologies,Company,WORKED_AT,5% of its global workforce,Technology,9cc988f1ecaac67d310c::c0000,2023-02-06,Dell Technologies is planning to cut around 5% of its global workforce in the latest in the wave of mass layoffs hitting the technology sector.,1.0
+ChatGPT,Technology,USES,natural language,Technology,2f0ed6bc9ee7bb9348dd::c0000,2022-12-19,ChatGPT an AI-powered 'large language' model is poised to change the way high school English teachers do their jobs.,1.0
+Dell Technologies Inc.,Company,DEVELOPED,Dell NativeEdge,Technology,574a610073dca3212ec1::c0000,2023-05-24,the release of Dell NativeEdge.,1.0
+Eva Navarro López,Person,LEADS,School of Information,Technology,a46733ecc0a1c2b0bc4c::c0000,2023-08-08,Eva Navarro López has been named director of the School of Information,1.0
+Microsoft,Company,DEVELOPED,Copilot in Dynamics 365 Field Service,Technology,060079074c76bc41fc07::c0000,2023-08-09,new AI capabilities announcement for Copilot in Dynamics 365 Field Service,1.0
+Virginia Institute of Autism,Company,PARTNERED_WITH,St. Vincent’s Home,Company,b8ffab516010d6356541::c0000,2023-01-11,Virginia Institute of Autism has completed its merger with Roanoke-based St. Vincent’s Home.,1.0
+Pexip,Company,DEVELOPED,Microsoft Teams,Technology,22ce0907166ee1046e07::c0000,2023-06-07,Pexip first to offer certified Microsoft Teams interop for U.S. Department of Defense.,1.0
+Explorex,Company,PARTNERED_WITH,MSWIPE,Company,6613660c098739f11363::c0000,2023-03-06,EXPLOREX PARTNERS WITH MSWIPE TO STREAMLINE PAYMENT SOLUTIONS.,1.0
+US,Company,DEVELOPED,national standards strategy for emerging technologies,Technology,d4b235e5c5ac4e66a7ad::c0000,2023-05-05,The White House released a national standards strategy for emerging technologies.,1.0
+Cheryl Kees Clendenon,Person,WORKED_AT,In Detail Interiors,Company,746a551a652aab1eda0e::c0000,2023-09-19,Cheryl Kees Clendenon is the owner of In Detail Interiors.,1.0
+Founder of Call2Talk,Person,FOUNDED,Call2Talk,Company,4edccf24eb89e3880e44::c0000,2023-05-05,Founder of Framingham-based Call2Talk has been chosen for Lifesaver Leadership Award.,1.0
+Symphony,Company,PARTNERED_WITH,Owensboro Health,Company,822bafc072f12fcae1f4::c0000,2022-12-17,"Symphony and Owensboro Health partnered up for the start of the '""Music on Call'"" program.",1.0
+Andrew Chaoya Li,Person,FOUNDED,TalkBerry,Company,df3d1f3b8db2fc5a854b::c0000,2023-10-31,Andrew Chaoya Li an award-winning designer and tech startup founder.,1.0
+Acer,Company,INVESTED_IN,Russia,Company,2ad8ffcb035862e71178::c0000,2023-06-08,Acer supplied at least $70.4 million worth of computer hardware to Russia.,1.0
+Meta Platforms,Company,WORKED_AT,EU antitrust watchdog,Company,798796b9653b29b661c0::c0000,2023-05-24,Meta Platforms suffered a setback as the EU antitrust watchdog's requests for information were ruled legitimate.,1.0
+3CLogic,Company,DEVELOPED,CTI and Contact Center Solution,Technology,51610231c0a039089cce::c0000,2023-03-21,3CLogic CTI and Contact Center Solution Now Available on SAP® Store.,1.0
+Aware,Company,PARTNERED_WITH,World Wide Technology,Company,2a07c88551ae9582a122::c0000,2023-01-18,Aware announced a partnership with World Wide Technology.,1.0
+Seth Greenberg,Person,WORKED_AT,Veritone,Company,54a228c22538e6ea6801::c0000,2023-01-19,Veritone Appoints Technology Marketing Expert Seth Greenberg as Chief Marketing & Strategy Officer,1.0
+Fleming Meng,Person,WORKED_AT,Veritone,Company,54a228c22538e6ea6801::c0000,2023-01-19,Information Technology Veteran Fleming Meng as Chief Information Officer,1.0
+Newegg Commerce Inc.,Company,DEVELOPED,Acer Predator Helios 300 SpatialLabs™ Edition,Technology,3eff4a2f429bcde3cad2::c0000,2023-01-11,Newegg revealed its high expectations for gaming laptops in 2023. Highlighted among its wide array of gaming laptops is the Acer Predator Helios 300 SpatialLabs™ Edition,1.0
+F5,Company,DEVELOPED,new distributed cloud services,Technology,5cdab4cc88cc72c32c4f::c0000,2023-03-26,F5 offers new distributed cloud services for multicloud connectivity.,1.0
+Vi,Company,PARTNERED_WITH,Truecaller,Company,4ea351c2830a9abbdd2b::c0000,2023-07-13,"Vi has joined hands with Truecaller to make communication with consumers more trusted, safe and reliable.",1.0
+AgencyBloc,Company,ACQUIRED,Radius,Company,ca3f3b016e8b726efa39::c0000,2023-02-01,AgencyBloc Acquires Radius to Provide Enhanced Capabilities for Benefits Brokers.,1.0
+Inseego,Company,PARTNERED_WITH,Pocket Box,Company,f63be20ed2774a93d482::c0000,2023-01-04,Inseego and Pocket Box partnership offers integrated fleet technology.,1.0
+AST Spacemobile,Company,PARTNERED_WITH,Vodafone Raku,Company,b3643a7b4d8a632a27e1::c0000,2023-04-27,This call was made by AST Spacemobile with help from their partners Vodafone Raku.,1.0
+ERANGTEK,Company,DEVELOPED,5G Multiplexer Cavity Filter,Technology,9a2d2cc8991d7bdd562d::c0000,2023-01-09,ERANGTEK Signs MOU on Technology Cooperation and Production to Enter India's 5G Market With 5G Multiplexer Cavity Filter.,1.0
+Emirates Health Services,Company,DEVELOPED,Metaverse based Virtual Telemedicine Solution,Technology,73daf199da46fa182d30::c0000,2022-12-30,The Emirates Health Services (EHS) has launched a Metaverse based Virtual Telemedicine Solution using 3D virtual reality technology.,1.0
+Mood Media,Company,ACQUIRED,Vibenomics,Company,c80755d9645ce24e344f::c0000,2023-03-22,Mood Media expands in-store solutions with acquisition of Vibenomics.,1.0
+Truecaller,Company,DEVELOPED,caller identification service,Technology,ab18f78f18ece0943190::c0000,2023-05-08,Truecaller aims to help WhatsApp users combat spam.,1.0
+Verizon Communications Inc.,Company,FOUNDED,2000,Technology,6bf942a9ffff5b0cb7f6::c0000,2023-07-10,Verizon Communications Inc. was formed on June 30 2000.,1.0
+Hewlett Packard Enterprise,Company,ACQUIRED,Axis Security,Company,325f8db4aaab2eaf00b9::c0000,2023-03-02,Hewlett Packard Enterprise (NYSE: HPE) today announced that it entered into a definitive agreement to acquire Axis Security a cloud security provider.,1.0
+VIQ Solutions,Company,PARTNERED_WITH,JAVS,Company,03be1d3105ef94fe4eae::c0000,2023-06-15,VIQ Solutions Signs Strategic Partnership with JAVS to Modernize Courtroom Documentation Using AI.,1.0
+NetScribe™,Technology,USES,AI algorithms,Technology,03be1d3105ef94fe4eae::c0000,2023-06-15,the technology uses advanced proprietary AI algorithms to produce draft transcripts.,1.0
+FirstDraft™,Technology,USES,AI algorithms,Technology,03be1d3105ef94fe4eae::c0000,2023-06-15,the technology uses advanced proprietary AI algorithms to produce draft transcripts.,1.0
+Fran Thompson,Person,WORKED_AT,HSE,Company,b2ea2c4cc2c769585e19::c0000,2023-01-27,Fran Thompson Chief Information Officer for the HSE.,1.0
+India,Company,DEVELOPED,laptop licensing move,Technology,40c4f5ae19822b147de6::c0000,2023-08-04,India's decision to impose a licensing requirement for imports of laptops.,1.0
+PTC,Company,DEVELOPED,ServiceMax Field Service Management Technology,Technology,814b01181419761e1b67::c0000,2023-05-24,PTC Applauded by Frost & Sullivan for Delivering ServiceMax Field Service Management Technology,1.0
+Ramen Inc.,Company,DEVELOPED,Secure Wireless Network-as-a-Service,Technology,a9439d2c5d632dd19d0a::c0000,2023-05-18,Ramen Unveils Its Secure Wireless Network-As-a-Service,1.0
+Dstny,Company,DEVELOPED,Call2Teams Go,Technology,a8fb4a180eee16346115::c0000,2023-08-15,Dstny launches Call2Teams Go for cost-effective voice integration with Microsoft Teams,1.0
+Ron Gutman,Person,FOUNDED,Trivio,Company,e63843bf15b8106400d3::c0000,2023-10-25,Ron Gutman founder and CEO of digital healthcare platform Trivio,1.0
+Elon Musk,Person,LEADS,X,Company,e23358a050b9d0082016::c0000,2023-10-25,according to chief technology officer and owner Elon Musk,1.0

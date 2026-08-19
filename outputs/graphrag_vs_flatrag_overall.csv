@@ -1,0 +1,6 @@
+Metric,Flat RAG,GraphRAG,Delta (Graph - Flat)
+Comprehensiveness,3.72,3.84,0.12
+Faithfulness,4.12,4.2,0.08
+Multi-hop reasoning,3.72,3.84,0.12
+Latency (s),2.511,2.508,-0.004
+Token usage,768.64,1376.56,607.92
